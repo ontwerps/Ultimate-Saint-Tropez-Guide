@@ -26,4 +26,4 @@
 
 - [x] Run focused and full tests plus validation/build scripts.
 - [x] Inspect generated live-target HTML for all ranked chapters.
-- [ ] Commit, push and verify GitHub Pages deploy.
+- [x] Commit, push and verify GitHub Pages deploy.
