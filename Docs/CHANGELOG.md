@@ -53,3 +53,7 @@ Added a Google Maps Atlas export script and tests. The exporter creates a reprod
 ## v0.13
 
 Added the first hiking route baseline with official-source records for La Croix-Valmer walking context and Fort-Freinet access, plus seed records for Saint-Tropez and protected-caps coastal walks.
+
+## v0.14
+
+Added the first wine baseline with official-source Château Minuty visit details and a clearly marked seed candidate for Château des Marres.

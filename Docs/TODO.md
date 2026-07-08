@@ -11,3 +11,4 @@
 - [ ] Hidden gems (eerste source-backed shortlist toegevoegd; toegang, parking, openingstijden en lokale beoordeling nodig)
 - [ ] Google Maps Atlas (eerste punt-exportscript toegevoegd; meer coordinaten en route/KML-laag nodig)
 - [ ] Hiking research (eerste routebaseline toegevoegd; GPX, officiële routegeometrie en lokale veiligheid nodig)
+- [ ] Wine research (eerste Minuty-baseline toegevoegd; meer domeinen, actuele proefregels en lokale beoordeling nodig)
