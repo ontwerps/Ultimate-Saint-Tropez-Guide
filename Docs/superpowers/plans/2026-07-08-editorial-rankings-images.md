@@ -31,4 +31,4 @@
 
 - [x] Update changelog.
 - [x] Run all tests and build scripts.
-- [ ] Commit, push and verify GitHub Pages.
+- [x] Commit, push and verify GitHub Pages.
