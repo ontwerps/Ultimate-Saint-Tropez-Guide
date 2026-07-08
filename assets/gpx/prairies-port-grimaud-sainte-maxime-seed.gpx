@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Ultimate Saint Tropez Guide" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Prairies de la Mer - Port Grimaud - Sainte-Maxime seed</name>
+    <desc>Seed control-track for research only. Verify exact cycle-path geometry, crossings and surface before publication.</desc>
+  </metadata>
+  <trk>
+    <name>Prairies de la Mer - Port Grimaud - Sainte-Maxime seed</name>
+    <trkseg>
+      <trkpt lat="43.2738" lon="6.5794"><name>Prairies de la Mer</name></trkpt>
+      <trkpt lat="43.2735" lon="6.5815"><name>Port Grimaud</name></trkpt>
+      <trkpt lat="43.2896" lon="6.6038"><name>Beauvallon</name></trkpt>
+      <trkpt lat="43.3083" lon="6.6378"><name>Sainte-Maxime west</name></trkpt>
+      <trkpt lat="43.3092" lon="6.6389"><name>Sainte-Maxime</name></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

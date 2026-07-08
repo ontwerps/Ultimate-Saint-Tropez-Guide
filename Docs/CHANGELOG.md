@@ -37,3 +37,7 @@ Expanded the official-source beach baseline with La Croix-Valmer and Cavalaire-s
 ## v0.9
 
 Added the first source-backed restaurant baseline with primary-source records for Cheval Blanc, La Réserve Ramatuelle and La Tarte Tropézienne, plus clearly marked editorial seeds for later verification.
+
+## v0.10
+
+Added the first local seed GPX route files, cycling route records and validation that local bike-route GPX references exist under `assets/gpx/`.

@@ -99,6 +99,18 @@ class ValidateProjectTests(unittest.TestCase):
 
         self.assertIn("database/bike_routes.csv row 2 has invalid type: Mountain", errors)
 
+    def test_missing_local_bike_route_gpx_is_reported(self):
+        temp_dir, root = self.make_project()
+        self.addCleanup(temp_dir.cleanup)
+        headers = self.validator.EXPECTED_CSV_HEADERS["bike_routes.csv"]
+        row = {header: "" for header in headers}
+        row.update({"id": "route-1", "name": "Test Route", "type": "Trekking", "gpx_file": "missing.gpx"})
+        self.write_csv(root / "database" / "bike_routes.csv", headers, [row])
+
+        errors = self.validator.validate_project(root)
+
+        self.assertIn("database/bike_routes.csv row 2 references missing GPX file: assets/gpx/missing.gpx", errors)
+
     def test_chapter_without_front_matter_status_is_reported(self):
         temp_dir, root = self.make_project()
         self.addCleanup(temp_dir.cleanup)

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Ultimate Saint Tropez Guide" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Gassin - Ramatuelle - Pampelonne loop seed</name>
+    <desc>Seed control-track for research only. Verify road safety, gradients, traffic and turn-by-turn geometry before publication.</desc>
+  </metadata>
+  <trk>
+    <name>Gassin - Ramatuelle - Pampelonne loop seed</name>
+    <trkseg>
+      <trkpt lat="43.2738" lon="6.5794"><name>Prairies de la Mer</name></trkpt>
+      <trkpt lat="43.2284" lon="6.5853"><name>Gassin</name></trkpt>
+      <trkpt lat="43.2167" lon="6.6129"><name>Ramatuelle</name></trkpt>
+      <trkpt lat="43.2264" lon="6.6624"><name>Pampelonne</name></trkpt>
+      <trkpt lat="43.2677" lon="6.6407"><name>Saint-Tropez</name></trkpt>
+      <trkpt lat="43.2738" lon="6.5794"><name>Prairies de la Mer</name></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

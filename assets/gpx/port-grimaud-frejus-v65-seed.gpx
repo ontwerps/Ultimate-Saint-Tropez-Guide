@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Ultimate Saint Tropez Guide" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Port Grimaud - Sainte-Maxime - Fréjus V65 seed</name>
+    <desc>Seed control-track for research only. Verify exact V65 / Parcours Cyclable du Littoral geometry before publication.</desc>
+  </metadata>
+  <trk>
+    <name>Port Grimaud - Sainte-Maxime - Fréjus V65 seed</name>
+    <trkseg>
+      <trkpt lat="43.2735" lon="6.5815"><name>Port Grimaud</name></trkpt>
+      <trkpt lat="43.3092" lon="6.6389"><name>Sainte-Maxime</name></trkpt>
+      <trkpt lat="43.3448" lon="6.6894"><name>Les Issambres</name></trkpt>
+      <trkpt lat="43.3890" lon="6.7259"><name>Saint-Aygulf</name></trkpt>
+      <trkpt lat="43.4327" lon="6.7358"><name>Fréjus</name></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -5,7 +5,7 @@
 - [x] Add project validation
 - [x] Connect GitHub repository
 - [x] Add CSV integrity validation
-- [ ] Import GPX routes
+- [ ] Import GPX routes (eerste seed GPX-bestanden en validatorcontrole toegevoegd; officiële geometrie en lokale verificatie nodig)
 - [ ] Restaurant research (eerste source-backed shortlist toegevoegd; openingstijden, menuprijzen, reserveren en lokale beoordeling nodig)
 - [ ] Beach research (brede officiële inventaris toegevoegd; zwemwaterdetails, parkeertarieven en lokale beoordeling nodig)
 - [ ] Hidden gems

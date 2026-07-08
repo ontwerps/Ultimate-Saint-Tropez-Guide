@@ -154,6 +154,7 @@ def validate_csv_files(root):
 
             if filename == "bike_routes.csv":
                 errors.extend(validate_bike_route_types(relative_path, rows))
+                errors.extend(validate_bike_route_gpx_files(root, relative_path, rows))
     return errors
 
 
@@ -208,6 +209,18 @@ def validate_bike_route_types(relative_path, rows):
         route_type = row.get("type", "")
         if route_type and route_type not in VALID_BIKE_TYPES:
             errors.append(f"{relative_path} row {row_number} has invalid type: {route_type}")
+    return errors
+
+
+def validate_bike_route_gpx_files(root, relative_path, rows):
+    errors = []
+    for row_number, row in enumerate(rows, start=2):
+        gpx_file = row.get("gpx_file", "").strip()
+        if not gpx_file or "://" in gpx_file:
+            continue
+        asset_path = Path("assets") / "gpx" / gpx_file
+        if not (root / asset_path).is_file():
+            errors.append(f"{relative_path} row {row_number} references missing GPX file: {asset_path}")
     return errors
 
 
