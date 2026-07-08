@@ -24,8 +24,13 @@ class BuildSiteTests(unittest.TestCase):
         (root / "chapters").mkdir()
         (root / "database").mkdir()
         (root / "Docs").mkdir()
+        (root / "assets" / "images" / "chapters").mkdir(parents=True)
         (root / "translations" / "en" / "chapters").mkdir(parents=True)
         (root / "translations" / "fr" / "chapters").mkdir(parents=True)
+        (root / "assets" / "images" / "chapters" / "00-start.svg").write_text(
+            '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect width="1200" height="600" fill="#0f766e"/></svg>',
+            encoding="utf-8",
+        )
         return temp_dir, root
 
     def write_chapter(self, path, title, chapter, body, status="concept"):
@@ -79,9 +84,19 @@ class BuildSiteTests(unittest.TestCase):
         self.assertIn('href="chapters/00-start.html"', (output_dir / "index.html").read_text(encoding="utf-8"))
         self.assertIn("preview", (output_dir / "index.html").read_text(encoding="utf-8"))
         self.assertNotIn(" - draft", (output_dir / "index.html").read_text(encoding="utf-8"))
+        index_html = (output_dir / "index.html").read_text(encoding="utf-8")
+        self.assertIn("Nr. 1 contender", index_html)
+        self.assertIn("Top 10", index_html)
+        self.assertIn("★★★★★", index_html)
+        self.assertIn("€€", index_html)
+        self.assertIn("Guide review", index_html)
+        self.assertIn('<img src="assets/images/chapters/03-saint-tropez.svg"', index_html)
         chapter_html = (output_dir / "chapters" / "01-next.html").read_text(encoding="utf-8")
         self.assertIn("<li>A</li>", chapter_html)
         self.assertIn('href="../index.html"', chapter_html)
+        start_chapter_html = (output_dir / "chapters" / "00-start.html").read_text(encoding="utf-8")
+        self.assertIn('<img src="../assets/images/chapters/00-start.svg"', start_chapter_html)
+        self.assertTrue((output_dir / "assets" / "images" / "chapters" / "00-start.svg").is_file())
         english_index = (output_dir / "en" / "index.html").read_text(encoding="utf-8")
         french_chapter = (output_dir / "fr" / "chapters" / "00-start.html").read_text(encoding="utf-8")
         self.assertIn("Welcome.", (output_dir / "en" / "chapters" / "00-start.html").read_text(encoding="utf-8"))

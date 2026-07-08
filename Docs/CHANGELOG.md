@@ -77,3 +77,7 @@ Reworked visible chapter placeholders into reader-facing draft copy, added Engli
 ## v0.19
 
 Expanded the guide chapters with richer local planning content, including day rhythms, beach profiles, village comparisons, route profiles, restaurant use-cases, wine guidance, hidden-gem profiles, map-layer strategy and concierge itineraries across Dutch, English and French.
+
+## v0.20
+
+Added editorial winner guidance, Top 10 recommendations, guide star ratings, price bands, review-style notes and local chapter hero image assets for the multilingual GitHub Pages guide.
