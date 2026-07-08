@@ -33,3 +33,7 @@ Expanded the Sainte-Maxime beach inventory from official tourism sources.
 Added CSV integrity checks for duplicate IDs, source references and research statuses.
 
 Expanded the official-source beach baseline with La Croix-Valmer and Cavalaire-sur-Mer beach records.
+
+## v0.9
+
+Added the first source-backed restaurant baseline with primary-source records for Cheval Blanc, La Réserve Ramatuelle and La Tarte Tropézienne, plus clearly marked editorial seeds for later verification.
