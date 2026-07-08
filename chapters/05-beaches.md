@@ -36,6 +36,9 @@ Deze eerste shortlist is bedoeld als onderzoeksbasis, niet als definitieve aanbe
 - Plage des Canebiers, Saint-Tropez
 - Plage des Salins, Saint-Tropez
 - Plage de la Nartelle, Sainte-Maxime
+- Plage de l'Escalet, Ramatuelle
+- Anse de Bonne Terrasse, Ramatuelle
+- Plage de la Douane, Ramatuelle
 
 ## Bronstatus
 
@@ -56,6 +59,7 @@ Voor publicatie zijn minimaal nodig:
 - Saint-Tropez bevestigt voor 2026 bewaking op Bouillabaisse, Canebiers en Salins van 16 juni t/m 15 september, dagelijks 10:00-18:30.
 - Sainte-Maxime bevestigt La Nartelle als lang zandstrand ten oosten van de stad, met vrije toegang, parking, toiletten, restaurants, watersport en strandbewaking in de zomerperiode.
 - Ramatuelle Tourisme bevestigt Pampelonne als 4,5 km fijn zand op de gemeente Ramatuelle, met circa twintig strandetablissementen en nautische activiteiten in seizoen.
+- Ramatuelle Tourisme bevestigt Escalet als familiestrand van circa 350 meter tussen Cap Camarat en Cap Taillat, Bonne Terrasse als niet-bewaakte anse aan de zuidkant van Pampelonne en Douane als niet-bewaakt strand bij Cap Taillat.
 
 ## Praktische segmenten
 
@@ -63,7 +67,7 @@ Voor publicatie zijn minimaal nodig:
 - Grote stranddag met voorzieningen: Pampelonne.
 - Kleiner en praktischer vanuit Gassin: La Moune.
 - Noordkant van de golf: La Nartelle.
-- Nog toe te voegen voor Ramatuelle: Escalet, Bonne Terrasse en Douane, op basis van officiële toeristische bron maar pas na aparte databasecontrole.
+- Ramatuelle met meer natuurgevoel: Escalet, Bonne Terrasse, Douane.
 
 ## Persoonlijke aanbeveling
 

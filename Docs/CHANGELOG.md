@@ -19,3 +19,7 @@ Connected the local project to the GitHub repository and added the first source-
 ## v0.5
 
 Added official-source beach verification for Pampelonne, La Nartelle and 2026 Saint-Tropez beach surveillance.
+
+## v0.6
+
+Added official Ramatuelle beach records for Escalet, Bonne Terrasse and Douane.
