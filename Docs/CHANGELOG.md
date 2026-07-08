@@ -65,3 +65,7 @@ Expanded the practical base chapters for Prairies de la Mer, Port Grimaud, Saint
 ## v0.16
 
 Added a reproducible readiness audit script and final check document, then closed the initial desk-research baselines while preserving publication and field-verification work separately.
+
+## v0.17
+
+Added a reproducible static website build and GitHub Pages workflow so the guide can be reviewed as a hosted book preview from the repository source.

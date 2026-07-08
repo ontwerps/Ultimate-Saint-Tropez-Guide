@@ -29,4 +29,14 @@ python3 scripts/validate_project.py
 
 The validator checks required folders, CSV headers, duplicate CSV IDs, unknown source references, allowed research statuses, cycling route categories, local bike-route GPX file references and chapter front matter.
 
+## Website Preview
+
+Build the static book locally:
+
+```bash
+python3 scripts/build_site.py
+```
+
+The generated site is written to `_site/`. GitHub Pages uses `.github/workflows/pages.yml` to rebuild that same site after pushes to `main`.
+
 See PROJECT.md first.
