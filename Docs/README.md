@@ -27,4 +27,6 @@ Run this before committing content changes:
 python3 scripts/validate_project.py
 ```
 
+The validator checks required folders, CSV headers, duplicate CSV IDs, unknown source references, allowed research statuses, cycling route categories and chapter front matter.
+
 See PROJECT.md first.

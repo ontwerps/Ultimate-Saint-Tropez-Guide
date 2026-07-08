@@ -4,7 +4,7 @@ Automation scripts will live here once generation starts.
 
 ## Available Scripts
 
-- `validate_project.py`: validates required folders, CSV headers, cycling route categories and chapter front matter.
+- `validate_project.py`: validates required folders, CSV headers, duplicate CSV IDs, source references, research statuses, cycling route categories and chapter front matter.
 
 ## Likely Future Scripts
 

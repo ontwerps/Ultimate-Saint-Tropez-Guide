@@ -111,7 +111,49 @@ class ValidateProjectTests(unittest.TestCase):
 
         self.assertIn("chapters/00-preparation.md missing front matter field: status", errors)
 
+    def test_unknown_source_reference_is_reported(self):
+        temp_dir, root = self.make_project()
+        self.addCleanup(temp_dir.cleanup)
+        self.write_csv(
+            root / "database" / "sources.csv",
+            self.validator.EXPECTED_CSV_HEADERS["sources.csv"],
+            [{"id": "src-known", "title": "Known", "publisher": "Publisher", "url": "https://example.com", "accessed_at": "2026-07-08", "notes": ""}],
+        )
+        headers = self.validator.EXPECTED_CSV_HEADERS["beaches.csv"]
+        row = {header: "" for header in headers}
+        row.update({"id": "plage-test", "name": "Test Beach", "source": "src-known;src-missing", "status": "official_partial_verification"})
+        self.write_csv(root / "database" / "beaches.csv", headers, [row])
+
+        errors = self.validator.validate_project(root)
+
+        self.assertIn("database/beaches.csv row 2 references unknown source: src-missing", errors)
+
+    def test_invalid_research_status_is_reported(self):
+        temp_dir, root = self.make_project()
+        self.addCleanup(temp_dir.cleanup)
+        headers = self.validator.EXPECTED_CSV_HEADERS["beaches.csv"]
+        row = {header: "" for header in headers}
+        row.update({"id": "plage-test", "name": "Test Beach", "status": "ready"})
+        self.write_csv(root / "database" / "beaches.csv", headers, [row])
+
+        errors = self.validator.validate_project(root)
+
+        self.assertIn("database/beaches.csv row 2 has invalid status: ready", errors)
+
+    def test_duplicate_csv_id_is_reported(self):
+        temp_dir, root = self.make_project()
+        self.addCleanup(temp_dir.cleanup)
+        headers = self.validator.EXPECTED_CSV_HEADERS["beaches.csv"]
+        first = {header: "" for header in headers}
+        first.update({"id": "plage-test", "name": "First", "status": "seed_needs_official_verification"})
+        second = {header: "" for header in headers}
+        second.update({"id": "plage-test", "name": "Second", "status": "seed_needs_official_verification"})
+        self.write_csv(root / "database" / "beaches.csv", headers, [first, second])
+
+        errors = self.validator.validate_project(root)
+
+        self.assertIn("database/beaches.csv row 3 duplicates id from row 2: plage-test", errors)
+
 
 if __name__ == "__main__":
     unittest.main()
-

@@ -27,3 +27,9 @@ Added official Ramatuelle beach records for Escalet, Bonne Terrasse and Douane.
 ## v0.7
 
 Expanded the Sainte-Maxime beach inventory from official tourism sources.
+
+## v0.8
+
+Added CSV integrity checks for duplicate IDs, source references and research statuses.
+
+Expanded the official-source beach baseline with La Croix-Valmer and Cavalaire-sur-Mer beach records.

@@ -101,6 +101,13 @@ EXPECTED_CSV_HEADERS = {
 }
 
 VALID_BIKE_TYPES = {"Trekking", "Race", "Gravel", "E-bike"}
+VALID_RESEARCH_STATUSES = {
+    "seed_needs_official_verification",
+    "official_partial_verification",
+    "verified",
+    "draft",
+    "concept",
+}
 REQUIRED_FRONT_MATTER_FIELDS = ["title", "chapter", "status"]
 
 
@@ -124,6 +131,7 @@ def validate_directories(root):
 def validate_csv_files(root):
     errors = []
     database_dir = root / "database"
+    source_ids = load_source_ids(database_dir / "sources.csv")
     for filename, expected_headers in EXPECTED_CSV_HEADERS.items():
         path = database_dir / filename
         relative_path = path.relative_to(root)
@@ -139,8 +147,58 @@ def validate_csv_files(root):
                 errors.append(f"{relative_path} has unexpected headers: {joined_headers}")
                 continue
 
+            rows = list(reader)
+            errors.extend(validate_unique_ids(relative_path, rows))
+            errors.extend(validate_statuses(relative_path, rows))
+            errors.extend(validate_source_references(relative_path, rows, source_ids))
+
             if filename == "bike_routes.csv":
-                errors.extend(validate_bike_route_types(relative_path, reader))
+                errors.extend(validate_bike_route_types(relative_path, rows))
+    return errors
+
+
+def load_source_ids(path):
+    if not path.is_file():
+        return set()
+
+    with path.open(newline="", encoding="utf-8") as handle:
+        reader = csv.DictReader(handle)
+        return {row["id"] for row in reader if row.get("id")}
+
+
+def validate_unique_ids(relative_path, rows):
+    errors = []
+    seen = {}
+    for row_number, row in enumerate(rows, start=2):
+        row_id = row.get("id", "")
+        if not row_id:
+            continue
+        if row_id in seen:
+            errors.append(f"{relative_path} row {row_number} duplicates id from row {seen[row_id]}: {row_id}")
+        else:
+            seen[row_id] = row_number
+    return errors
+
+
+def validate_statuses(relative_path, rows):
+    errors = []
+    for row_number, row in enumerate(rows, start=2):
+        status = row.get("status", "")
+        if status and status not in VALID_RESEARCH_STATUSES:
+            errors.append(f"{relative_path} row {row_number} has invalid status: {status}")
+    return errors
+
+
+def validate_source_references(relative_path, rows, source_ids):
+    errors = []
+    for row_number, row in enumerate(rows, start=2):
+        source_value = row.get("source", "")
+        if not source_value:
+            continue
+        for source_id in source_value.split(";"):
+            source_id = source_id.strip()
+            if source_id and source_id not in source_ids:
+                errors.append(f"{relative_path} row {row_number} references unknown source: {source_id}")
     return errors
 
 
@@ -215,4 +273,3 @@ def main(argv=None):
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
