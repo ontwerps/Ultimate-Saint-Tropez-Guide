@@ -23,3 +23,7 @@ Added official-source beach verification for Pampelonne, La Nartelle and 2026 Sa
 ## v0.6
 
 Added official Ramatuelle beach records for Escalet, Bonne Terrasse and Douane.
+
+## v0.7
+
+Expanded the Sainte-Maxime beach inventory from official tourism sources.
