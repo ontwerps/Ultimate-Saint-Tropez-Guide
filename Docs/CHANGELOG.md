@@ -57,3 +57,7 @@ Added the first hiking route baseline with official-source records for La Croix-
 ## v0.14
 
 Added the first wine baseline with official-source Château Minuty visit details and a clearly marked seed candidate for Château des Marres.
+
+## v0.15
+
+Expanded the practical base chapters for Prairies de la Mer, Port Grimaud, Saint-Tropez and villages, and added first place records for the key village/old-town anchors.

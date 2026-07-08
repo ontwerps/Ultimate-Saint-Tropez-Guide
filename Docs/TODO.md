@@ -12,3 +12,4 @@
 - [ ] Google Maps Atlas (eerste punt-exportscript toegevoegd; meer coordinaten en route/KML-laag nodig)
 - [ ] Hiking research (eerste routebaseline toegevoegd; GPX, officiële routegeometrie en lokale veiligheid nodig)
 - [ ] Wine research (eerste Minuty-baseline toegevoegd; meer domeinen, actuele proefregels en lokale beoordeling nodig)
+- [ ] Base chapters (Prairies, Port Grimaud, Saint-Tropez en dorpen hebben eerste praktische structuur; parking en lokale beoordeling nodig)
