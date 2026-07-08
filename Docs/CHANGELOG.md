@@ -61,3 +61,7 @@ Added the first wine baseline with official-source Château Minuty visit details
 ## v0.15
 
 Expanded the practical base chapters for Prairies de la Mer, Port Grimaud, Saint-Tropez and villages, and added first place records for the key village/old-town anchors.
+
+## v0.16
+
+Added a reproducible readiness audit script and final check document, then closed the initial desk-research baselines while preserving publication and field-verification work separately.

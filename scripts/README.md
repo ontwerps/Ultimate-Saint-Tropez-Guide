@@ -6,6 +6,7 @@ Automation scripts will live here once generation starts.
 
 - `validate_project.py`: validates required folders, CSV headers, duplicate CSV IDs, source references, research statuses, cycling route categories, local bike-route GPX file references and chapter front matter.
 - `export_google_maps.py`: generates `output/google_maps_atlas.csv` from geocoded places, beaches and restaurants.
+- `audit_readiness.py`: generates `output/readiness_audit.md` with status counts, mapped-record counts and per-file readiness totals.
 
 ## Likely Future Scripts
 
