@@ -49,3 +49,7 @@ Added the first hidden-gems baseline with primary-source records for Domaine du 
 ## v0.12
 
 Added a Google Maps Atlas export script and tests. The exporter creates a reproducible `output/google_maps_atlas.csv` from geocoded places, beaches and restaurants while leaving generated output out of Git.
+
+## v0.13
+
+Added the first hiking route baseline with official-source records for La Croix-Valmer walking context and Fort-Freinet access, plus seed records for Saint-Tropez and protected-caps coastal walks.
