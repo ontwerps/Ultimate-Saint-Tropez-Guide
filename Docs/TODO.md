@@ -6,6 +6,6 @@
 - [x] Connect GitHub repository
 - [ ] Import GPX routes
 - [ ] Restaurant research
-- [ ] Beach research (eerste shortlist toegevoegd; officiële controle nodig)
+- [ ] Beach research (eerste shortlist en eerste officiële controles toegevoegd; zwemwater/parking/lokale beoordeling nodig)
 - [ ] Hidden gems
 - [ ] Google Maps Atlas

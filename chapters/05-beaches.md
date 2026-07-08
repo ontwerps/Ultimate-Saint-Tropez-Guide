@@ -27,7 +27,7 @@ Alle stranddata hoort in `database/beaches.csv`, zodat PDF, website en kaart lat
 
 ## Eerste shortlist
 
-Deze eerste shortlist is bedoeld als onderzoeksbasis, niet als definitieve aanbeveling:
+Deze eerste shortlist is bedoeld als onderzoeksbasis, niet als definitieve aanbeveling. Enkele records zijn inmiddels gedeeltelijk met officiële bronnen verrijkt:
 
 - Plage de Pampelonne, Ramatuelle
 - Plage de la Bouillabaisse, Saint-Tropez / Gassin
@@ -39,12 +39,23 @@ Deze eerste shortlist is bedoeld als onderzoeksbasis, niet als definitieve aanbe
 
 ## Bronstatus
 
-De eerste records in `database/beaches.csv` hebben de status `seed_needs_official_verification`. Ze mogen nog niet als definitieve gidsinformatie worden gebruikt. Voor publicatie zijn minimaal nodig:
+De eerste records in `database/beaches.csv` gebruiken twee onderzoeksstatussen:
+
+- `seed_needs_official_verification`: alleen startbron of onvoldoende officiële bevestiging.
+- `official_partial_verification`: enkele feiten zijn bevestigd door gemeente of officieel toerisme, maar het record is nog niet publicatieklaar.
+
+Voor publicatie zijn minimaal nodig:
 
 - Officiële zwemwatercontrole per strand.
 - Actuele parkeerinformatie en tarieven.
 - Seizoensinformatie over bewaking, toiletten, douches en strandclubs.
 - Lokale beoordeling van drukte, sfeer, snorkelen en beste tijdstip.
+
+## Officieel bevestigd in deze ronde
+
+- Saint-Tropez bevestigt voor 2026 bewaking op Bouillabaisse, Canebiers en Salins van 16 juni t/m 15 september, dagelijks 10:00-18:30.
+- Sainte-Maxime bevestigt La Nartelle als lang zandstrand ten oosten van de stad, met vrije toegang, parking, toiletten, restaurants, watersport en strandbewaking in de zomerperiode.
+- Ramatuelle Tourisme bevestigt Pampelonne als 4,5 km fijn zand op de gemeente Ramatuelle, met circa twintig strandetablissementen en nautische activiteiten in seizoen.
 
 ## Praktische segmenten
 
@@ -52,6 +63,7 @@ De eerste records in `database/beaches.csv` hebben de status `seed_needs_officia
 - Grote stranddag met voorzieningen: Pampelonne.
 - Kleiner en praktischer vanuit Gassin: La Moune.
 - Noordkant van de golf: La Nartelle.
+- Nog toe te voegen voor Ramatuelle: Escalet, Bonne Terrasse en Douane, op basis van officiële toeristische bron maar pas na aparte databasecontrole.
 
 ## Persoonlijke aanbeveling
 

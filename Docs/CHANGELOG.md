@@ -15,3 +15,7 @@ Added project validation script and tests for required folders, CSV headers, cyc
 ## v0.4
 
 Connected the local project to the GitHub repository and added the first source-tracked beach research seed.
+
+## v0.5
+
+Added official-source beach verification for Pampelonne, La Nartelle and 2026 Saint-Tropez beach surveillance.
