@@ -53,3 +53,13 @@ Make Saint-Tropez smaller. One walk, one good stop and one clear arrival strateg
 ## Personal Score
 
 Preliminary guide value: very high with early or well-planned arrival; low with traffic, heat and improvised parking.
+
+## What locals say
+
+- Graniers, below the citadel, is the Tropezians' family beach: morning swim, then coffee in the old town.
+- The old port is theatre; locals drink their coffee on the Place des Lices and play pétanque under the plane trees in the evening.
+- Local consensus on the front row of restaurants at the old port: expensive and mediocre. One street inland, towards La Ponche, it gets better and calmer.
+- Market days are Tuesday and Saturday; residents come early and are done by 10am.
+- The town's free evening show: the walk along the harbour wall at sunset, when the big yachts come in.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

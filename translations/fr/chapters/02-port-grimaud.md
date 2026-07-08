@@ -53,3 +53,12 @@ Venez tôt, choisissez une seule boucle et partez avant que la visite ne devienn
 ## Score personnel
 
 Valeur provisoire: élevée pour une demi-journée, les photos et la marche facile; plus faible pour qui cherche le silence ou l'expérience très locale.
+
+## Ce que disent les locaux
+
+- Les excursionnistes occupent la cité lacustre entre 10h et 18h ; les habitants s'y promènent avant 9h ou après 19h, quand les canaux prennent leurs plus belles couleurs.
+- Le clocher de l'église Saint-François-d'Assise reste, pour quelques euros, le meilleur point de vue sur le village et le golfe.
+- Port Grimaud a été conçu pour être vu depuis l'eau : louez un bateau électrique ou prenez le coche d'eau plutôt que de longer seulement les quais.
+- Les matinées de marché sur la Place du Marché sont animées mais chargées ; combinez-les avec un café matinal à la marina.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

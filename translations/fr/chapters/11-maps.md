@@ -42,3 +42,12 @@ Les lieux doivent montrer villages, points de vue, patrimoine et domaines. Les p
 ## Usage mobile
 
 La carte mobile doit répondre vite: qu'est-ce qui est proche de ma base, qu'est-ce qui convient à ce moment de la journée, et quels lieux demandent réservation, parking ou contrôle de sécurité?
+
+## Ce que disent les locaux
+
+- L'été, ajoutez une couche pour la carte quotidienne d'accès aux massifs du Var (risque incendie) : elle décide si randonnées et sorties gravel sont même autorisées.
+- Créez une couche jours de marché : Place des Lices mar+sam, Cogolin mer+sam, La Garde-Freinet toute l'année - les habitants y calent courses et visites de villages.
+- Traitez les navettes maritimes du golfe comme des « routes » sur la carte : en saison, elles battent la D559.
+- Une couche fontaines et points d'eau par village vaut plus ici, pour cyclistes et marcheurs, qu'une couche restaurants.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

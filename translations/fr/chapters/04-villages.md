@@ -53,3 +53,12 @@ Planifiez les villages autour de la lumière. Gassin ou Ramatuelle en fin d'apr�
 ## Recommandation personnelle
 
 Valeur provisoire: élevée comme couche calme et panoramique entre deux journées de plage.
+
+## Ce que disent les locaux
+
+- Les habitants visitent les villages perchés en fin de journée : Gassin au coucher du soleil, Ramatuelle pour dîner, une fois les bus de la journée partis.
+- Beaucoup d'habitants du golfe appellent La Garde-Freinet « le vrai village » : vivant toute l'année, son propre marché et la pression touristique la plus faible.
+- Cogolin est un village d'artisans (pipes et anches pour instruments à vent) avec l'un des marchés les plus authentiques du golfe (mercredi et samedi).
+- Combinez le village de Grimaud avec le vallon du Pont des Fées : le sentier de l'aqueduc est la balade locale que les excursionnistes manquent.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

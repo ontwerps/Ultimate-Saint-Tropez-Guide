@@ -113,3 +113,12 @@ Gebruik goedkope en luxe adressen niet door elkaar op dezelfde dag zonder doel. 
 ## Persoonlijke aanbeveling
 
 Voorlopige gidswaarde: boek La Vague d'Or of La Voile alleen als de avond zelf de bestemming is. Kies La Réserve à La Plage, La Muña of Le Club 55 voor luxe lunchcontext, maar controleer reservering en logistiek. Gebruik La Tarte Tropézienne als lage-drempelige Saint-Tropez stop; behandel Sénéquier en Monsieur Dior als scene-adressen totdat actuele ervaring, prijs en service zijn beoordeeld.
+
+## Wat locals zeggen
+
+- Lokale consensus: vermijd de eerste rij aan de oude haven van Saint-Tropez; prijs-kwaliteit wordt beter zodra je één straat naar binnen loopt of naar Cogolin en Grimaud rijdt.
+- De lunchformule is in dure zaken de beste deal; locals eten hun grote maaltijd tussen de middag.
+- Adressen die lokale gidsen al jaren noemen: Au Caprice des Deux (oud lokaal favoriet in Saint-Tropez) en, in Grimaud, informele plekken als foodtruck L'Ephémère met petanquebanen.
+- In juli en augustus zonder reservering aankomen betekent nee horen; bewoners bellen dagen vooruit, ook voor 'gewone' zaken.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

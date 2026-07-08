@@ -619,36 +619,69 @@ CHAPTER_RANKINGS = {
     ],
     "07-cycling": [
         {
-            "title": "Prairies de la Mer - Port Grimaud - Sainte-Maxime",
-            "rating": 4,
+            "title": "Collebasse loop (race, 40 km / 450 m)",
+            "rating": 5,
             "price": "€",
-            "best_for": {"nl": "eerste fietstocht", "en": "first ride", "fr": "première sortie vélo"},
+            "best_for": {"nl": "mooiste racedag", "en": "best road-bike day", "fr": "plus belle sortie route"},
             "review": {
-                "nl": "Beste instaproute door afstand, kustlijn en koffiestops.",
-                "en": "Best entry route because distance, coast and coffee stops line up.",
-                "fr": "Meilleure entrée grâce à la distance, la côte et les pauses café.",
+                "nl": "Dé lokale trainingslus: Collebasse in de schaduw, zee-uitzicht en Ramatuelle als koffiestop.",
+                "en": "The local training loop: shaded Collebasse, sea views and Ramatuelle for coffee.",
+                "fr": "La boucle d'entraînement locale : Collebasse à l'ombre, vue mer, café à Ramatuelle.",
             },
         },
         {
-            "title": "Gassin - Ramatuelle - Pampelonne loop",
-            "rating": 4,
+            "title": "Corniche des Maures - Col du Canadel (race, 55 km / 700 m)",
+            "rating": 5,
             "price": "€",
-            "best_for": {"nl": "sportief uitzicht", "en": "sporty views", "fr": "vue sportive"},
+            "best_for": {"nl": "kustpanorama", "en": "coastal panorama", "fr": "panorama côtier"},
             "review": {
-                "nl": "Mooiste sportieve lus, maar alleen buiten hitte en piekverkeer.",
-                "en": "Best sporty loop, but only outside heat and peak traffic.",
-                "fr": "Meilleure boucle sportive, hors chaleur et trafic de pointe.",
+                "nl": "Het mooiste balkon boven de Middellandse Zee; vroeg rijden buiten piekverkeer.",
+                "en": "The finest balcony above the Mediterranean; ride early outside peak traffic.",
+                "fr": "Le plus beau balcon sur la Méditerranée ; partir tôt hors trafic de pointe.",
             },
         },
         {
-            "title": "Port Grimaud - Fréjus V65 seed",
-            "rating": 3,
+            "title": "Piste des Crêtes - La Garde-Freinet (gravel, 35 km / 750 m)",
+            "rating": 5,
             "price": "€",
-            "best_for": {"nl": "langere verkenning", "en": "longer scouting ride", "fr": "sortie de repérage longue"},
+            "best_for": {"nl": "gravel-signatuurrit", "en": "signature gravel ride", "fr": "sortie gravel signature"},
             "review": {
-                "nl": "Interessant als onderzoeksroute; check discontinuïteiten en drukte eerst.",
-                "en": "Interesting as a research route; check gaps and traffic first.",
-                "fr": "Intéressant comme route de recherche; vérifier coupures et trafic.",
+                "nl": "De kamlijn van de Maures is de rit waar lokale gravelrijders mee thuiskomen; check zomers de massiftoegang.",
+                "en": "The Maures ridge is the ride local gravel riders swear by; check summer massif access.",
+                "fr": "La crête des Maures est la sortie fétiche des gravellistes locaux ; vérifier l'accès aux massifs l'été.",
+            },
+        },
+        {
+            "title": "Kustfietspad V65 naar Sainte-Maxime (gewone fiets, 23 km / 50 m)",
+            "rating": 5,
+            "price": "€",
+            "best_for": {"nl": "gezinnen en eerste rit", "en": "families and first ride", "fr": "familles et première sortie"},
+            "review": {
+                "nl": "Veiligste en makkelijkste rit van de golf over de oude spoorlijn; wel druk met wandelaars.",
+                "en": "Safest, easiest ride in the gulf along the old railway line; busy with walkers though.",
+                "fr": "La sortie la plus sûre et facile du golfe sur l'ancienne voie ferrée ; fréquentée par les piétons.",
+            },
+        },
+        {
+            "title": "Boucle des Maures (race, 100 km / 1.600 m)",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "koninginnenrit", "en": "queen stage", "fr": "étape reine"},
+            "review": {
+                "nl": "Babaou, Collobrières en Taillude: stil, lang en alleen voor getrainde benen met waterplan.",
+                "en": "Babaou, Collobrières and Taillude: silent, long, for trained legs with a water plan.",
+                "fr": "Babaou, Collobrières et Taillude : silencieux, long, pour jambes entraînées avec plan d'eau.",
+            },
+        },
+        {
+            "title": "Rondje presqu'île (race, 45 km / 500 m)",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "kapen en stranden", "en": "capes and beaches", "fr": "caps et plages"},
+            "review": {
+                "nl": "Salins, Pampelonne en l'Escalet in één lus; alleen vroeg starten in het seizoen.",
+                "en": "Salins, Pampelonne and l'Escalet in one loop; early starts only in season.",
+                "fr": "Les Salins, Pampelonne et l'Escalet en une boucle ; départ matinal obligatoire en saison.",
             },
         },
     ],
@@ -888,7 +921,13 @@ def render_markdown(markdown):
     paragraph = []
     list_items = []
     code_lines = []
+    table_lines = []
     in_code = False
+
+    def flush_table():
+        if table_lines:
+            blocks.append(render_table(table_lines))
+            table_lines.clear()
 
     def flush_paragraph():
         if paragraph:
@@ -924,6 +963,13 @@ def render_markdown(markdown):
             code_lines.append(raw_line)
             continue
 
+        if line.startswith("|") and line.endswith("|"):
+            flush_paragraph()
+            flush_list()
+            table_lines.append(line)
+            continue
+        flush_table()
+
         if not line:
             flush_paragraph()
             flush_list()
@@ -947,10 +993,29 @@ def render_markdown(markdown):
 
     flush_paragraph()
     flush_list()
+    flush_table()
     if in_code:
         flush_code()
 
     return "\n".join(blocks)
+
+
+def render_table(table_lines):
+    def split_row(line):
+        return [cell.strip() for cell in line.strip().strip("|").split("|")]
+
+    rows = [split_row(line) for line in table_lines]
+    body_rows = [row for row in rows[1:] if not all(re.fullmatch(r":?-{3,}:?", cell or "") for cell in row)]
+    header_html = "".join(f"<th>{inline_markdown(cell)}</th>" for cell in rows[0])
+    body_html = "\n".join(
+        "<tr>" + "".join(f"<td>{inline_markdown(cell)}</td>" for cell in row) + "</tr>"
+        for row in body_rows
+    )
+    return (
+        '<div class="table-wrap"><table class="md-table">'
+        f"<thead><tr>{header_html}</tr></thead>"
+        f"<tbody>\n{body_html}\n</tbody></table></div>"
+    )
 
 
 def relative_prefix(depth):
@@ -1319,6 +1384,24 @@ def page_shell(title, body, lang="nl", depth=0, page_kind="index", output_name=N
     }}
     .table-wrap {{
       overflow-x: auto;
+    }}
+    .md-table {{
+      border-collapse: collapse;
+      margin: 18px 0;
+      min-width: 640px;
+      width: 100%;
+    }}
+    .md-table th,
+    .md-table td {{
+      border-top: 1px solid var(--line);
+      padding: 10px;
+      text-align: left;
+      vertical-align: top;
+    }}
+    .md-table thead th {{
+      color: var(--muted);
+      font-size: 0.85rem;
+      text-transform: uppercase;
     }}
     .chapter-ranking table {{
       border-collapse: collapse;

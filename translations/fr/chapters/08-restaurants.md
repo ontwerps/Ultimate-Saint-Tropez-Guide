@@ -43,3 +43,12 @@ Réservez tôt les soirées gastronomiques et déjeuners de Pampelonne. Demandez
 ## Recommandation personnelle
 
 Réservez La Vague d'Or ou La Voile seulement si la soirée elle-même est la destination. Utilisez La Tarte Tropézienne comme arrêt plus simple; traitez Sénéquier et Monsieur Dior comme adresses de scène jusqu'à évaluation actuelle.
+
+## Ce que disent les locaux
+
+- Consensus local : évitez la première rangée du vieux port de Saint-Tropez ; le rapport qualité-prix s'améliore dès qu'on s'enfonce d'une rue ou qu'on va à Cogolin et Grimaud.
+- La formule déjeuner est la meilleure affaire des maisons chères ; les locaux prennent leur grand repas à midi.
+- Des adresses citées depuis des années par les guides locaux : Au Caprice des Deux (vieux favori local à Saint-Tropez) et, à Grimaud, des lieux informels comme le food truck L'Ephémère avec ses terrains de pétanque.
+- Arriver sans réservation en juillet-août, c'est entendre non ; les habitants appellent plusieurs jours à l'avance, même pour des adresses « ordinaires ».
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

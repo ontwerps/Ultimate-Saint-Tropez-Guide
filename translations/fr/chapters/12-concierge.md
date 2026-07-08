@@ -62,3 +62,12 @@ Les journées deviennent définitives seulement lorsque restaurants, routes, par
 ## Recommandation personnelle
 
 La meilleure planification concierge est calme. Un grand choix par jour donne plus de Saint-Tropez qu'une carte remplie d'épingles.
+
+## Ce que disent les locaux
+
+- Le rythme quotidien local est le meilleur concierge : actif de 7h à 10h, mer ou ombre de 12h à 17h, villages et terrasses après 18h.
+- Demandez à un habitant le meilleur mois : la réponse est presque toujours septembre, juin en second.
+- Par mistral, les habitants remanient le programme : baies abritées du nord et villages de l'intérieur plutôt que Pampelonne.
+- Organisez avant l'arrivée ce que les habitants organisent aussi : réservations de restaurants, livraison de vélos à l'hébergement et (l'été) un œil quotidien sur la carte d'accès aux massifs.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

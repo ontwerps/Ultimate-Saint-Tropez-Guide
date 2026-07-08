@@ -101,3 +101,13 @@ Een plek is in deze gids pas een hidden gem als hij:
 ## Persoonlijke aanbeveling
 
 Voorlopige gidswaarde: Domaine du Rayol en Fort-Freinet zijn de stevigste keuzes omdat de praktische basis het best bevestigd is. Pont des Fées en het cimetière marin kunnen prachtige rustige stops zijn, maar vragen respectvolle timing en toegangscontrole. Cap Camarat blijft bewust terughoudend beschreven vanwege natuur- en toegangsgevoeligheid.
+
+## Wat locals zeggen
+
+- Pont des Fées (Grimaud): een aquaduct dat water van 3 km ver naar de dorpsfontein bracht - uniek in de Provence, met een stil wandelvallon.
+- Moulins de Paillas (Ramatuelle): gerestaureerde windmolen op de heuvelkam met uitzicht over twee baaien; ga bij zonsondergang.
+- Chapelle Sainte-Anne (1618, Saint-Tropez): gebouwd uit dank na een pestepidemie; zelden open, maar de heuvel en het uitzicht zijn het ommetje waard.
+- Notre-Dame des Anges (767 m): het hoogste punt van de Maures, door bewoners geliefd als koelere zomerbestemming.
+- De trap naar Sylvabelle en de kleine baaien van La Croix-Valmer: semi-wild, helder water, geen commercie.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

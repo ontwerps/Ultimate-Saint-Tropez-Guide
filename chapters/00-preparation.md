@@ -103,3 +103,13 @@ De beste slotdag is meestal geen nieuwe grote ontdekking, maar een verfijning: f
 ## Persoonlijke aanbeveling
 
 De veiligste basisstrategie is minder verplaatsen dan je denkt. Eén goed gekozen hoofdplek per dag voelt in deze regio vaak luxer dan drie afgevinkte stops.
+
+## Wat locals zeggen
+
+- Juni en september zijn volgens bewoners de beste maanden: warm zeewater, vrije wegen en ontspannen restaurants. In juli en augustus draait alles om timing: vóór 10.00 uur en na 19.00 uur leef je als local, daartussen sta je in de rij.
+- Boodschappen doe je zoals locals 's ochtends op de markt: Place des Lices (dinsdag en zaterdag), Cogolin (woensdag en zaterdag), La Garde-Freinet (jaarrond).
+- In de zomer publiceert de prefectuur van de Var dagelijks een kaart met massiftoegang wegens brandgevaar; wandel-, MTB- en gravelplannen hangen daar volledig van af.
+- Reserveren is hier geen luxe: goede restaurants en racefietsverhuur zitten in het seizoen dagen tot weken vooruit vol.
+- De belangrijkste bewonersregel: parkeer één keer per dag en beweeg verder te voet, per fiets of per bootshuttle over de golf.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

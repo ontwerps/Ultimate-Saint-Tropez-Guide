@@ -59,3 +59,12 @@ Gardez le premier matin simple: marchez ou roulez vers Port Grimaud et mesurez r
 ## Score personnel
 
 Valeur provisoire: élevée comme base logistique, moyenne comme destination autonome.
+
+## Ce que disent les locaux
+
+- L'emplacement directement sur la piste cyclable du littoral vaut de l'or : les habitants du golfe prennent ici le vélo vers Port Grimaud (10 minutes) plutôt que la voiture.
+- La plage devant le camping est presque vide avant 9h30 ; la baignade matinale des locaux est le meilleur moment de la journée.
+- Les navettes maritimes du golfe (vers Saint-Tropez et Sainte-Maxime) sont l'astuce locale pour éviter totalement les bouchons du littoral.
+- Achetez pain et fruits tôt comme les locaux ; l'après-midi, les zones commerciales de Cogolin et Grimaud sont au plus chargé.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

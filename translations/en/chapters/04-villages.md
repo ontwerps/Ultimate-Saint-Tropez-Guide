@@ -53,3 +53,12 @@ Plan villages around light. Gassin or Ramatuelle in late afternoon often feels r
 ## Personal Recommendation
 
 Preliminary guide value: high as a calm viewpoint layer between beach days.
+
+## What locals say
+
+- Residents visit the hill villages at the end of the day: Gassin for sunset, Ramatuelle for dinner, once the day buses have left.
+- Many gulf residents call La Garde-Freinet 'the real village': lively year-round, its own market and the least tourist pressure.
+- Cogolin is a working village with crafts (pipe makers and reeds for wind instruments) and one of the gulf's most authentic markets (Wednesday and Saturday).
+- Pair Grimaud village with the Pont des Fées valley: the aqueduct trail is the local stroll day-trippers skip.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

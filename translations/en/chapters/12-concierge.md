@@ -62,3 +62,12 @@ Day plans become final only when the underlying restaurants, routes, parking and
 ## Personal Recommendation
 
 The best concierge planning is calm. One main choice per day gives more Saint-Tropez than a map full of pins.
+
+## What locals say
+
+- The local daily rhythm is the best concierge: active from 7 to 10, sea or shade from 12 to 5, villages and terraces after 6pm.
+- Ask a local for the best month and the answer is almost always September, with June second.
+- When the mistral blows, residents reshuffle the programme: sheltered northern bays and inland villages instead of Pampelonne.
+- Arrange before arrival what residents arrange too: restaurant bookings, bike delivery to the accommodation and (in summer) a daily look at the massif-access map.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

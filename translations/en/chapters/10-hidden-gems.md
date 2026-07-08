@@ -42,3 +42,13 @@ Describe vulnerable nature places carefully, avoid viral "secret spot" tone and 
 ## Personal Recommendation
 
 Domaine du Rayol and Fort-Freinet are the strongest choices because their practical base is best confirmed. Cap Camarat remains deliberately restrained because of nature and access sensitivity.
+
+## What locals say
+
+- Pont des Fées (Grimaud): an aqueduct that carried water 3 km to the village fountain - unique in Provence, with a silent walking valley.
+- Moulins de Paillas (Ramatuelle): a restored windmill on the ridge overlooking two bays; go at sunset.
+- Chapelle Sainte-Anne (1618, Saint-Tropez): built in gratitude after a plague epidemic; rarely open, but the hill and the view are worth the detour.
+- Notre-Dame des Anges (767 m): the highest point of the Maures, loved by residents as a cooler summer destination.
+- The steps down to Sylvabelle and the small bays of La Croix-Valmer: semi-wild, clear water, no commerce.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

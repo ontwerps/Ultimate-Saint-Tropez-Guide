@@ -53,3 +53,12 @@ Go early, choose one loop and leave before the visit turns into parking and terr
 ## Personal Score
 
 Preliminary guide value: high for a half-day, photos and easy walking; lower for travellers seeking a silent or deeply local experience.
+
+## What locals say
+
+- Day-trippers occupy the lakeside city between 10am and 6pm; residents walk it before 9am or after 7pm, when the canals show their best colours.
+- The tower of the Saint-François-d'Assise church remains the best viewpoint over village and gulf for little money.
+- Port Grimaud was designed to be seen from the water: rent an electric boat or take the coche d'eau instead of only walking the quays.
+- Market mornings on the Place du Marché are lively but busy; pair them with an early coffee at the marina.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

@@ -84,3 +84,12 @@ De kaart moet op telefoon snel antwoord geven op drie vragen:
 - Welke plekken vragen reservering, parking of veiligheidscontrole?
 
 Daarom zijn korte labels beter dan lange beschrijvingen. De hoofdstukken geven context; de kaart geeft keuzes.
+
+## Wat locals zeggen
+
+- Voeg in de zomer een laag toe voor de dagelijkse massiftoegangskaart van de Var (brandgevaar): die bepaalt of wandel- en gravelroutes überhaupt mogen.
+- Maak een marktdagenlaag: Place des Lices di+za, Cogolin wo+za, La Garde-Freinet jaarrond - bewoners plannen boodschappen én dorpsbezoek erop.
+- Behandel de bootshuttles over de golf als 'wegen' op de kaart: in het seizoen zijn ze sneller dan de D559.
+- Een fontein- en waterpuntenlaag per dorp is voor fietsers en wandelaars hier waardevoller dan een restaurantlaag.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

@@ -87,3 +87,12 @@ Alcoholinformatie in de gids moet praktisch en terughoudend blijven. Geen route 
 ## Persoonlijke aanbeveling
 
 Voorlopige gidswaarde: Château Minuty is de sterkste wijnankerplek in de huidige bronbasis. Plan het als rustige caveau- of proefstop rond Gassin, Ramatuelle of Pampelonne, niet als onderdeel van een sportieve fietsdag. Laat alcohol altijd los van rijden, fietsen en hitteplanning.
+
+## Wat locals zeggen
+
+- Waar locals hun dagelijkse wijn kopen: de coöperatie Les Vignobles de Ramatuelle (sinds 1956, aan de weg naar l'Escalet) met gratis proeverij in de kelder.
+- Kopen zoals bewoners: en vrac of bag-in-box bij de coöperatie; de fles is voor cadeaus en restaurants.
+- Naast Minuty raden bewoners Château Barbeyrolles (Gassin, biologisch, verfijnd rosé) en Château des Marres (route des plages, vijf generaties familie) aan.
+- Proef 's ochtends en plan een nuchtere bestuurder of e-bike met verstand: domeinwegen zijn smal en in het seizoen druk.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

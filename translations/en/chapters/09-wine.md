@@ -44,3 +44,12 @@ Alcohol guidance must stay practical and restrained. No route should normalize d
 ## Personal Recommendation
 
 Château Minuty is the strongest wine anchor in the current source base. Plan it around Gassin, Ramatuelle or Pampelonne, not as part of a sporting day.
+
+## What locals say
+
+- Where locals buy their daily wine: the Les Vignobles de Ramatuelle cooperative (since 1956, on the road to l'Escalet) with free tastings in the cellar.
+- Buy like residents: en vrac or bag-in-box at the cooperative; bottles are for gifts and restaurants.
+- Beyond Minuty, residents recommend Château Barbeyrolles (Gassin, organic, refined rosé) and Château des Marres (route des plages, five generations of one family).
+- Taste in the morning and plan a sober driver or a sensible e-bike: estate roads are narrow and busy in season.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

@@ -40,3 +40,12 @@ Eau, protection solaire, chaussures avec adhérence, carte hors ligne, télépho
 ## Recommandation personnelle
 
 Choisissez Gigaro - Cap Lardier - Cap Taillat pour la nature lorsque les conditions sont bonnes; Fort-Freinet pour patrimoine et hauteur; Saint-Tropez - Tahiti pour un contexte littoral plus léger. Partez tôt et prenez de l'eau.
+
+## Ce que disent les locaux
+
+- Les locaux commencent les randonnées littorales à 7h : le sentier du littoral n'a presque pas d'ombre sur les caps.
+- Règle d'été numéro un : consulter la carte quotidienne d'accès aux massifs du Var ; les jours à haut risque incendie, les caps boisés et l'arrière-pays ferment aussi.
+- Comptez deux litres d'eau par personne ; les fontaines n'existent que dans les villages, pas en chemin.
+- La façon locale de faire le sentier : par étapes, dans un seul sens, avec retour en bus ou en navette maritime plutôt que par le même chemin.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

@@ -53,3 +53,13 @@ Réduisez Saint-Tropez. Une promenade, une bonne halte et une stratégie d'arriv
 ## Score personnel
 
 Valeur provisoire: très élevée avec une arrivée tôt ou bien préparée; faible avec embouteillage, chaleur et stationnement improvisé.
+
+## Ce que disent les locaux
+
+- Les Graniers, sous la citadelle, c'est la plage familiale des Tropéziens : baignade matinale, puis café dans la vieille ville.
+- Le vieux port est un théâtre ; les locaux prennent leur café Place des Lices et y jouent à la pétanque le soir sous les platanes.
+- Consensus local sur la première rangée de restaurants du vieux port : cher et médiocre. Une rue en retrait, vers La Ponche, c'est meilleur et plus calme.
+- Les jours de marché sont le mardi et le samedi ; les habitants viennent tôt et ont fini à 10h.
+- Le spectacle gratuit du soir : la promenade sur la digue au coucher du soleil, quand les grands yachts rentrent.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

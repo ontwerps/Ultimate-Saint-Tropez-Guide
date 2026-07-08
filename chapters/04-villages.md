@@ -77,3 +77,12 @@ Plan dorpen rond licht. Gassin of Ramatuelle in de late middag voelt vaak rijker
 ## Persoonlijke aanbeveling
 
 Voorlopige gidswaarde: hoog als rust- en uitzichtlaag tussen stranddagen. Kies Grimaud voor erfgoed, Gassin voor panorama, Ramatuelle voor strandcombinatie en Port Grimaud voor watergevoel.
+
+## Wat locals zeggen
+
+- Bewoners bezoeken de heuveldorpen aan het einde van de dag: Gassin voor zonsondergang, Ramatuelle voor het avondeten, wanneer de dagbussen weg zijn.
+- La Garde-Freinet noemen veel bewoners van de golf 'het echte dorp': jaarrond levendig, eigen markt en de minste toeristendruk.
+- Cogolin is een werkdorp met ambachten (pijpenmakerijen en rieten voor blaasinstrumenten) en een van de meest authentieke markten van de golf (woensdag en zaterdag).
+- Combineer Grimaud-dorp met het vallon van de Pont des Fées: het aquaduct-wandelpad is het lokale ommetje dat dagjesmensen overslaan.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

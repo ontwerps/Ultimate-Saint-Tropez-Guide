@@ -52,3 +52,13 @@ Pampelonne est la grande journée iconique: secteur, parking, déjeuner et budge
 ## Recommandation personnelle
 
 Pampelonne est la journée plage iconique, mais pas toujours la plus simple. Pour le confort, La Nartelle, Cavalaire ou La Croix-Valmer peuvent être plus pratiques; pour la nature, Escalet, Gigaro et Bonporteau gagnent quand accès et chaleur sont maîtrisés.
+
+## Ce que disent les locaux
+
+- Là où les Tropéziens se baignent vraiment : les Graniers (plage familiale sous la citadelle), les Salins (pins, jamais bondée) et les Canebiers (esprit quartier, peu profond pour les enfants).
+- Sylvabelle, près de La Croix-Valmer, accessible par un escalier, a selon les habitants l'eau la plus claire de la région.
+- Septembre est le mois plage des locaux : mer au plus chaud, parkings libres, plages privées détendues.
+- Les habitants font Pampelonne avant 10h dans le secteur nord - ou pas du tout en août.
+- Par mistral, les locaux choisissent les baies abritées du nord de la presqu'île, comme les Canebiers.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

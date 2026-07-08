@@ -8,75 +8,67 @@ status: draft
 
 ## Samenvatting
 
-Het fietshoofdstuk onderscheidt routes voor trekkingfiets, racefiets, gravelbike en e-bike. Veiligheid, wegdek, verkeer, hoogteverschil en stopplaatsen zijn belangrijker dan afstand of snelheid.
+Dit hoofdstuk geeft per fietstype - racefiets, gravelbike en gewone fiets (trekking/e-bike) - de beste routes rond de Golf van Saint-Tropez, met gidsrating, afstand, hoogtemeters en gemiddelde tijd. De belangrijkste lokale wijsheid: niet de route maar het tijdstip bepaalt of een rit slaagt. Tussen 10.00 en 19.00 uur staat de kustweg in juli en augustus vast; lokale renners rijden tussen 6.30 en 9.30 uur.
 
-## Routecategorieen
+## Toproutes racefiets
 
-- Trekking
-- Race
-- Gravel
-- E-bike
+| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Collebasse-lus: Cogolin - Gassin - Ramatuelle - Col de Collebasse - La Croix-Valmer - Cogolin | ★★★★★ | 40 km | ca. 450 m | 1u45 - 2u15 |
+| 2 | Corniche des Maures: Cogolin - La Môle - Col du Canadel - Rayol - Cavalaire - retour | ★★★★★ | 55 km | ca. 700 m | 2u30 - 3u |
+| 3 | Boucle des Maures: Grimaud - Canadel - Col du Babaou - Collobrières - Col de Taillude - Grimaud | ★★★★★ | 100 km | ca. 1.600 m | 4u - 5u |
+| 4 | Rondje presqu'île: Saint-Tropez - Les Salins - Pampelonne - l'Escalet - La Croix-Valmer - Gassin | ★★★★ | 45 km | ca. 500 m | 2u - 2u30 |
+| 5 | Korte lus Gassin - Ramatuelle - Pampelonne | ★★★★ | 34 km | ca. 350 m | 1u30 - 1u45 |
+
+De Col de Collebasse (top 130 m) is dé lokale trainingscol: 3,1 km vanaf de Ramatuelle-kant, gemiddeld 3,1% met een steilste stuk rond 7%, in de schaduw van pijnbomen en met zee-uitzicht. De Col du Canadel (267 m) geeft het mooiste kustpanorama van de streek; de zuidkant kijkt permanent op de Middellandse Zee. De Boucle des Maures over Babaou en Taillude (vanaf Collobrières 8 km à 3,25%) is de klassieker voor getrainde renners: bergpassen, stille binnenwegen en kastanjedorpen.
+
+## Toproutes gravelbike
+
+| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Piste des Crêtes: Grimaud - kamlijn Massif des Maures - La Garde-Freinet - Grimaud | ★★★★★ | 35 km | ca. 750 m | 2u30 - 3u |
+| 2 | Plaine des Maures en Lac des Escarcets vanaf La Garde-Freinet | ★★★★ | 40 km | ca. 400 m | 2u30 |
+| 3 | Maures-traverse richting Notre-Dame des Anges (767 m, hoogste punt van de Maures) | ★★★★ | 60 km | ca. 1.400 m | 4u - 5u |
+| 4 | Wijngaard-gravel door de vlakte van Gassin en Ramatuelle | ★★★ | 25 km | ca. 250 m | 1u30 |
+
+Het Massif des Maures is een van de beste gravelgebieden van de Var: eindeloze bospistes door kurkeiken en kastanjes. Lokale gravelrijders (verenigd rond de club Maures Gravel, ontstaan uit de routes van Laurent Biger) rijden de kamlijnpiste naar La Garde-Freinet als signatuurrit. Let op twee dingen die alleen locals standaard checken: de Plaine des Maures is natuurreservaat (blijf op toegestane pistes) en in de zomer sluit de prefectuur op risicodagen complete massieven wegens brandgevaar - check de dagkaart massiftoegang van het departement Var voor vertrek.
+
+## Toproutes gewone fiets (trekking / e-bike)
+
+| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Kustfietspad V65: Prairies de la Mer - Port Grimaud - Sainte-Maxime (retour) | ★★★★★ | 23 km | ca. 50 m | 1u15 - 1u45 |
+| 2 | V65 doorrijden: Port Grimaud - Les Issambres - Saint-Aygulf - Fréjus (enkel) | ★★★★ | 31 km | ca. 120 m | 2u - 2u30 |
+| 3 | Familierit: Saint-Tropez - Les Salins - Pampelonne noord (retour) | ★★★★ | 20 km | ca. 150 m | 1u30 |
+| 4 | Dorpenrit e-bike: Port Grimaud - Cogolin - Grimaud dorp (retour) | ★★★★ | 18 km | ca. 200 m | 1u30 |
+
+Het Parcours Cyclable du Littoral (V65) volgt een oude spoorlijn en is de veiligste fietsverbinding van de streek: van de 120 km is 92 km aangelegd, waarvan 77 km vrijliggend. Het is meteen ook een van de drukst bereden fietspaden van Frankrijk (ruim 310.000 passages per jaar gemeten bij Grimaud), dus reken op wandelaars, skaters en gezinnen. Ten oosten van Sainte-Maxime ontbreekt nog een stuk van 7,2 km; daar rijd je tijdelijk op de D559.
+
+## Wat locals zeggen
+
+- Timing is alles: van ongeveer 10.00 tot 19.00 uur staat er in juli en augustus file op de kustwegen, met slechts een korte luwte rond lunchtijd. Lokale wielrenners vertrekken voor 7.00 uur en zijn voor de hitte en de drukte weer thuis.
+- Automobilisten zijn hier relatief hoffelijk voor renners - vrijwel iedere Fransman heeft zelf gekoerst - maar de D93 (route des plages) en D559 vragen in het seizoen volle aandacht.
+- Neem twee bidons met elektrolyten: hitte is hier probleem nummer één. Dorpsfonteinen in Grimaud, Gassin, Ramatuelle en La Garde-Freinet zijn de klassieke vulpunten.
+- Zomerregel voor het massief: op dagen met hoog brandrisico zijn bospistes verboden terrein. Locals checken elke avond de kaart massiftoegang van de Var voor de volgende dag.
+- Kies je koffiestop als een local: Place des Lices in Saint-Tropez op marktdag (dinsdag en zaterdag), of het terras van Collobrières halverwege de Boucle des Maures.
+- Verhuurders in de golf leveren race-, gravel- en e-bikes aan bij accommodaties; voor racefietsen geldt: reserveer in het seizoen ruim vooraf.
 
 ## Routecriteria
 
-- Afstand
-- Hoogteverschil
-- Wegdek
-- Verkeersdrukte
-- Koffiestops
-- Waterpunten
+- Afstand en hoogtemeters
+- Wegdek en verkeersdrukte
+- Koffiestops en waterpunten
 - Technische moeilijkheid
 - Persoonlijke score
 
 ## Database
 
-Alle routes horen in `database/bike_routes.csv`. GPX-bestanden worden apart opgeslagen en gekoppeld via een bestandsnaam of URL.
-
-## Eerste GPX-import
-
-De eerste GPX-bestanden staan in `assets/gpx/`. Dit zijn control-tracks voor onderzoek en planning, niet de definitieve navigatiebestanden voor publicatie.
-
-- `prairies-port-grimaud-sainte-maxime-seed.gpx`
-- `port-grimaud-frejus-v65-seed.gpx`
-- `gassin-ramatuelle-pampelonne-loop-seed.gpx`
+Alle routes horen in `database/bike_routes.csv`. GPX-bestanden worden apart opgeslagen onder `assets/gpx/` en gekoppeld via een bestandsnaam of URL. De eerste seed-GPX-bestanden zijn control-tracks voor onderzoek, geen definitieve navigatiebestanden.
 
 ## Bronstatus
 
-- De route Port Grimaud - Sainte-Maxime steunt voorlopig op Grimaud-context voor de kustfietspadvermelding en een recente editorial bron over de Parcours Cyclable du Littoral.
-- De route Port Grimaud - Fréjus is gekoppeld aan V65/Parcours Cyclable du Littoral-bronnen, maar de exacte geometrie en eventuele onderbrekingen moeten nog tegen officiële routebestanden worden gecontroleerd.
-- De Gassin - Ramatuelle - Pampelonne-loop is een gidsconcept voor racefietsers en vraagt lokale beoordeling van verkeersdrukte, hellingen, stopplaatsen en veiligheid.
-
-## Routeprofielen
-
-### Prairies de la Mer - Port Grimaud - Sainte-Maxime
-
-Dit is de beste eerste rit. De afstand is overzichtelijk, het doel is duidelijk en je leert meteen hoe kruisingen, strandverkeer en fietspaden voelen. Gebruik deze route om te beslissen of je later langere kuststukken wilt rijden. Voor gezinnen en e-bikes is dit de meest bruikbare test.
-
-### Port Grimaud - Sainte-Maxime - Fréjus
-
-Deze route hoort bij de bredere V65/Parcours Cyclable du Littoral-context. Hij is interessanter voor ervaren fietsers en routeplanners dan voor spontane strandfietsers. Controleer officiële geometrie en eventuele onderbrekingen voordat je hem als navigatie gebruikt. Neem tijd voor Sainte-Maxime, Les Issambres en Saint-Aygulf als rustpunten.
-
-### Gassin - Ramatuelle - Pampelonne
-
-Dit is de sportiefste gidslus: mooier, heuvelachtiger en verkeerstechnisch gevoeliger. Hij past bij racefietsers die vroeg vertrekken, hitte vermijden en niet bang zijn voor gemengd verkeer. Gebruik hem niet als gezinsroute en niet als wijn/strandclub-combinatie.
-
-## Fietsen per type
-
-- Trekking: korte kuststukken, boodschappen, Port Grimaud, Sainte-Maxime.
-- E-bike: dorpen en lichte hoogteverschillen, mits veilige stallingsplekken.
-- Race: Gassin/Ramatuelle vroeg, nooit op piekmomenten.
-- Gravel: alleen met gecontroleerde ondergrond; deze gids heeft nog geen volwaardige gravelroutes.
-
-## Stopstrategie
-
-Stop vóór je dorst hebt. In zomerhitte zijn waterpunten, schaduw en veilige oversteekplaatsen belangrijker dan gemiddelde snelheid. Combineer fietsen niet met alcoholproeverijen zonder nuchtere bestuurder of volledig alcoholvrij plan.
-
-## Importregels
-
-- Lokale GPX-bestanden horen onder `assets/gpx/`.
-- `database/bike_routes.csv` mag alleen lokale GPX-bestandsnamen bevatten als het bestand bestaat.
-- Externe GPX-URL's mogen later worden gebruikt als de bron dat licentietechnisch toestaat.
+De tabellen combineren officiële route-informatie (V65/Parcours Cyclable du Littoral, klimprofielen van Collebasse en Canadel) met editorial afstands- en tijdsindicaties. Ratings zijn gidsratings. Gemiddelde tijden gaan uit van 23-27 km/u op de racefiets, 15-18 km/u op gravel en 14-16 km/u op de gewone fiets, exclusief stops. Exacte geometrie, onderbrekingen en actuele toegangsregels blijven veldverificatie.
 
 ## Persoonlijke aanbeveling
 
-Voorlopige gidswaarde: de korte kustverbinding Prairies de la Mer - Port Grimaud - Sainte-Maxime is de beste eerste fietstest. De langere V65-richting en de Gassin - Ramatuelle - Pampelonne-loop horen pas in een sportieve planning wanneer wegdek, kruisingen, zomerdrukte en waterstops zijn gecontroleerd. Voor gezinnen en ontspannen reizigers is e-bike of trekkingtempo logischer dan racefietsambitie.
+Eerste rit: het kustfietspad naar Sainte-Maxime, ook met kinderen of e-bike. Mooiste racedag: de Collebasse-lus vroeg in de ochtend, met koffiestop in Ramatuelle. Beste gravelervaring: de kamlijn naar La Garde-Freinet buiten de zomerpiek. De Boucle des Maures is de koninginnenrit voor wie 100 km met 1.600 hoogtemeters aankan.

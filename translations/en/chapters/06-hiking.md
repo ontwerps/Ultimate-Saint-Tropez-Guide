@@ -40,3 +40,12 @@ Bring water, sun protection, grippy shoes, offline map, charged phone and a wind
 ## Personal Recommendation
 
 Choose Gigaro - Cap Lardier - Cap Taillat for nature when conditions are good; Fort-Freinet for heritage and height; Saint-Tropez - Tahiti only as lighter coastal context. Start early and carry water.
+
+## What locals say
+
+- Locals start coastal walks at 7am: the sentier du littoral has hardly any shade on the capes.
+- Summer rule number one: check the Var's daily massif-access map; on high fire-risk days the wooded capes and the hinterland close too.
+- Count on two litres of water per person; fountains exist only in the villages, not along the way.
+- The local way to walk the coastal path: in stages, one direction, returning by bus or boat shuttle instead of retracing your steps.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

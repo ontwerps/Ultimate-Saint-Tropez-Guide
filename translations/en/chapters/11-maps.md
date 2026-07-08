@@ -42,3 +42,12 @@ Places should show villages, viewpoints, heritage and wineries. Beaches should b
 ## Mobile Use
 
 The mobile map should answer three questions quickly: what is near my base, what fits this time of day, and which places require booking, parking or safety checks?
+
+## What locals say
+
+- In summer, add a layer for the Var's daily massif-access map (fire risk): it decides whether hiking and gravel routes are even allowed.
+- Build a market-day layer: Place des Lices Tue+Sat, Cogolin Wed+Sat, La Garde-Freinet year-round - residents plan shopping and village visits around it.
+- Treat the gulf's boat shuttles as 'roads' on the map: in season they beat the D559.
+- A fountain and water-point layer per village is worth more here to cyclists and walkers than a restaurant layer.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

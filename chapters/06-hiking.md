@@ -82,3 +82,12 @@ Voor de meeste routes zijn lente, vroege zomer en herfst beter dan hoogzomer. In
 ## Persoonlijke aanbeveling
 
 Voorlopige gidswaarde: kies Gigaro - Cap Lardier - Cap Taillat voor natuurgevoel wanneer omstandigheden goed zijn; Fort-Freinet voor erfgoed en hoogte; Saint-Tropez - Tahiti alleen als lichte kustcontext en niet als hittewandeling. Start vroeg, neem water en behandel alle caps als kwetsbare natuur, niet als shortcut naar verborgen stranden.
+
+## Wat locals zeggen
+
+- Locals starten kustwandelingen om 7.00 uur: het sentier du littoral heeft op de kapen nauwelijks schaduw.
+- Zomerregel nummer één: check de dagelijkse massiftoegangskaart van de Var; bij hoog brandrisico zijn ook de beboste kapen en het achterland gesloten.
+- Reken op twee liter water per persoon; fonteinen vind je alleen in de dorpen, niet onderweg.
+- De lokale manier om het kustpad te lopen: in etappes, één richting, en terug met bus of bootshuttle in plaats van dezelfde weg terug.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

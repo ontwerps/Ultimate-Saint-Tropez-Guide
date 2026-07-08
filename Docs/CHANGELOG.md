@@ -85,3 +85,7 @@ Added editorial winner guidance, Top 10 recommendations, guide star ratings, pri
 ## v0.21
 
 Added sortable per-chapter ranking tables with editorial star ratings, price bands and guide reviews for beaches, restaurants, wine, cycling, walking, villages/cities and hidden gems.
+
+## v0.22
+
+Rebuilt the cycling chapter with per-bike-type top-route tables (road, gravel, normal/trekking) including guide rating, distance, elevation gain and average time, backed by new researched routes (Collebasse loop, Corniche des Maures, Boucle des Maures, Piste des Crêtes, Plaine des Maures) in `bike_routes.csv`. Added Markdown table rendering to the static site build. Added sourced "What locals say" local-knowledge sections to all chapters in Dutch, English and French (timing rules, resident beaches, market days, cooperative wine buying, massif fire-access checks, boat shuttles), with sixteen new local-consensus sources tracked in `sources.csv`.

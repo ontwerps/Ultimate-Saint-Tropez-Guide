@@ -59,3 +59,12 @@ Keep the first morning simple: walk or cycle to Port Grimaud and learn how long 
 ## Personal Score
 
 Preliminary guide value: high as a logistical base, medium as a destination in itself.
+
+## What locals say
+
+- The location right on the coastal cycle path is gold: gulf residents take the bike to Port Grimaud (10 minutes) here instead of the car.
+- The beach in front of the campsite is nearly empty before 9.30am; the local morning swim is the best moment of the day.
+- The boat shuttles across the gulf (towards Saint-Tropez and Sainte-Maxime) are the local trick for skipping the coastal traffic jam entirely.
+- Buy bread and fruit early like locals do; in the afternoon the supermarket zones around Cogolin and Grimaud are at their busiest.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

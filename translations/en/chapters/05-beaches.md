@@ -52,3 +52,13 @@ Pampelonne is the iconic long Saint-Tropez beach day: plan sector, parking, lunc
 ## Personal Recommendation
 
 Pampelonne is the iconic beach day, but not automatically the easiest. For comfort, La Nartelle, Cavalaire or La Croix-Valmer can be more practical; for nature, Escalet, Gigaro and Bonporteau win when access and heat are right.
+
+## What locals say
+
+- Where Tropezians actually swim: Graniers (family beach below the citadel), Les Salins (pines, never packed) and Canebiers (neighbourhood feel, shallow for kids).
+- Sylvabelle near La Croix-Valmer, reached by steps, has the clearest water in the area according to residents.
+- September is the locals' beach month: sea at its warmest, car parks free, beach clubs relaxed.
+- Residents do Pampelonne before 10am in the north sector - or not at all in August.
+- When the mistral blows, locals pick the sheltered bays on the north side of the peninsula, such as Canebiers.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

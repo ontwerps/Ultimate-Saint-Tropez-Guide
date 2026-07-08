@@ -43,3 +43,12 @@ Book gastronomic evenings and Pampelonne lunches early. Ask about arrival, valet
 ## Personal Recommendation
 
 Book La Vague d'Or or La Voile only if the evening itself is the destination. Use La Tarte Tropézienne as an easier Saint-Tropez stop; treat Sénéquier and Monsieur Dior as scene addresses until current experience, price and service are judged.
+
+## What locals say
+
+- Local consensus: skip the front row at Saint-Tropez's old port; value improves as soon as you walk one street inland or drive to Cogolin and Grimaud.
+- The set lunch is the best deal at expensive places; locals eat their main meal at midday.
+- Addresses local guides have named for years: Au Caprice des Deux (an old local favourite in Saint-Tropez) and, in Grimaud, informal spots like the L'Ephémère food truck with its pétanque courts.
+- Arriving without a booking in July or August means hearing no; residents call days ahead, even for 'ordinary' places.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

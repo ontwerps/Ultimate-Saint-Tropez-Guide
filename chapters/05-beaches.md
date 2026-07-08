@@ -155,3 +155,13 @@ Bij mistral of ruwe zee veranderen snorkel- en baaidagen snel. Bij hitte worden 
 ## Persoonlijke aanbeveling
 
 Voorlopige gidswaarde: Pampelonne is de iconische stranddag, maar niet automatisch de beste dag. Voor comfort en minder frictie zijn La Nartelle, Cavalaire of La Croix-Valmer vaak praktischer; voor natuurgevoel winnen Escalet, Gigaro en Bonporteau wanneer toegang en hitte kloppen.
+
+## Wat locals zeggen
+
+- Waar Tropéziens zelf zwemmen: Graniers (familiestrand onder de citadel), Les Salins (pijnbomen, nooit vol) en Canebiers (buurtgevoel, ondiep voor kinderen).
+- Sylvabelle bij La Croix-Valmer, via een trap te bereiken, heeft volgens bewoners het helderste water van de streek.
+- September is voor locals dé strandmaand: zeewater op zijn warmst, parkings vrij, beach clubs relaxed.
+- Pampelonne doen bewoners vóór 10.00 uur in de noordsector - of in augustus helemaal niet.
+- Bij mistral kiezen locals de beschutte baaien aan de noordkant van de presqu'île, zoals Canebiers.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

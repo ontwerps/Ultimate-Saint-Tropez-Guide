@@ -98,3 +98,12 @@ Maak van de eerste ochtend geen grote excursie. Loop of fiets eerst naar Port Gr
 ## Persoonlijke score
 
 Voorlopige gidswaarde: hoog als logistieke basis, gemiddeld als zelfstandige bestemming. De definitieve score hangt af van verblijfslocatie, fietsveiligheid en hoe makkelijk je de auto kunt laten staan.
+
+## Wat locals zeggen
+
+- De ligging direct aan het kustfietspad is goud waard: bewoners van de golf pakken hier de fiets naar Port Grimaud (10 minuten) in plaats van de auto.
+- Het strand voor de camping is vóór 9.30 uur vrijwel leeg; de lokale ochtendduik is het beste moment van de dag.
+- De bootshuttles over de golf (richting Saint-Tropez en Sainte-Maxime) zijn de lokale truc om de kustfile volledig over te slaan.
+- Brood en fruit haal je zoals locals vroeg; in de middag zijn de supermarktzones rond Cogolin en Grimaud het drukst.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

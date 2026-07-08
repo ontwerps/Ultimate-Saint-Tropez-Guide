@@ -60,3 +60,13 @@ Jour 1 pour s'orienter, jour 2 pour Port Grimaud et la côte, jour 3 pour Saint-
 ## Recommandation personnelle
 
 Déplacez-vous moins que prévu. Un seul lieu bien choisi par jour semble souvent plus luxueux ici que trois arrêts cochés.
+
+## Ce que disent les locaux
+
+- Pour les habitants, juin et septembre sont les meilleurs mois : mer chaude, routes libres, restaurants détendus. En juillet-août, tout est question d'horaire : avant 10h et après 19h on vit comme un local, entre les deux on fait la queue.
+- Faites vos courses comme les locaux, aux marchés du matin : Place des Lices (mardi et samedi), Cogolin (mercredi et samedi), La Garde-Freinet (toute l'année).
+- L'été, la préfecture du Var publie chaque jour une carte d'accès aux massifs selon le risque incendie ; randonnées, VTT et gravel en dépendent entièrement.
+- Réserver n'est pas un luxe ici : bons restaurants et vélos de route de location affichent complet des jours, voire des semaines à l'avance en saison.
+- La règle numéro un des habitants : se garer une fois par jour, puis se déplacer à pied, à vélo ou en navette maritime sur le golfe.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.

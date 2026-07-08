@@ -83,3 +83,12 @@ Port Grimaud werkt het best zonder haast. Ga vroeg, kies één lus, en vertrek v
 ## Persoonlijke score
 
 Voorlopige gidswaarde: hoog voor een halve dag, fotografie en lichte wandeling; lager voor wie een stille of diep lokale ervaring zoekt.
+
+## Wat locals zeggen
+
+- Dagjesmensen bezetten de cité lacustre tussen 10.00 en 18.00 uur; bewoners lopen er vóór 9.00 uur of na 19.00 uur, wanneer de kanalen op hun mooist kleuren.
+- De kerktoren van Saint-François-d'Assise blijft voor klein geld het beste uitzichtpunt over dorp en golf.
+- Port Grimaud is ontworpen om vanaf het water gezien te worden: huur een elektrisch bootje of neem de coche d'eau in plaats van alleen langs de kades te lopen.
+- Marktochtenden op de Place du Marché zijn levendig maar druk; combineer ze met een vroege koffie aan de jachthaven.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

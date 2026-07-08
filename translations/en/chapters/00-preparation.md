@@ -60,3 +60,13 @@ Use day one for orientation, day two for Port Grimaud and the coast, day three f
 ## Personal Recommendation
 
 Move less than you think. One well-chosen main place per day often feels more luxurious here than three checked-off stops.
+
+## What locals say
+
+- Residents call June and September the best months: warm sea, free roads, relaxed restaurants. In July and August everything is timing: before 10am and after 7pm you live like a local, in between you queue.
+- Shop like locals do, at the morning markets: Place des Lices (Tuesday and Saturday), Cogolin (Wednesday and Saturday), La Garde-Freinet (year-round).
+- In summer the Var prefecture publishes a daily massif-access map for fire risk; hiking, MTB and gravel plans depend on it entirely.
+- Booking ahead is not a luxury here: good restaurants and road-bike rentals fill up days to weeks ahead in season.
+- The number-one resident rule: park once per day, then move on foot, by bike or by boat shuttle across the gulf.
+
+These points gather local consensus from resident guides, local tourist offices and local clubs (see `database/sources.csv`); field verification with residents remains on the publication checklist.

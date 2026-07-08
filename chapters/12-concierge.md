@@ -100,3 +100,12 @@ Dagplannen mogen pas definitief worden als de onderliggende restaurants, routes,
 ## Persoonlijke aanbeveling
 
 Voorlopige gidswaarde: de beste conciergeplanning is rustig. Wie per dag één hoofdkeuze maakt, ervaart meer Saint-Tropez dan wie de kaart vol prikt.
+
+## Wat locals zeggen
+
+- Het lokale dagritme is de beste conciërge: actief van 7 tot 10, zee of schaduw van 12 tot 17, dorpen en terras na 18 uur.
+- Vraag een local naar de beste maand en het antwoord is bijna altijd september, met juni als tweede.
+- Bij mistral schuiven bewoners het programma om: beschutte noordbaaien en binnenlanddorpen in plaats van Pampelonne.
+- Regel vóór aankomst wat bewoners ook regelen: restaurantreserveringen, fietslevering aan de accommodatie en (in de zomer) een dagelijkse blik op de massiftoegangskaart.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

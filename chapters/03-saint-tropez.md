@@ -80,3 +80,13 @@ Maak Saint-Tropez kleiner. Eén wandeling, één goede stop en één duidelijke 
 ## Persoonlijke score
 
 Voorlopige gidswaarde: zeer hoog bij vroege of goed geplande aankomst; laag bij file, hitte en onvoorbereid parkeren.
+
+## Wat locals zeggen
+
+- Graniers, onder de citadel, is het familiestrand van de Tropéziens: ochtendduik, dan koffie in het oude dorp.
+- De oude haven is theater; locals drinken hun koffie op de Place des Lices en spelen er 's avonds jeu de boules onder de platanen.
+- Lokale consensus over de eerste rij restaurants aan de oude haven: duur en middelmatig. Eén straat naar binnen, richting La Ponche, wordt het beter en rustiger.
+- Marktdagen zijn dinsdag en zaterdag; bewoners komen vroeg en zijn om 10.00 uur klaar.
+- Het gratis avondspektakel van de stad: de wandeling over de havendam bij zonsondergang, wanneer de grote jachten binnenlopen.
+
+Deze punten bundelen lokale consensus uit bewonersgidsen, lokale toerismebureaus en lokale clubs (zie `database/sources.csv`); veldverificatie met bewoners staat op de publicatiechecklist.

@@ -44,3 +44,12 @@ Les informations sur l'alcool doivent rester pratiques et retenues. Aucun itiné
 ## Recommandation personnelle
 
 Château Minuty est l'ancrage vin le plus solide dans la base actuelle. Planifiez-le autour de Gassin, Ramatuelle ou Pampelonne, pas dans une journée sportive.
+
+## Ce que disent les locaux
+
+- Là où les locaux achètent leur vin de tous les jours : la cave Les Vignobles de Ramatuelle (depuis 1956, sur la route de l'Escalet), dégustation gratuite au caveau.
+- Acheter comme les habitants : en vrac ou en bag-in-box à la cave ; la bouteille, c'est pour les cadeaux et les restaurants.
+- Au-delà de Minuty, les habitants recommandent Château Barbeyrolles (Gassin, bio, rosé raffiné) et Château des Marres (route des plages, cinq générations d'une même famille).
+- Dégustez le matin et prévoyez un conducteur sobre ou un VAE raisonnable : les routes des domaines sont étroites et chargées en saison.
+
+Ces points rassemblent le consensus local issu de guides d'habitants, d'offices de tourisme et de clubs locaux (voir `database/sources.csv`) ; la vérification sur le terrain avec des habitants reste au programme.
