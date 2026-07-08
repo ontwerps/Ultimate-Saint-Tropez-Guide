@@ -393,6 +393,438 @@ CHAPTER_IMAGE_ALTS = {
     "fr": "Illustration de ce chapitre",
 }
 
+CHAPTER_RANKING_LABELS = {
+    "nl": {
+        "eyebrow": "Beste keuzes",
+        "heading": "Topkeuzes in dit hoofdstuk",
+        "sort": "Sorteer",
+        "sort_rating": "Rating hoog-laag",
+        "sort_price": "Prijs laag-hoog",
+        "sort_name": "Naam A-Z",
+        "rank": "Nr",
+        "choice": "Keuze",
+        "rating": "Rating",
+        "price": "Prijs",
+        "best_for": "Best voor",
+        "review": "Guide review",
+        "rating_note": "Editoriale gidsrating en prijsband; geen externe live reviewscore.",
+    },
+    "en": {
+        "eyebrow": "Best choices",
+        "heading": "Top choices in this chapter",
+        "sort": "Sort",
+        "sort_rating": "Rating high-low",
+        "sort_price": "Price low-high",
+        "sort_name": "Name A-Z",
+        "rank": "No.",
+        "choice": "Choice",
+        "rating": "Rating",
+        "price": "Price",
+        "best_for": "Best for",
+        "review": "Guide review",
+        "rating_note": "Editorial guide rating and price band; not a live third-party review score.",
+    },
+    "fr": {
+        "eyebrow": "Meilleurs choix",
+        "heading": "Meilleurs choix de ce chapitre",
+        "sort": "Trier",
+        "sort_rating": "Note décroissante",
+        "sort_price": "Prix croissant",
+        "sort_name": "Nom A-Z",
+        "rank": "N°",
+        "choice": "Choix",
+        "rating": "Note",
+        "price": "Prix",
+        "best_for": "Idéal pour",
+        "review": "Avis du guide",
+        "rating_note": "Note éditoriale du guide et niveau de prix; pas une note d'avis externe en direct.",
+    },
+}
+
+CHAPTER_RANKINGS = {
+    "04-villages": [
+        {
+            "title": "Saint-Tropez old town",
+            "rating": 5,
+            "price": "€€",
+            "best_for": {
+                "nl": "eerste stadsdag, haven, La Ponche en Citadelle",
+                "en": "first town day, harbour, La Ponche and Citadelle",
+                "fr": "première journée ville, port, La Ponche et Citadelle",
+            },
+            "review": {
+                "nl": "Hoogste gidswaarde wanneer je vroeg gaat en parking vooraf plant.",
+                "en": "Highest guide value when you go early and plan parking first.",
+                "fr": "Meilleure valeur du guide si vous partez tôt avec parking prévu.",
+            },
+        },
+        {
+            "title": "Grimaud village",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "erfgoed en rust", "en": "heritage and calm", "fr": "patrimoine et calme"},
+            "review": {
+                "nl": "Sterkste rustige dorpslaag, vooral met Pont des Fées.",
+                "en": "Best quiet village layer, especially with Pont des Fées.",
+                "fr": "La meilleure couche village calme, surtout avec le Pont des Fées.",
+            },
+        },
+        {
+            "title": "Port Grimaud",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "vlak wandelen en watergevoel", "en": "flat walking and canals", "fr": "marche facile et canaux"},
+            "review": {
+                "nl": "Makkelijkste keuze vanuit Prairies de la Mer, maar minder authentiek dan de heuveldorpen.",
+                "en": "Easiest choice from Prairies de la Mer, but less authentic than the hill villages.",
+                "fr": "Le choix le plus facile depuis Prairies de la Mer, moins authentique que les villages perchés.",
+            },
+        },
+        {
+            "title": "Gassin village",
+            "rating": 4,
+            "price": "€€",
+            "best_for": {"nl": "uitzicht en late middag", "en": "views and late afternoon", "fr": "vue et fin d'après-midi"},
+            "review": {
+                "nl": "Prachtige panorama-keuze als hitte en parkeerlogistiek kloppen.",
+                "en": "A strong panorama choice when heat and parking logistics work.",
+                "fr": "Très bon choix panorama quand chaleur et parking sont maîtrisés.",
+            },
+        },
+        {
+            "title": "Ramatuelle village",
+            "rating": 4,
+            "price": "€€",
+            "best_for": {"nl": "strand, wijn en dorp combineren", "en": "linking beach, wine and village", "fr": "lier plage, vin et village"},
+            "review": {
+                "nl": "Beste dorpskoppeling met Pampelonne, Minuty en Escalet.",
+                "en": "Best village pairing with Pampelonne, Minuty and Escalet.",
+                "fr": "Meilleure liaison village avec Pampelonne, Minuty et Escalet.",
+            },
+        },
+    ],
+    "05-beaches": [
+        {
+            "title": "Plage de Pampelonne",
+            "rating": 5,
+            "price": "€€€€",
+            "best_for": {"nl": "iconische stranddag", "en": "iconic beach day", "fr": "journée plage iconique"},
+            "review": {
+                "nl": "Winnaar voor Saint-Tropez-mythe, mits sector, parking en lunch vooraf gekozen zijn.",
+                "en": "Winner for Saint-Tropez myth when sector, parking and lunch are chosen in advance.",
+                "fr": "Gagnant pour le mythe Saint-Tropez si secteur, parking et déjeuner sont choisis d'avance.",
+            },
+        },
+        {
+            "title": "Plage de la Nartelle",
+            "rating": 4,
+            "price": "€€",
+            "best_for": {"nl": "gezinnen en watersport", "en": "families and watersports", "fr": "familles et sports nautiques"},
+            "review": {
+                "nl": "Praktischer dan Pampelonne voor voorzieningen en minder zware logistiek.",
+                "en": "More practical than Pampelonne for services and easier logistics.",
+                "fr": "Plus pratique que Pampelonne pour les services et la logistique.",
+            },
+        },
+        {
+            "title": "Plage de l'Escalet",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "snorkelen en natuurgevoel", "en": "snorkelling and nature feel", "fr": "snorkeling et nature"},
+            "review": {
+                "nl": "Beste Ramatuelle-natuurkeuze buiten het klassieke beach-clubritme.",
+                "en": "Best Ramatuelle nature choice outside the beach-club rhythm.",
+                "fr": "Meilleur choix nature à Ramatuelle hors rythme beach club.",
+            },
+        },
+        {
+            "title": "Plage de Gigaro",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "kustpad en natuurdag", "en": "coastal path and nature day", "fr": "sentier littoral et nature"},
+            "review": {
+                "nl": "Sterk door shuttle- en wandelcontext; neem water en timing serieus.",
+                "en": "Strong because of shuttle and walking context; take water and timing seriously.",
+                "fr": "Solide grâce au contexte navette et marche; eau et timing comptent.",
+            },
+        },
+        {
+            "title": "Cavalaire Plage du Parc",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "ruimte en toegankelijkheid", "en": "space and accessibility", "fr": "espace et accessibilité"},
+            "review": {
+                "nl": "Comfortabele familiekeuze wanneer je brede baai boven iconografie kiest.",
+                "en": "Comfortable family choice when broad bay beats icon value.",
+                "fr": "Choix familial confortable si la grande baie prime sur l'icône.",
+            },
+        },
+        {
+            "title": "Plage de la Bouillabaisse",
+            "rating": 3,
+            "price": "€€",
+            "best_for": {"nl": "Saint-Tropez-combinatie", "en": "Saint-Tropez pairing", "fr": "combinaison Saint-Tropez"},
+            "review": {
+                "nl": "Handig als korte strandlaag, niet als mooiste natuurdestination.",
+                "en": "Useful as a short beach layer, not the strongest nature destination.",
+                "fr": "Utile comme courte couche plage, pas comme meilleure destination nature.",
+            },
+        },
+    ],
+    "06-hiking": [
+        {
+            "title": "Gigaro - Cap Lardier - Cap Taillat",
+            "rating": 5,
+            "price": "€",
+            "best_for": {"nl": "mooiste natuurwandeling", "en": "best nature walk", "fr": "meilleure marche nature"},
+            "review": {
+                "nl": "Topkeuze voor kustgevoel, mits hitte, water en terugweg serieus gepland zijn.",
+                "en": "Top choice for coastal feeling if heat, water and return are planned seriously.",
+                "fr": "Premier choix littoral si chaleur, eau et retour sont vraiment planifiés.",
+            },
+        },
+        {
+            "title": "Fort-Freinet",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "erfgoed en uitzicht", "en": "heritage and views", "fr": "patrimoine et vue"},
+            "review": {
+                "nl": "Beste binnenland-contrast met de kust, maar niet op hete middagen.",
+                "en": "Best inland contrast to the coast, but not for hot afternoons.",
+                "fr": "Meilleur contraste intérieur, mais pas en après-midi chaude.",
+            },
+        },
+        {
+            "title": "Saint-Tropez - Plage de Tahiti littoral",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "stad naar strand te voet", "en": "town-to-beach walking", "fr": "ville à plage à pied"},
+            "review": {
+                "nl": "Sterk voor ervaren wandelaars die Saint-Tropez anders willen lezen.",
+                "en": "Strong for walkers who want to read Saint-Tropez differently.",
+                "fr": "Fort pour les marcheurs qui veulent lire Saint-Tropez autrement.",
+            },
+        },
+        {
+            "title": "Cap Camarat - Cap Taillat research route",
+            "rating": 3,
+            "price": "€",
+            "best_for": {"nl": "routeonderzoek en caps", "en": "route scouting and caps", "fr": "repérage route et caps"},
+            "review": {
+                "nl": "Veel potentie, maar alleen voorzichtig plannen tot route en restricties lokaal kloppen.",
+                "en": "High potential, but keep planning cautious until route and restrictions are checked.",
+                "fr": "Fort potentiel, mais prudence tant que route et restrictions ne sont pas vérifiées.",
+            },
+        },
+    ],
+    "07-cycling": [
+        {
+            "title": "Prairies de la Mer - Port Grimaud - Sainte-Maxime",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "eerste fietstocht", "en": "first ride", "fr": "première sortie vélo"},
+            "review": {
+                "nl": "Beste instaproute door afstand, kustlijn en koffiestops.",
+                "en": "Best entry route because distance, coast and coffee stops line up.",
+                "fr": "Meilleure entrée grâce à la distance, la côte et les pauses café.",
+            },
+        },
+        {
+            "title": "Gassin - Ramatuelle - Pampelonne loop",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "sportief uitzicht", "en": "sporty views", "fr": "vue sportive"},
+            "review": {
+                "nl": "Mooiste sportieve lus, maar alleen buiten hitte en piekverkeer.",
+                "en": "Best sporty loop, but only outside heat and peak traffic.",
+                "fr": "Meilleure boucle sportive, hors chaleur et trafic de pointe.",
+            },
+        },
+        {
+            "title": "Port Grimaud - Fréjus V65 seed",
+            "rating": 3,
+            "price": "€",
+            "best_for": {"nl": "langere verkenning", "en": "longer scouting ride", "fr": "sortie de repérage longue"},
+            "review": {
+                "nl": "Interessant als onderzoeksroute; check discontinuïteiten en drukte eerst.",
+                "en": "Interesting as a research route; check gaps and traffic first.",
+                "fr": "Intéressant comme route de recherche; vérifier coupures et trafic.",
+            },
+        },
+    ],
+    "08-restaurants": [
+        {
+            "title": "La Vague d'Or",
+            "rating": 5,
+            "price": "€€€€",
+            "best_for": {"nl": "gastronomische hoofdavond", "en": "main gastronomic evening", "fr": "grande soirée gastronomique"},
+            "review": {
+                "nl": "Top van de lijst wanneer de avond zelf het reisdoel is.",
+                "en": "Top of the list when the evening itself is the destination.",
+                "fr": "En tête quand la soirée elle-même est la destination.",
+            },
+        },
+        {
+            "title": "La Voile",
+            "rating": 5,
+            "price": "€€€€",
+            "best_for": {"nl": "verfijnde Ramatuelle-avond", "en": "refined Ramatuelle evening", "fr": "soirée raffinée à Ramatuelle"},
+            "review": {
+                "nl": "Sterk palace-alternatief met Provençaalse focus.",
+                "en": "Strong palace alternative with a Provençal focus.",
+                "fr": "Solide alternative palace avec accent provençal.",
+            },
+        },
+        {
+            "title": "La Tarte Tropézienne",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "iconische zoete stop", "en": "iconic sweet stop", "fr": "pause sucrée iconique"},
+            "review": {
+                "nl": "Beste waarde: klassiek, snel en zonder groot reserveringsritueel.",
+                "en": "Best value: classic, quick and without a major reservation ritual.",
+                "fr": "Meilleur rapport: classique, rapide, sans grand rituel de réservation.",
+            },
+        },
+        {
+            "title": "La Brasserie",
+            "rating": 4,
+            "price": "€€€",
+            "best_for": {"nl": "minder formeel palace-moment", "en": "less formal palace moment", "fr": "moment palace moins formel"},
+            "review": {
+                "nl": "Goed compromis wanneer La Réserve gewenst is zonder volledig gastronomisch ritueel.",
+                "en": "Good compromise when La Réserve is wanted without the full gastronomic ritual.",
+                "fr": "Bon compromis pour La Réserve sans rituel gastronomique complet.",
+            },
+        },
+        {
+            "title": "La Réserve à La Plage",
+            "rating": 4,
+            "price": "€€€€",
+            "best_for": {"nl": "Pampelonne-lunch", "en": "Pampelonne lunch", "fr": "déjeuner à Pampelonne"},
+            "review": {
+                "nl": "Werkt alleen echt met reservering, parking en strandritme op orde.",
+                "en": "Only really works when booking, parking and beach rhythm are aligned.",
+                "fr": "Fonctionne vraiment avec réservation, parking et rythme plage calés.",
+            },
+        },
+        {
+            "title": "Sénéquier",
+            "rating": 3,
+            "price": "€€€",
+            "best_for": {"nl": "havenpodium", "en": "harbour theatre", "fr": "scène du port"},
+            "review": {
+                "nl": "Meer scène dan pure prijs-kwaliteit; kies het bewust.",
+                "en": "More scene than pure value; choose it knowingly.",
+                "fr": "Plus scène que rapport qualité-prix; à choisir en conscience.",
+            },
+        },
+    ],
+    "09-wine": [
+        {
+            "title": "Château Minuty caveau",
+            "rating": 5,
+            "price": "€€",
+            "best_for": {"nl": "eerste wijnstop", "en": "first wine stop", "fr": "première étape vin"},
+            "review": {
+                "nl": "Sterkste wijnanker omdat bezoekvormen en caveau het best gedocumenteerd zijn.",
+                "en": "Strongest wine anchor because visit formats and cellar are best documented.",
+                "fr": "Meilleur ancrage vin car visites et caveau sont les mieux documentés.",
+            },
+        },
+        {
+            "title": "Ramatuelle rosé route",
+            "rating": 4,
+            "price": "€€",
+            "best_for": {"nl": "wijn combineren met dorp/strand", "en": "pairing wine with village/beach", "fr": "lier vin, village et plage"},
+            "review": {
+                "nl": "Beste manier om wijn niet als losse stop maar als dagritme te gebruiken.",
+                "en": "Best way to make wine part of the day rhythm, not a detached stop.",
+                "fr": "Meilleure façon d'intégrer le vin au rythme de journée.",
+            },
+        },
+        {
+            "title": "La Vague d'Or wine pairing",
+            "rating": 4,
+            "price": "€€€€",
+            "best_for": {"nl": "gastronomische pairing", "en": "gastronomic pairing", "fr": "accord gastronomique"},
+            "review": {
+                "nl": "Alleen kiezen als de hele avond rond gastronomie draait.",
+                "en": "Choose only when the whole evening revolves around gastronomy.",
+                "fr": "À choisir seulement si toute la soirée tourne autour de la gastronomie.",
+            },
+        },
+        {
+            "title": "Château des Marres",
+            "rating": 3,
+            "price": "€€",
+            "best_for": {"nl": "rustiger alternatief onderzoeken", "en": "scouting a quieter alternative", "fr": "repérer une alternative plus calme"},
+            "review": {
+                "nl": "Interessant, maar eerst primaire bezoekinformatie bevestigen.",
+                "en": "Interesting, but primary visit information needs confirmation first.",
+                "fr": "Intéressant, mais les informations de visite doivent être confirmées.",
+            },
+        },
+    ],
+    "10-hidden-gems": [
+        {
+            "title": "Domaine du Rayol",
+            "rating": 5,
+            "price": "€€",
+            "best_for": {"nl": "premium natuur halve dag", "en": "premium nature half-day", "fr": "demi-journée nature premium"},
+            "review": {
+                "nl": "Niet geheim, wel de rijkste rustige omweg buiten het strandritme.",
+                "en": "Not secret, but the richest quiet detour outside beach rhythm.",
+                "fr": "Pas secret, mais détour calme le plus riche hors rythme plage.",
+            },
+        },
+        {
+            "title": "Fort-Freinet",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "Maures-erfgoed", "en": "Maures heritage", "fr": "patrimoine des Maures"},
+            "review": {
+                "nl": "Sterke tegenpool van kustdrukte met echte wandelwaarde.",
+                "en": "Strong counterpoint to coast crowds with real walking value.",
+                "fr": "Vrai contrepoint à la foule côtière avec valeur de marche.",
+            },
+        },
+        {
+            "title": "Pont des Fées",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "Grimaud-erfgoedwandeling", "en": "Grimaud heritage walk", "fr": "marche patrimoine à Grimaud"},
+            "review": {
+                "nl": "Kleine omweg die Grimaud meer diepte geeft.",
+                "en": "Small detour that gives Grimaud more depth.",
+                "fr": "Petit détour qui donne plus de profondeur à Grimaud.",
+            },
+        },
+        {
+            "title": "Cimetière marin de Saint-Tropez",
+            "rating": 4,
+            "price": "€",
+            "best_for": {"nl": "stille culturele wandeling", "en": "quiet cultural walk", "fr": "marche culturelle calme"},
+            "review": {
+                "nl": "Waardevol als respectvolle rustlaag onder de Citadelle.",
+                "en": "Valuable as a respectful quiet layer below the Citadelle.",
+                "fr": "Précieux comme couche calme et respectueuse sous la Citadelle.",
+            },
+        },
+        {
+            "title": "Moulin de Paillas",
+            "rating": 3,
+            "price": "€",
+            "best_for": {"nl": "uitzicht bij Ramatuelle", "en": "viewpoint near Ramatuelle", "fr": "point de vue près de Ramatuelle"},
+            "review": {
+                "nl": "Mooi potentieel, maar toegang en parking eerst lokaal controleren.",
+                "en": "Good potential, but access and parking need local checking first.",
+                "fr": "Beau potentiel, mais accès et parking à vérifier localement.",
+            },
+        },
+    ],
+}
+
 
 def parse_front_matter(text):
     if not text.startswith("---\n"):
@@ -574,6 +1006,86 @@ def chapter_image_src(chapter, depth):
 def index_hero_image_src(lang):
     prefix = "" if lang == "nl" else "../"
     return f"{prefix}assets/images/chapters/03-saint-tropez.svg"
+
+
+def price_sort_value(price):
+    return price.count("€")
+
+
+def localized_text(value, lang):
+    if isinstance(value, dict):
+        return value.get(lang) or value.get("nl") or ""
+    return value
+
+
+def ranking_items_for_chapter(chapter):
+    items = CHAPTER_RANKINGS.get(chapter["path"].stem, [])
+    return sorted(
+        items,
+        key=lambda item: (-item["rating"], price_sort_value(item["price"]), item["title"].lower()),
+    )
+
+
+def render_chapter_ranking(chapter, lang):
+    items = ranking_items_for_chapter(chapter)
+    if not items:
+        return ""
+
+    labels = CHAPTER_RANKING_LABELS[lang]
+    key = chapter["path"].stem
+    rows = []
+    for index, item in enumerate(items, start=1):
+        title = html.escape(item["title"])
+        price = html.escape(item["price"])
+        best_for = html.escape(localized_text(item["best_for"], lang))
+        review = html.escape(localized_text(item["review"], lang))
+        rows.append(
+            f"""            <tr data-rating="{item["rating"]}" data-price="{price_sort_value(item["price"])}" data-name="{title.lower()}" data-original-order="{index}">
+              <td class="ranking-number">{index}</td>
+              <th scope="row">{title}</th>
+              <td><span aria-label="{labels["rating"]}: {item["rating"]} van 5">{stars(item["rating"])}</span></td>
+              <td>{price}</td>
+              <td>{best_for}</td>
+              <td>{review}</td>
+            </tr>"""
+        )
+    rows_html = "\n".join(rows)
+
+    return f"""    <section class="chapter-ranking" aria-labelledby="ranking-{html.escape(key)}">
+      <div class="ranking-header">
+        <div>
+          <p class="eyebrow">{html.escape(labels["eyebrow"])}</p>
+          <h2 id="ranking-{html.escape(key)}">{html.escape(labels["heading"])}</h2>
+          <p class="rating-note">{html.escape(labels["rating_note"])}</p>
+        </div>
+        <label class="sort-control">
+          <span>{html.escape(labels["sort"])}</span>
+          <select data-ranking-sort="{html.escape(key)}" onchange="sortRankingTable('{html.escape(key)}', this.value)">
+            <option value="rating">{html.escape(labels["sort_rating"])}</option>
+            <option value="price">{html.escape(labels["sort_price"])}</option>
+            <option value="name">{html.escape(labels["sort_name"])}</option>
+          </select>
+        </label>
+      </div>
+      <div class="table-wrap">
+        <table data-ranking-table="{html.escape(key)}">
+          <thead>
+            <tr>
+              <th>{html.escape(labels["rank"])}</th>
+              <th>{html.escape(labels["choice"])}</th>
+              <th>{html.escape(labels["rating"])}</th>
+              <th>{html.escape(labels["price"])}</th>
+              <th>{html.escape(labels["best_for"])}</th>
+              <th>{html.escape(labels["review"])}</th>
+            </tr>
+          </thead>
+          <tbody>
+{rows_html}
+          </tbody>
+        </table>
+      </div>
+    </section>
+"""
 
 
 def render_editorial_card(item, labels, rank=None, featured=False):
@@ -775,6 +1287,64 @@ def page_shell(title, body, lang="nl", depth=0, page_kind="index", output_name=N
       gap: 0 24px;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     }}
+    .chapter-ranking {{
+      border-bottom: 1px solid var(--line);
+      margin: 0 0 32px;
+      padding: 0 0 30px;
+    }}
+    .ranking-header {{
+      align-items: end;
+      display: flex;
+      gap: 16px;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }}
+    .ranking-header h2 {{
+      margin-top: 0;
+    }}
+    .sort-control {{
+      color: var(--muted);
+      display: grid;
+      gap: 6px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      min-width: 190px;
+    }}
+    .sort-control select {{
+      background: #ffffff;
+      border: 1px solid var(--line);
+      color: var(--ink);
+      font: inherit;
+      padding: 8px 10px;
+    }}
+    .table-wrap {{
+      overflow-x: auto;
+    }}
+    .chapter-ranking table {{
+      border-collapse: collapse;
+      min-width: 860px;
+      width: 100%;
+    }}
+    .chapter-ranking th,
+    .chapter-ranking td {{
+      border-top: 1px solid var(--line);
+      padding: 11px 10px;
+      text-align: left;
+      vertical-align: top;
+    }}
+    .chapter-ranking thead th {{
+      color: var(--muted);
+      font-size: 0.85rem;
+      text-transform: uppercase;
+    }}
+    .chapter-ranking tbody th {{
+      min-width: 190px;
+    }}
+    .ranking-number {{
+      color: var(--accent);
+      font-weight: 800;
+      width: 42px;
+    }}
     .chapter-hero {{
       margin: 0 0 28px;
     }}
@@ -839,6 +1409,10 @@ def page_shell(title, body, lang="nl", depth=0, page_kind="index", output_name=N
       .hero {{
         grid-template-columns: 1fr;
       }}
+      .ranking-header {{
+        align-items: stretch;
+        display: grid;
+      }}
     }}
   </style>
 </head>
@@ -858,6 +1432,38 @@ def page_shell(title, body, lang="nl", depth=0, page_kind="index", output_name=N
 {body}
   </main>
   <footer>{config["footer"]}</footer>
+  <script>
+    function sortRankingTable(key, mode) {{
+      const table = document.querySelector('[data-ranking-table="' + key + '"]');
+      if (!table) return;
+      const tbody = table.querySelector('tbody');
+      const rows = Array.from(tbody.querySelectorAll('tr'));
+      rows.sort((left, right) => {{
+        const leftRating = Number(left.dataset.rating);
+        const rightRating = Number(right.dataset.rating);
+        const leftPrice = Number(left.dataset.price);
+        const rightPrice = Number(right.dataset.price);
+        const leftOrder = Number(left.dataset.originalOrder);
+        const rightOrder = Number(right.dataset.originalOrder);
+        if (mode === 'price') {{
+          return leftPrice - rightPrice || rightRating - leftRating || leftOrder - rightOrder;
+        }}
+        if (mode === 'name') {{
+          return left.dataset.name.localeCompare(right.dataset.name) || leftOrder - rightOrder;
+        }}
+        return rightRating - leftRating || leftPrice - rightPrice || leftOrder - rightOrder;
+      }});
+      rows.forEach((row, index) => {{
+        row.querySelector('.ranking-number').textContent = String(index + 1);
+        tbody.appendChild(row);
+      }});
+    }}
+    document.addEventListener('DOMContentLoaded', () => {{
+      document.querySelectorAll('[data-ranking-sort]').forEach((select) => {{
+        sortRankingTable(select.dataset.rankingSort, select.value);
+      }});
+    }});
+  </script>
 </body>
 </html>
 """
@@ -908,8 +1514,9 @@ def render_chapter(chapter, lang="nl", root=ROOT):
             f'    <figure class="chapter-hero"><img src="{chapter_image_src(chapter, depth)}" '
             f'alt="{html.escape(CHAPTER_IMAGE_ALTS[lang])}"></figure>\n'
         )
+    ranking_html = render_chapter_ranking(chapter, lang)
     body = f"""    <p><a href="{home_href(lang, depth)}">{config["back"]}</a></p>
-{image_html}    <article>
+{image_html}{ranking_html}    <article>
       <p class="status">{config["chapter_label"]} {chapter["chapter"]} - {html.escape(display_status(chapter["status"], lang))}</p>
 {chapter_html}
     </article>"""

@@ -81,3 +81,7 @@ Expanded the guide chapters with richer local planning content, including day rh
 ## v0.20
 
 Added editorial winner guidance, Top 10 recommendations, guide star ratings, price bands, review-style notes and local chapter hero image assets for the multilingual GitHub Pages guide.
+
+## v0.21
+
+Added sortable per-chapter ranking tables with editorial star ratings, price bands and guide reviews for beaches, restaurants, wine, cycling, walking, villages/cities and hidden gems.
