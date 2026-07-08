@@ -19,4 +19,12 @@ This repository contains the source for a premium travel handbook covering the G
 - `scripts/`: future generation and validation automation.
 - `output/`: generated exports.
 
+## Validation
+
+Run this before committing content changes:
+
+```bash
+python3 scripts/validate_project.py
+```
+
 See PROJECT.md first.
