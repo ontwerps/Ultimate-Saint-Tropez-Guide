@@ -8,41 +8,41 @@ status: draft
 
 ## Samenvatting
 
-Dit hoofdstuk geeft per fietstype - racefiets, gravelbike en gewone fiets (trekking/e-bike) - de beste routes rond de Golf van Saint-Tropez, met gidsrating, afstand, hoogtemeters en gemiddelde tijd. De belangrijkste lokale wijsheid: niet de route maar het tijdstip bepaalt of een rit slaagt. Tussen 10.00 en 19.00 uur staat de kustweg in juli en augustus vast; lokale renners rijden tussen 6.30 en 9.30 uur.
+Dit hoofdstuk geeft per fietstype - racefiets, gravelbike en gewone fiets (trekking/e-bike) - de beste routes rond de Golf van Saint-Tropez, met gidsrating, afstand, hoogtemeters, gemiddelde tijd en een Komoot-link om te navigeren. Alle routes starten bij Camping Prairies de la Mer, tenzij anders vermeld. De belangrijkste lokale wijsheid: niet de route maar het tijdstip bepaalt of een rit slaagt. Tussen 10.00 en 19.00 uur staat de kustweg in juli en augustus vast; lokale renners rijden tussen 6.30 en 9.30 uur.
 
 ## Toproutes racefiets
 
-| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Collebasse-lus: Cogolin - Gassin - Ramatuelle - Col de Collebasse - La Croix-Valmer - Cogolin | ★★★★★ | 40 km | ca. 450 m | 1u45 - 2u15 |
-| 2 | Corniche des Maures: Cogolin - La Môle - Col du Canadel - Rayol - Cavalaire - retour | ★★★★★ | 55 km | ca. 700 m | 2u30 - 3u |
-| 3 | Boucle des Maures: Grimaud - Canadel - Col du Babaou - Collobrières - Col de Taillude - Grimaud | ★★★★★ | 100 km | ca. 1.600 m | 4u - 5u |
-| 4 | Rondje presqu'île: Saint-Tropez - Les Salins - Pampelonne - l'Escalet - La Croix-Valmer - Gassin | ★★★★ | 45 km | ca. 500 m | 2u - 2u30 |
-| 5 | Korte lus Gassin - Ramatuelle - Pampelonne | ★★★★ | 34 km | ca. 350 m | 1u30 - 1u45 |
+| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd | Komoot |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Collebasse-lus: Prairies - Gassin - Ramatuelle - Col de Collebasse - La Croix-Valmer - Cogolin | ★★★★★ | 48 km | ca. 470 m | 2u - 2u30 | [Route](https://www.komoot.com/smarttour/e990834231/col-de-collebasse-depuis-saint-tropez) |
+| 2 | Corniche des Maures: Prairies - Cogolin - La Môle - Col du Canadel - Rayol - Cavalaire - retour | ★★★★★ | 62 km | ca. 730 m | 2u45 - 3u15 | [Col du Canadel](https://www.komoot.com/highlight/145613) |
+| 3 | Boucle des Maures: Prairies - Grimaud - Canadel - Col du Babaou - Collobrières - Col de Taillude - retour | ★★★★★ | 105 km | ca. 1.650 m | 4u15 - 5u15 | [Col du Babaou](https://www.komoot.com/highlight/842617) |
+| 4 | Rondje presqu'île: Prairies - Saint-Tropez - Les Salins - Pampelonne - l'Escalet - La Croix-Valmer - Gassin | ★★★★ | 55 km | ca. 550 m | 2u30 - 3u | [Routes Ramatuelle](https://www.komoot.com/guide/1166392/road-cycling-routes-around-ramatuelle) |
+| 5 | Korte lus: Prairies - Gassin - Ramatuelle - Pampelonne | ★★★★ | 34 km | ca. 350 m | 1u30 - 1u45 | [Routes Saint-Tropez](https://www.komoot.com/guide/1166477/rennradtouren-rund-um-saint-tropez) |
 
 De Col de Collebasse (top 130 m) is dé lokale trainingscol: 3,1 km vanaf de Ramatuelle-kant, gemiddeld 3,1% met een steilste stuk rond 7%, in de schaduw van pijnbomen en met zee-uitzicht. De Col du Canadel (267 m) geeft het mooiste kustpanorama van de streek; de zuidkant kijkt permanent op de Middellandse Zee. De Boucle des Maures over Babaou en Taillude (vanaf Collobrières 8 km à 3,25%) is de klassieker voor getrainde renners: bergpassen, stille binnenwegen en kastanjedorpen.
 
 ## Toproutes gravelbike
 
-| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Piste des Crêtes: Grimaud - kamlijn Massif des Maures - La Garde-Freinet - Grimaud | ★★★★★ | 35 km | ca. 750 m | 2u30 - 3u |
-| 2 | Plaine des Maures en Lac des Escarcets vanaf La Garde-Freinet | ★★★★ | 40 km | ca. 400 m | 2u30 |
-| 3 | Maures-traverse richting Notre-Dame des Anges (767 m, hoogste punt van de Maures) | ★★★★ | 60 km | ca. 1.400 m | 4u - 5u |
-| 4 | Wijngaard-gravel door de vlakte van Gassin en Ramatuelle | ★★★ | 25 km | ca. 250 m | 1u30 |
+| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd | Komoot |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Piste des Crêtes: Prairies - Grimaud - kamlijn Massif des Maures - La Garde-Freinet - retour | ★★★★★ | 40 km | ca. 780 m | 3u | [Rond La Garde-Freinet](https://www.komoot.com/guide/1257598/cycling-around-la-garde-freinet) |
+| 2 | Plaine des Maures en Lac des Escarcets vanaf La Garde-Freinet (start per auto of maak er een lange dag van) | ★★★★ | 40 km | ca. 400 m | 2u30 | [Gravel Plaine des Maures](https://www.komoot.com/guide/3456968/gravel-biking-around-reserve-naturelle-de-la-plaine-des-maures) |
+| 3 | Maures-traverse: Prairies - Grimaud - richting Notre-Dame des Anges (767 m, hoogste punt van de Maures) | ★★★★ | 65 km | ca. 1.450 m | 4u30 - 5u30 | [Gravel rond Cogolin](https://www.komoot.com/guide/3489698/gravel-biking-around-cogolin) |
+| 4 | Wijngaard-gravel: Prairies - vlakte van Gassin en Ramatuelle - retour | ★★★ | 25 km | ca. 250 m | 1u30 | [Rond Grimaud](https://www.komoot.com/guide/1131798/) |
 
 Het Massif des Maures is een van de beste gravelgebieden van de Var: eindeloze bospistes door kurkeiken en kastanjes. Lokale gravelrijders (verenigd rond de club Maures Gravel, ontstaan uit de routes van Laurent Biger) rijden de kamlijnpiste naar La Garde-Freinet als signatuurrit. Let op twee dingen die alleen locals standaard checken: de Plaine des Maures is natuurreservaat (blijf op toegestane pistes) en in de zomer sluit de prefectuur op risicodagen complete massieven wegens brandgevaar - check de dagkaart massiftoegang van het departement Var voor vertrek.
 
 ## Toproutes gewone fiets (trekking / e-bike)
 
-| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Kustfietspad V65: Prairies de la Mer - Port Grimaud - Sainte-Maxime (retour) | ★★★★★ | 23 km | ca. 50 m | 1u15 - 1u45 |
-| 2 | V65 doorrijden: Port Grimaud - Les Issambres - Saint-Aygulf - Fréjus (enkel) | ★★★★ | 31 km | ca. 120 m | 2u - 2u30 |
-| 3 | Familierit: Saint-Tropez - Les Salins - Pampelonne noord (retour) | ★★★★ | 20 km | ca. 150 m | 1u30 |
-| 4 | Dorpenrit e-bike: Port Grimaud - Cogolin - Grimaud dorp (retour) | ★★★★ | 18 km | ca. 200 m | 1u30 |
+| Nr | Route | Rating | Afstand | Hoogtemeters | Gem. tijd | Komoot |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Kustfietspad V65: Prairies - Port Grimaud - Sainte-Maxime (retour) | ★★★★★ | 23 km | ca. 50 m | 1u15 - 1u45 | [Fietsen rond Saint-Tropez](https://www.komoot.com/guide/1166478/cycling-around-saint-tropez) |
+| 2 | V65 doorrijden: Prairies - Les Issambres - Saint-Aygulf - Fréjus (enkel) | ★★★★ | 32 km | ca. 120 m | 2u - 2u30 | [Fietsen rond Saint-Tropez](https://www.komoot.com/guide/1166478/cycling-around-saint-tropez) |
+| 3 | Familierit: Prairies - Saint-Tropez - Les Salins (retour) | ★★★★ | 25 km | ca. 180 m | 1u45 - 2u15 | [Fietsen rond Ramatuelle](https://www.komoot.com/guide/1166393/cycling-around-ramatuelle) |
+| 4 | Dorpenrit e-bike: Prairies - Cogolin - Grimaud dorp (retour) | ★★★★ | 20 km | ca. 200 m | 1u30 | [Rond Grimaud](https://www.komoot.com/guide/1131798/) |
 
-Het Parcours Cyclable du Littoral (V65) volgt een oude spoorlijn en is de veiligste fietsverbinding van de streek: van de 120 km is 92 km aangelegd, waarvan 77 km vrijliggend. Het is meteen ook een van de drukst bereden fietspaden van Frankrijk (ruim 310.000 passages per jaar gemeten bij Grimaud), dus reken op wandelaars, skaters en gezinnen. Ten oosten van Sainte-Maxime ontbreekt nog een stuk van 7,2 km; daar rijd je tijdelijk op de D559.
+Het Parcours Cyclable du Littoral (V65) begint praktisch voor de deur van Prairies de la Mer, volgt een oude spoorlijn en is de veiligste fietsverbinding van de streek: van de 120 km is 92 km aangelegd, waarvan 77 km vrijliggend. Het is meteen ook een van de drukst bereden fietspaden van Frankrijk (ruim 310.000 passages per jaar gemeten bij Grimaud), dus reken op wandelaars, skaters en gezinnen. Ten oosten van Sainte-Maxime ontbreekt nog een stuk van 7,2 km; daar rijd je tijdelijk op de D559.
 
 ## Wat locals zeggen
 
@@ -51,7 +51,7 @@ Het Parcours Cyclable du Littoral (V65) volgt een oude spoorlijn en is de veilig
 - Neem twee bidons met elektrolyten: hitte is hier probleem nummer één. Dorpsfonteinen in Grimaud, Gassin, Ramatuelle en La Garde-Freinet zijn de klassieke vulpunten.
 - Zomerregel voor het massief: op dagen met hoog brandrisico zijn bospistes verboden terrein. Locals checken elke avond de kaart massiftoegang van de Var voor de volgende dag.
 - Kies je koffiestop als een local: Place des Lices in Saint-Tropez op marktdag (dinsdag en zaterdag), of het terras van Collobrières halverwege de Boucle des Maures.
-- Verhuurders in de golf leveren race-, gravel- en e-bikes aan bij accommodaties; voor racefietsen geldt: reserveer in het seizoen ruim vooraf.
+- Verhuurders in de golf leveren race-, gravel- en e-bikes aan bij accommodaties, ook bij Prairies de la Mer; voor racefietsen geldt: reserveer in het seizoen ruim vooraf.
 
 ## Routecriteria
 
@@ -63,12 +63,12 @@ Het Parcours Cyclable du Littoral (V65) volgt een oude spoorlijn en is de veilig
 
 ## Database
 
-Alle routes horen in `database/bike_routes.csv`. GPX-bestanden worden apart opgeslagen onder `assets/gpx/` en gekoppeld via een bestandsnaam of URL. De eerste seed-GPX-bestanden zijn control-tracks voor onderzoek, geen definitieve navigatiebestanden.
+Alle routes horen in `database/bike_routes.csv`. Navigatie loopt via de Komoot-links in de tabellen; lokale GPX-bestanden onder `assets/gpx/` blijven onderzoekssporen.
 
 ## Bronstatus
 
-De tabellen combineren officiële route-informatie (V65/Parcours Cyclable du Littoral, klimprofielen van Collebasse en Canadel) met editorial afstands- en tijdsindicaties. Ratings zijn gidsratings. Gemiddelde tijden gaan uit van 23-27 km/u op de racefiets, 15-18 km/u op gravel en 14-16 km/u op de gewone fiets, exclusief stops. Exacte geometrie, onderbrekingen en actuele toegangsregels blijven veldverificatie.
+De tabellen combineren officiële route-informatie (V65/Parcours Cyclable du Littoral, klimprofielen van Collebasse en Canadel) met editorial afstands- en tijdsindicaties vanaf Camping Prairies de la Mer. Ratings zijn gidsratings. Gemiddelde tijden gaan uit van 23-27 km/u op de racefiets, 15-18 km/u op gravel en 14-16 km/u op de gewone fiets, exclusief stops. Komoot-links verwijzen naar de best passende route- of regiopagina; exacte geometrie en actuele toegangsregels blijven veldverificatie.
 
 ## Persoonlijke aanbeveling
 
-Eerste rit: het kustfietspad naar Sainte-Maxime, ook met kinderen of e-bike. Mooiste racedag: de Collebasse-lus vroeg in de ochtend, met koffiestop in Ramatuelle. Beste gravelervaring: de kamlijn naar La Garde-Freinet buiten de zomerpiek. De Boucle des Maures is de koninginnenrit voor wie 100 km met 1.600 hoogtemeters aankan.
+Eerste rit: het kustfietspad naar Sainte-Maxime, ook met kinderen of e-bike. Mooiste racedag: de Collebasse-lus vroeg in de ochtend, met koffiestop in Ramatuelle. Beste gravelervaring: de kamlijn naar La Garde-Freinet buiten de zomerpiek. De Boucle des Maures is de koninginnenrit voor wie 105 km met 1.650 hoogtemeters aankan.

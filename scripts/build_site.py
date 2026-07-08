@@ -441,6 +441,8 @@ CHAPTER_RANKING_LABELS = {
     },
 }
 
+CHAPTERS_WITHOUT_PRICE = {"07-cycling"}
+
 CHAPTER_RANKINGS = {
     "04-villages": [
         {
@@ -619,7 +621,7 @@ CHAPTER_RANKINGS = {
     ],
     "07-cycling": [
         {
-            "title": "Collebasse loop (race, 40 km / 450 m)",
+            "title": "Collebasse loop (race, 48 km / 470 m)",
             "rating": 5,
             "price": "€",
             "best_for": {"nl": "mooiste racedag", "en": "best road-bike day", "fr": "plus belle sortie route"},
@@ -630,7 +632,7 @@ CHAPTER_RANKINGS = {
             },
         },
         {
-            "title": "Corniche des Maures - Col du Canadel (race, 55 km / 700 m)",
+            "title": "Corniche des Maures - Col du Canadel (race, 62 km / 730 m)",
             "rating": 5,
             "price": "€",
             "best_for": {"nl": "kustpanorama", "en": "coastal panorama", "fr": "panorama côtier"},
@@ -641,7 +643,7 @@ CHAPTER_RANKINGS = {
             },
         },
         {
-            "title": "Piste des Crêtes - La Garde-Freinet (gravel, 35 km / 750 m)",
+            "title": "Piste des Crêtes - La Garde-Freinet (gravel, 40 km / 780 m)",
             "rating": 5,
             "price": "€",
             "best_for": {"nl": "gravel-signatuurrit", "en": "signature gravel ride", "fr": "sortie gravel signature"},
@@ -663,7 +665,7 @@ CHAPTER_RANKINGS = {
             },
         },
         {
-            "title": "Boucle des Maures (race, 100 km / 1.600 m)",
+            "title": "Boucle des Maures (race, 105 km / 1.650 m)",
             "rating": 4,
             "price": "€",
             "best_for": {"nl": "koninginnenrit", "en": "queen stage", "fr": "étape reine"},
@@ -674,7 +676,7 @@ CHAPTER_RANKINGS = {
             },
         },
         {
-            "title": "Rondje presqu'île (race, 45 km / 500 m)",
+            "title": "Rondje presqu'île (race, 55 km / 550 m)",
             "rating": 4,
             "price": "€",
             "best_for": {"nl": "kapen en stranden", "en": "capes and beaches", "fr": "caps et plages"},
@@ -1098,23 +1100,28 @@ def render_chapter_ranking(chapter, lang):
 
     labels = CHAPTER_RANKING_LABELS[lang]
     key = chapter["path"].stem
+    show_price = key not in CHAPTERS_WITHOUT_PRICE
     rows = []
     for index, item in enumerate(items, start=1):
         title = html.escape(item["title"])
         price = html.escape(item["price"])
         best_for = html.escape(localized_text(item["best_for"], lang))
         review = html.escape(localized_text(item["review"], lang))
+        price_cell = f"\n              <td>{price}</td>" if show_price else ""
         rows.append(
             f"""            <tr data-rating="{item["rating"]}" data-price="{price_sort_value(item["price"])}" data-name="{title.lower()}" data-original-order="{index}">
               <td class="ranking-number">{index}</td>
               <th scope="row">{title}</th>
-              <td><span aria-label="{labels["rating"]}: {item["rating"]} van 5">{stars(item["rating"])}</span></td>
-              <td>{price}</td>
+              <td><span aria-label="{labels["rating"]}: {item["rating"]} van 5">{stars(item["rating"])}</span></td>{price_cell}
               <td>{best_for}</td>
               <td>{review}</td>
             </tr>"""
         )
     rows_html = "\n".join(rows)
+    price_header = f"\n              <th>{html.escape(labels['price'])}</th>" if show_price else ""
+    price_sort_option = (
+        f'\n            <option value="price">{html.escape(labels["sort_price"])}</option>' if show_price else ""
+    )
 
     return f"""    <section class="chapter-ranking" aria-labelledby="ranking-{html.escape(key)}">
       <div class="ranking-header">
@@ -1126,8 +1133,7 @@ def render_chapter_ranking(chapter, lang):
         <label class="sort-control">
           <span>{html.escape(labels["sort"])}</span>
           <select data-ranking-sort="{html.escape(key)}" onchange="sortRankingTable('{html.escape(key)}', this.value)">
-            <option value="rating">{html.escape(labels["sort_rating"])}</option>
-            <option value="price">{html.escape(labels["sort_price"])}</option>
+            <option value="rating">{html.escape(labels["sort_rating"])}</option>{price_sort_option}
             <option value="name">{html.escape(labels["sort_name"])}</option>
           </select>
         </label>
@@ -1138,8 +1144,7 @@ def render_chapter_ranking(chapter, lang):
             <tr>
               <th>{html.escape(labels["rank"])}</th>
               <th>{html.escape(labels["choice"])}</th>
-              <th>{html.escape(labels["rating"])}</th>
-              <th>{html.escape(labels["price"])}</th>
+              <th>{html.escape(labels["rating"])}</th>{price_header}
               <th>{html.escape(labels["best_for"])}</th>
               <th>{html.escape(labels["review"])}</th>
             </tr>
@@ -1283,7 +1288,7 @@ def page_shell(title, body, lang="nl", depth=0, page_kind="index", output_name=N
       border-bottom: 1px solid var(--line);
     }}
     .hero img {{
-      aspect-ratio: 2 / 1;
+      aspect-ratio: 3 / 1;
       display: block;
       height: auto;
       object-fit: cover;
@@ -1432,7 +1437,7 @@ def page_shell(title, body, lang="nl", depth=0, page_kind="index", output_name=N
       margin: 0 0 28px;
     }}
     .chapter-hero img {{
-      aspect-ratio: 2 / 1;
+      aspect-ratio: 3 / 1;
       display: block;
       height: auto;
       object-fit: cover;

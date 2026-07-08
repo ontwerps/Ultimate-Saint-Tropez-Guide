@@ -1,1 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img"><rect width="1200" height="600" fill="#eef5f3"/><rect x="160" y="90" width="880" height="420" rx="24" fill="#fff7df"/><path d="M185 210 C310 150 415 250 555 190 C700 130 780 220 1005 165" fill="none" stroke="#0f766e" stroke-width="28" stroke-linecap="round"/><path d="M210 410 C360 340 490 425 640 355 C775 292 865 360 1010 300" fill="none" stroke="#d95f43" stroke-width="24" stroke-linecap="round"/><circle cx="430" cy="245" r="32" fill="#f2b84b"/><circle cx="720" cy="345" r="32" fill="#0f91a3"/><circle cx="870" cy="205" r="32" fill="#172026"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fdf3dd"/><stop offset="0.55" stop-color="#cfe9ec"/><stop offset="1" stop-color="#bfe0e4"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#3ba8a0"/><stop offset="1" stop-color="#0f766e"/>
+</linearGradient>
+<radialGradient id="sunglow" cx="0.5" cy="0.5" r="0.5">
+  <stop offset="0" stop-color="#f8cf7a" stop-opacity="0.9"/><stop offset="1" stop-color="#f8cf7a" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1200" height="400" fill="url(#sky)"/>
+<circle cx="980" cy="96" r="120" fill="url(#sunglow)"/>
+<circle cx="980" cy="96" r="42" fill="#f2b84b"/>
+<path d="M0 236 C160 190 300 214 460 200 C640 184 760 214 900 202 C1030 192 1120 206 1200 196 L1200 272 L0 272 Z" fill="#7fb5a4" opacity="0.55"/>
+<path d="M0 258 C180 224 340 246 520 230 C720 212 880 242 1040 228 C1110 222 1160 230 1200 224 L1200 272 L0 272 Z" fill="#4f9282" opacity="0.75"/>
+<rect y="272" width="1200" height="128" fill="url(#sea)"/>
+<g stroke="#fff7df" stroke-width="4" stroke-linecap="round" opacity="0.5">
+  <path d="M90 306 h56"/><path d="M240 334 h40"/><path d="M420 312 h64"/>
+  <path d="M640 342 h44"/><path d="M840 308 h58"/><path d="M1060 330 h48"/>
+</g>
+<path d="M0 332 C200 318 420 326 640 320 C860 314 1040 324 1200 316 L1200 400 L0 400 Z" fill="#ecd9a8"/>
+<path d="M0 332 C200 318 420 326 640 320 C860 314 1040 324 1200 316" fill="none" stroke="#d9bf85" stroke-width="5" opacity="0.7"/>
+
+<g transform="translate(150,140)">
+  <path d="M0 40 L110 12 L220 40 L330 12 L330 176 L220 204 L110 176 L0 204 Z" fill="#fff7df" stroke="#172026" stroke-width="7"/>
+  <path d="M110 12 V176 M220 40 V204" stroke="#172026" stroke-width="5" opacity="0.35"/>
+  <path d="M30 160 C90 110 150 140 200 92 C240 56 280 70 306 46" fill="none" stroke="#0f766e" stroke-width="8" stroke-dasharray="2 16" stroke-linecap="round"/>
+  <g transform="translate(400,80)">
+    <circle cx="60" cy="60" r="60" fill="#fff7df" stroke="#172026" stroke-width="8"/>
+    <path d="M60 14 L76 60 L60 106 L44 60 Z" fill="#d97757" stroke="#172026" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="60" cy="60" r="8" fill="#f2b84b" stroke="#172026" stroke-width="4"/>
+  </g>
+</g>
+</svg>

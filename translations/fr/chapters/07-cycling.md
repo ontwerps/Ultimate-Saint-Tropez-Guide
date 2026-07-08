@@ -8,41 +8,41 @@ status: draft
 
 ## Résumé
 
-Ce chapitre présente, par type de vélo - vélo de route, gravel et vélo classique (trekking/VAE) - les meilleurs itinéraires autour du Golfe de Saint-Tropez, avec note du guide, distance, dénivelé et temps moyen. La sagesse locale essentielle : c'est l'horaire, pas l'itinéraire, qui décide de la réussite d'une sortie. Entre 10h et 19h, les routes côtières saturent en juillet-août ; les cyclistes locaux roulent entre 6h30 et 9h30.
+Ce chapitre présente, par type de vélo - vélo de route, gravel et vélo classique (trekking/VAE) - les meilleurs itinéraires autour du Golfe de Saint-Tropez, avec note du guide, distance, dénivelé, temps moyen et un lien Komoot pour la navigation. Tous les itinéraires partent du Camping Prairies de la Mer, sauf mention contraire. La sagesse locale essentielle : c'est l'horaire, pas l'itinéraire, qui décide de la réussite d'une sortie. Entre 10h et 19h, les routes côtières saturent en juillet-août ; les cyclistes locaux roulent entre 6h30 et 9h30.
 
 ## Meilleurs itinéraires vélo de route
 
-| N° | Itinéraire | Note | Distance | Dénivelé | Temps moyen |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Boucle de Collebasse : Cogolin - Gassin - Ramatuelle - Col de Collebasse - La Croix-Valmer - Cogolin | ★★★★★ | 40 km | env. 450 m | 1h45 - 2h15 |
-| 2 | Corniche des Maures : Cogolin - La Môle - Col du Canadel - Rayol - Cavalaire - retour | ★★★★★ | 55 km | env. 700 m | 2h30 - 3h |
-| 3 | Boucle des Maures : Grimaud - Canadel - Col du Babaou - Collobrières - Col de Taillude - Grimaud | ★★★★★ | 100 km | env. 1 600 m | 4h - 5h |
-| 4 | Tour de la presqu'île : Saint-Tropez - Les Salins - Pampelonne - l'Escalet - La Croix-Valmer - Gassin | ★★★★ | 45 km | env. 500 m | 2h - 2h30 |
-| 5 | Petite boucle Gassin - Ramatuelle - Pampelonne | ★★★★ | 34 km | env. 350 m | 1h30 - 1h45 |
+| N° | Itinéraire | Note | Distance | Dénivelé | Temps moyen | Komoot |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Boucle de Collebasse : Prairies - Gassin - Ramatuelle - Col de Collebasse - La Croix-Valmer - Cogolin | ★★★★★ | 48 km | env. 470 m | 2h - 2h30 | [Itinéraire](https://www.komoot.com/smarttour/e990834231/col-de-collebasse-depuis-saint-tropez) |
+| 2 | Corniche des Maures : Prairies - Cogolin - La Môle - Col du Canadel - Rayol - Cavalaire - retour | ★★★★★ | 62 km | env. 730 m | 2h45 - 3h15 | [Col du Canadel](https://www.komoot.com/highlight/145613) |
+| 3 | Boucle des Maures : Prairies - Grimaud - Canadel - Col du Babaou - Collobrières - Col de Taillude - retour | ★★★★★ | 105 km | env. 1 650 m | 4h15 - 5h15 | [Col du Babaou](https://www.komoot.com/highlight/842617) |
+| 4 | Tour de la presqu'île : Prairies - Saint-Tropez - Les Salins - Pampelonne - l'Escalet - La Croix-Valmer - Gassin | ★★★★ | 55 km | env. 550 m | 2h30 - 3h | [Itinéraires Ramatuelle](https://www.komoot.com/guide/1166392/road-cycling-routes-around-ramatuelle) |
+| 5 | Petite boucle : Prairies - Gassin - Ramatuelle - Pampelonne | ★★★★ | 34 km | env. 350 m | 1h30 - 1h45 | [Itinéraires Saint-Tropez](https://www.komoot.com/guide/1166477/rennradtouren-rund-um-saint-tropez) |
 
 Le Col de Collebasse (sommet à 130 m) est le col d'entraînement des locaux : 3,1 km depuis Ramatuelle à 3,1 % de moyenne, passage le plus raide vers 7 %, à l'ombre des pins avec la mer en contrebas. Le Col du Canadel (267 m) offre le plus beau panorama côtier de la région ; son versant sud regarde en permanence la Méditerranée. La Boucle des Maures par le Babaou et la Taillude (8 km à 3,25 % depuis Collobrières) est la classique des cyclistes entraînés : cols, petites routes silencieuses et villages de châtaigniers.
 
 ## Meilleurs itinéraires gravel
 
-| N° | Itinéraire | Note | Distance | Dénivelé | Temps moyen |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Piste des Crêtes : Grimaud - ligne de crête des Maures - La Garde-Freinet - Grimaud | ★★★★★ | 35 km | env. 750 m | 2h30 - 3h |
-| 2 | Plaine des Maures et Lac des Escarcets depuis La Garde-Freinet | ★★★★ | 40 km | env. 400 m | 2h30 |
-| 3 | Traversée des Maures vers Notre-Dame des Anges (767 m, point culminant des Maures) | ★★★★ | 60 km | env. 1 400 m | 4h - 5h |
-| 4 | Gravel des vignes dans la plaine de Gassin et Ramatuelle | ★★★ | 25 km | env. 250 m | 1h30 |
+| N° | Itinéraire | Note | Distance | Dénivelé | Temps moyen | Komoot |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Piste des Crêtes : Prairies - Grimaud - ligne de crête des Maures - La Garde-Freinet - retour | ★★★★★ | 40 km | env. 780 m | 3h | [Autour de La Garde-Freinet](https://www.komoot.com/guide/1257598/cycling-around-la-garde-freinet) |
+| 2 | Plaine des Maures et Lac des Escarcets depuis La Garde-Freinet (s'y rendre en voiture ou grande journée) | ★★★★ | 40 km | env. 400 m | 2h30 | [Gravel Plaine des Maures](https://www.komoot.com/guide/3456968/gravel-biking-around-reserve-naturelle-de-la-plaine-des-maures) |
+| 3 | Traversée des Maures : Prairies - Grimaud - vers Notre-Dame des Anges (767 m, point culminant des Maures) | ★★★★ | 65 km | env. 1 450 m | 4h30 - 5h30 | [Gravel autour de Cogolin](https://www.komoot.com/guide/3489698/gravel-biking-around-cogolin) |
+| 4 | Gravel des vignes : Prairies - plaine de Gassin et Ramatuelle - retour | ★★★ | 25 km | env. 250 m | 1h30 | [Autour de Grimaud](https://www.komoot.com/guide/1131798/) |
 
 Le Massif des Maures est l'un des meilleurs terrains gravel du Var : des pistes forestières sans fin entre chênes-lièges et châtaigniers. Les gravellistes locaux (réunis autour du club Maures Gravel, né des tracés de Laurent Biger) considèrent la piste des crêtes vers La Garde-Freinet comme la sortie signature. Deux réflexes que seuls les locaux ont systématiquement : la Plaine des Maures est une réserve naturelle (rester sur les pistes autorisées) et, l'été, la préfecture ferme des massifs entiers les jours à haut risque incendie - consulter la carte d'accès aux massifs du Var avant de partir.
 
 ## Meilleurs itinéraires vélo classique (trekking / VAE)
 
-| N° | Itinéraire | Note | Distance | Dénivelé | Temps moyen |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Piste littorale V65 : Prairies de la Mer - Port Grimaud - Sainte-Maxime (aller-retour) | ★★★★★ | 23 km | env. 50 m | 1h15 - 1h45 |
-| 2 | V65 prolongée : Port Grimaud - Les Issambres - Saint-Aygulf - Fréjus (aller simple) | ★★★★ | 31 km | env. 120 m | 2h - 2h30 |
-| 3 | Sortie famille : Saint-Tropez - Les Salins - Pampelonne nord (aller-retour) | ★★★★ | 20 km | env. 150 m | 1h30 |
-| 4 | Villages en VAE : Port Grimaud - Cogolin - village de Grimaud (aller-retour) | ★★★★ | 18 km | env. 200 m | 1h30 |
+| N° | Itinéraire | Note | Distance | Dénivelé | Temps moyen | Komoot |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Piste littorale V65 : Prairies - Port Grimaud - Sainte-Maxime (aller-retour) | ★★★★★ | 23 km | env. 50 m | 1h15 - 1h45 | [Vélo autour de Saint-Tropez](https://www.komoot.com/guide/1166478/cycling-around-saint-tropez) |
+| 2 | V65 prolongée : Prairies - Les Issambres - Saint-Aygulf - Fréjus (aller simple) | ★★★★ | 32 km | env. 120 m | 2h - 2h30 | [Vélo autour de Saint-Tropez](https://www.komoot.com/guide/1166478/cycling-around-saint-tropez) |
+| 3 | Sortie famille : Prairies - Saint-Tropez - Les Salins (aller-retour) | ★★★★ | 25 km | env. 180 m | 1h45 - 2h15 | [Vélo autour de Ramatuelle](https://www.komoot.com/guide/1166393/cycling-around-ramatuelle) |
+| 4 | Villages en VAE : Prairies - Cogolin - village de Grimaud (aller-retour) | ★★★★ | 20 km | env. 200 m | 1h30 | [Autour de Grimaud](https://www.komoot.com/guide/1131798/) |
 
-Le Parcours Cyclable du Littoral (V65) suit une ancienne voie ferrée et constitue la liaison cyclable la plus sûre de la région : 92 km sur 120 sont aménagés, dont 77 km en site propre. C'est aussi l'un des itinéraires cyclables les plus fréquentés de France (plus de 310 000 passages par an comptés à Grimaud) : attendez-vous à des piétons, rollers et familles. À l'est de Sainte-Maxime, il manque encore un tronçon de 7,2 km ; on roule alors temporairement sur la D559.
+Le Parcours Cyclable du Littoral (V65) commence pratiquement à la porte des Prairies de la Mer, suit une ancienne voie ferrée et constitue la liaison cyclable la plus sûre de la région : 92 km sur 120 sont aménagés, dont 77 km en site propre. C'est aussi l'un des itinéraires cyclables les plus fréquentés de France (plus de 310 000 passages par an comptés à Grimaud) : attendez-vous à des piétons, rollers et familles. À l'est de Sainte-Maxime, il manque encore un tronçon de 7,2 km ; on roule alors temporairement sur la D559.
 
 ## Ce que disent les locaux
 
@@ -51,16 +51,16 @@ Le Parcours Cyclable du Littoral (V65) suit une ancienne voie ferrée et constit
 - Emportez deux bidons avec électrolytes : la chaleur est le problème numéro un. Les fontaines de Grimaud, Gassin, Ramatuelle et La Garde-Freinet sont les points d'eau classiques.
 - Règle d'été pour le massif : les jours à haut risque incendie, les pistes forestières sont interdites. Les locaux consultent chaque soir la carte d'accès aux massifs du Var pour le lendemain.
 - Choisissez votre pause café comme un local : la Place des Lices à Saint-Tropez les jours de marché (mardi et samedi), ou la terrasse de Collobrières à mi-parcours de la Boucle des Maures.
-- Les loueurs du golfe livrent vélos de route, gravel et VAE à l'hébergement ; pour les vélos de route, réservez longtemps à l'avance en saison.
+- Les loueurs du golfe livrent vélos de route, gravel et VAE à l'hébergement, y compris aux Prairies de la Mer ; pour les vélos de route, réservez longtemps à l'avance en saison.
 
 ## Données d'itinéraires
 
-Les itinéraires vivent dans `database/bike_routes.csv` ; les fichiers GPX dans `assets/gpx/`. Les premières traces seed sont des traces de contrôle pour la planification, pas des fichiers de navigation définitifs.
+Les itinéraires vivent dans `database/bike_routes.csv`. La navigation passe par les liens Komoot des tableaux ; les fichiers GPX locaux sous `assets/gpx/` restent des traces de recherche.
 
 ## Statut des sources
 
-Les tableaux combinent des informations officielles (V65/Parcours Cyclable du Littoral, profils des cols de Collebasse et du Canadel) et des estimations éditoriales de distance et de temps. Les notes sont des notes du guide. Les temps moyens supposent 23-27 km/h sur route, 15-18 km/h en gravel et 14-16 km/h en vélo classique, hors pauses. La géométrie exacte, les coupures et les règles d'accès actuelles restent à vérifier sur le terrain.
+Les tableaux combinent des informations officielles (V65/Parcours Cyclable du Littoral, profils des cols de Collebasse et du Canadel) et des estimations éditoriales de distance et de temps depuis le Camping Prairies de la Mer. Les notes sont des notes du guide. Les temps moyens supposent 23-27 km/h sur route, 15-18 km/h en gravel et 14-16 km/h en vélo classique, hors pauses. Les liens Komoot pointent vers la page d'itinéraire ou de région la plus adaptée ; la géométrie exacte et les règles d'accès actuelles restent à vérifier sur le terrain.
 
 ## Recommandation personnelle
 
-Première sortie : la piste littorale vers Sainte-Maxime, même avec des enfants ou en VAE. Plus belle journée route : la boucle de Collebasse tôt le matin avec pause café à Ramatuelle. Meilleure expérience gravel : la ligne de crête vers La Garde-Freinet hors pic estival. La Boucle des Maures reste l'étape reine pour qui peut encaisser 100 km et 1 600 m de dénivelé.
+Première sortie : la piste littorale vers Sainte-Maxime, même avec des enfants ou en VAE. Plus belle journée route : la boucle de Collebasse tôt le matin avec pause café à Ramatuelle. Meilleure expérience gravel : la ligne de crête vers La Garde-Freinet hors pic estival. La Boucle des Maures reste l'étape reine pour qui peut encaisser 105 km et 1 650 m de dénivelé.

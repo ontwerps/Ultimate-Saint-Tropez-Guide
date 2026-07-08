@@ -89,3 +89,7 @@ Added sortable per-chapter ranking tables with editorial star ratings, price ban
 ## v0.22
 
 Rebuilt the cycling chapter with per-bike-type top-route tables (road, gravel, normal/trekking) including guide rating, distance, elevation gain and average time, backed by new researched routes (Collebasse loop, Corniche des Maures, Boucle des Maures, Piste des Crêtes, Plaine des Maures) in `bike_routes.csv`. Added Markdown table rendering to the static site build. Added sourced "What locals say" local-knowledge sections to all chapters in Dutch, English and French (timing rules, resident beaches, market days, cooperative wine buying, massif fire-access checks, boat shuttles), with sixteen new local-consensus sources tracked in `sources.csv`.
+
+## v0.23
+
+Rebased the cycling routes on Camping Prairies de la Mer as the standard start point with adjusted distances, elevation and times, added a Komoot navigation link per route, and removed the price column from the cycling ranking table. Redesigned all thirteen chapter banners as lower (3:1) Mediterranean scene illustrations with sky gradient, sun, Maures hills, sea and a grounded chapter motif.
