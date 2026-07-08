@@ -41,3 +41,7 @@ Added the first source-backed restaurant baseline with primary-source records fo
 ## v0.10
 
 Added the first local seed GPX route files, cycling route records and validation that local bike-route GPX references exist under `assets/gpx/`.
+
+## v0.11
+
+Added the first hidden-gems baseline with primary-source records for Domaine du Rayol and Fort-Freinet, plus clearly marked seed records for quieter heritage and viewpoint stops.

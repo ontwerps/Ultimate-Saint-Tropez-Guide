@@ -8,5 +8,5 @@
 - [ ] Import GPX routes (eerste seed GPX-bestanden en validatorcontrole toegevoegd; officiële geometrie en lokale verificatie nodig)
 - [ ] Restaurant research (eerste source-backed shortlist toegevoegd; openingstijden, menuprijzen, reserveren en lokale beoordeling nodig)
 - [ ] Beach research (brede officiële inventaris toegevoegd; zwemwaterdetails, parkeertarieven en lokale beoordeling nodig)
-- [ ] Hidden gems
+- [ ] Hidden gems (eerste source-backed shortlist toegevoegd; toegang, parking, openingstijden en lokale beoordeling nodig)
 - [ ] Google Maps Atlas
