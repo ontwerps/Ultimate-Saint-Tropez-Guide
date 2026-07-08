@@ -1,7 +1,7 @@
 ---
 title: Stranden
 chapter: 6
-status: concept
+status: draft
 ---
 
 # Stranden
@@ -27,7 +27,7 @@ Alle stranddata hoort in `database/beaches.csv`, zodat PDF, website en kaart lat
 
 ## Eerste shortlist
 
-Deze eerste shortlist is bedoeld als onderzoeksbasis, niet als definitieve aanbeveling. Enkele records zijn inmiddels gedeeltelijk met officiële bronnen verrijkt:
+Deze shortlist is een bruikbare keuzehulp voor planning. Records met `official_partial_verification` hebben al officiële basisinformatie; records met `seed_needs_official_verification` blijven voorzichtig beschreven totdat zwemwater, parking en lokale ervaring zijn afgerond.
 
 - Plage de Pampelonne, Ramatuelle
 - Plage de la Bouillabaisse, Saint-Tropez / Gassin
@@ -58,14 +58,14 @@ Deze eerste shortlist is bedoeld als onderzoeksbasis, niet als definitieve aanbe
 - Plage de Pardigon, Cavalaire-sur-Mer
 - Plage de Bonporteau, Cavalaire-sur-Mer
 
-## Bronstatus
+## Bronstatus en betrouwbaarheid
 
 De eerste records in `database/beaches.csv` gebruiken twee onderzoeksstatussen:
 
 - `seed_needs_official_verification`: alleen startbron of onvoldoende officiële bevestiging.
 - `official_partial_verification`: enkele feiten zijn bevestigd door gemeente of officieel toerisme, maar het record is nog niet publicatieklaar.
 
-Voor publicatie zijn minimaal nodig:
+Voor definitieve publicatie blijven deze controles verplicht:
 
 - Officiële zwemwatercontrole per strand.
 - Actuele parkeerinformatie en tarieven.
@@ -95,6 +95,14 @@ Voor publicatie zijn minimaal nodig:
 - Wandelaars en ruigere kust: Brouis, Briande, Bonporteau.
 - Cavalaire met breed zand en bewaking: Centre-ville, Parc, Dauphins, Pardigon.
 
+## Aanbevolen keuzes per dagtype
+
+- Eerste stranddag vanuit Prairies de la Mer: begin dichtbij of kies Pampelonne alleen met duidelijke parking- en timingstrategie.
+- Gezinsdag met voorzieningen: La Nartelle, Cavalaire Centre-ville of Parc zijn praktisch door officiële voorzieningencontext.
+- Natuurgevoel: Escalet, Gigaro, Bonporteau of de caps alleen met hitte-, water- en toegangsbewustzijn.
+- Saint-Tropez-combinatie: Bouillabaisse, Graniers, Canebiers of Salins, afhankelijk van parking en stadsplanning.
+- Rustiger kustmoment: Bonne Terrasse, Douane, Brouis of Briande alleen wanneer toegang en omstandigheden passen.
+
 ## Persoonlijke aanbeveling
 
-Nog niet beoordeeld.
+Voorlopige gidswaarde: Pampelonne is de iconische stranddag, maar niet automatisch de beste dag. Voor comfort en minder frictie zijn La Nartelle, Cavalaire of La Croix-Valmer vaak praktischer; voor natuurgevoel winnen Escalet, Gigaro en Bonporteau wanneer toegang en hitte kloppen.

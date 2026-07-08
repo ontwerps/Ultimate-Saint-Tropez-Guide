@@ -28,6 +28,10 @@ class ValidateProjectTests(unittest.TestCase):
 
         self.write_chapter(root / "chapters" / "00-preparation.md", "Voorbereiding", 1)
         self.write_chapter(root / "chapters" / "01-prairies-de-la-mer.md", "Prairies de la Mer", 2)
+        for lang in ["en", "fr"]:
+            (root / "translations" / lang / "chapters").mkdir(parents=True)
+            self.write_chapter(root / "translations" / lang / "chapters" / "00-preparation.md", "Preparation", 1)
+            self.write_chapter(root / "translations" / lang / "chapters" / "01-prairies-de-la-mer.md", "Prairies de la Mer", 2)
 
         for name, headers in self.validator.EXPECTED_CSV_HEADERS.items():
             self.write_csv(root / "database" / name, headers)
@@ -122,6 +126,15 @@ class ValidateProjectTests(unittest.TestCase):
         errors = self.validator.validate_project(root)
 
         self.assertIn("chapters/00-preparation.md missing front matter field: status", errors)
+
+    def test_missing_translated_chapter_is_reported(self):
+        temp_dir, root = self.make_project()
+        self.addCleanup(temp_dir.cleanup)
+        (root / "translations" / "fr" / "chapters" / "01-prairies-de-la-mer.md").unlink()
+
+        errors = self.validator.validate_project(root)
+
+        self.assertIn("translations/fr/chapters missing translated chapter: 01-prairies-de-la-mer.md", errors)
 
     def test_unknown_source_reference_is_reported(self):
         temp_dir, root = self.make_project()

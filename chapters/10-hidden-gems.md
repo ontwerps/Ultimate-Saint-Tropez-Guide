@@ -1,7 +1,7 @@
 ---
 title: Hidden Gems
 chapter: 11
-status: concept
+status: draft
 ---
 
 # Hidden Gems
@@ -24,7 +24,7 @@ Feiten worden apart gehouden van persoonlijke aanbevelingen. Als een plek kwetsb
 
 ## Eerste shortlist
 
-Deze selectie is nog geen definitieve aanbevelingslijst. Het doel is om plekken te verzamelen die de gids later met lokale beoordeling, timing en praktische toegang kan afmaken.
+Deze selectie is bewust rustig en bruikbaar gehouden. Sommige plekken zijn al primair bevestigd; andere blijven voorzichtig beschreven totdat toegang, parkeren en lokale context zijn gecontroleerd.
 
 - Domaine du Rayol - Le Jardin des Méditerranées, Rayol-Canadel-sur-Mer
 - Fort-Freinet, La Garde-Freinet
@@ -41,9 +41,9 @@ Primair bevestigd in deze ronde:
 - Domaine du Rayol bevestigt de tuin, seizoensactiviteiten, het sentier sous-marin en het bezoekersadres.
 - De mairie van La Garde-Freinet bevestigt dat Fort-Freinet alleen te voet bereikbaar is vanaf het dorp of Parking de la Croix, en waarschuwt voor een steil pad.
 
-Nog seed-only:
+Voorzichtige onderzoeksplekken:
 
-- Pont des Fées, Moulin de Paillas, Cap Camarat, Chapelle Sainte-Anne en het cimetière marin gebruiken nu vooral achtergrondbronnen. Daarvoor zijn officiële toegang, openingstijden, parkeerlogistiek en lokale beoordeling nog nodig.
+- Pont des Fées, Moulin de Paillas, Cap Camarat, Chapelle Sainte-Anne en het cimetière marin gebruiken vooral achtergrondbronnen. Daarvoor zijn officiële toegang, openingstijden, parkeerlogistiek en lokale beoordeling nodig voordat ze als sterke aanbeveling tellen.
 
 ## Praktische segmenten
 
@@ -60,4 +60,4 @@ Nog seed-only:
 
 ## Persoonlijke aanbeveling
 
-Nog niet beoordeeld.
+Voorlopige gidswaarde: Domaine du Rayol en Fort-Freinet zijn de stevigste keuzes omdat de praktische basis het best bevestigd is. Pont des Fées en het cimetière marin kunnen prachtige rustige stops zijn, maar vragen respectvolle timing en toegangscontrole. Cap Camarat blijft bewust terughoudend beschreven vanwege natuur- en toegangsgevoeligheid.

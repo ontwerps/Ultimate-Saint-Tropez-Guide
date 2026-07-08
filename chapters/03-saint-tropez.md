@@ -1,55 +1,58 @@
 ---
 title: Saint-Tropez
 chapter: 4
-status: concept
+status: draft
 ---
 
 # Saint-Tropez
 
 ## Samenvatting
 
-Dit hoofdstuk maakt Saint-Tropez praktisch: aankomst, parkeren, wandelen, markten, musea, haven, stranden in de omgeving en momenten waarop de stad minder druk voelt.
+Saint-Tropez is de symbolische kern van de gids: haven, oude stad, Citadelle-context, patisserie, restaurants, strandroutes en de hele mythe van de presqu'île. Het is ook de plek waar slechte timing het snelst pijn doet. Plan Saint-Tropez als een gerichte stadsdag, niet als spontane tussenstop na drie andere plannen.
 
 ## Waarom bezoeken
 
-Saint-Tropez is de culturele en symbolische kern van de gids: haven, oude stad, Citadelle-context, markten, restaurants, patisserie, strandroutes en zicht op de hele mythe van de presqu'île.
-
-Het hoofdstuk moet tegelijk eerlijk zijn: Saint-Tropez is niet altijd de beste keuze voor een ontspannen dag. Bij piekverkeer, beperkte parking of strandfocus kunnen Gassin, Ramatuelle, Port Grimaud, Sainte-Maxime of Pampelonne praktischer zijn.
+De stad combineert vissershaven, filmgeschiedenis, luxe, marktcultuur, kunstcontext en oude straatjes in een compact gebied. Juist daarom is eerlijk plannen nodig: bij piekverkeer of beperkte parking kunnen Port Grimaud, Gassin, Ramatuelle, Sainte-Maxime of Pampelonne op dat moment prettiger zijn.
 
 ## Beste tijd
 
-- Ochtend: oude stad, marktcontext, patisserie en Citadelle/cimetière marin-wandeling.
-- Late middag/avond: haven, diner en sfeer, mits parking of bootverbinding vooraf gepland is.
-- Piekmiddag in zomer: vermijden tenzij er een reservering of helder logistiek doel is.
+- Ochtend: oude stad, marktcontext, patisserie, Citadelle-zone en rustige wandeling.
+- Late middag/avond: haven, diner en sfeer, mits aankomst en terugkeer vooraf zijn geregeld.
+- Zomerse piekmiddag: alleen doen met reservering, bootverbinding of heel duidelijke reden.
 
 ## Parkeren
 
-Eerste bron: de gemeenteparkinginformatie staat in `src-saint-tropez-stationnement`. Volgende stap is tarieven, capaciteit, loopafstand en piekdrukte per parking structureren.
+De eerste bron voor parkeren is `src-saint-tropez-stationnement`. Gebruik gemeentelijke informatie vlak voor vertrek om parking, tarieven, loopafstand en beschikbaarheid te controleren. Rijd in het hoogseizoen niet op hoop van zegen de kern in: kies vooraf waar je parkeert of kom anders per boot, shuttle of fiets tot aan een veilige stallingszone.
 
 ## Fietsen
 
-Beschrijf veilige benaderingen en beperkingen. Vermijd routeadvies zonder verkeerscontrole.
+Fietsen kan handig zijn om autoverkeer te vermijden, maar alleen met realistische aandacht voor drukte, kruisingen, hitte en stalling. De gids geeft pas harde routeadviezen nadat de veilige benaderingen lokaal zijn bekeken.
 
 ## Wandelen
 
-Voeg een stadswandeling toe met logische volgorde en rustpunten.
+Een sterke eerste stadswandeling:
 
-Eerste stadswandeling: haven - oude straten - La Ponche/Fontanette - Citadelle-zone - cimetière marin - Graniers - terug naar centrum. Nog controleren op toegankelijkheid, hitte en rustpunten.
+- Haven en kades.
+- Oude straten richting La Ponche en La Fontanette.
+- Citadelle-zone voor uitzicht en context.
+- Cimetière marin met respectvolle, stille toon.
+- Plage des Graniers als korte kustuitloop.
+- Terug naar centrum voor patisserie, koffie of aperitief.
+
+Controleer bij hitte of beperkte mobiliteit of de Citadelle-zone en terugweg passend zijn.
 
 ## Kosten
 
-Splits parkeren, musea, horeca en eventuele strandclubs.
+Splits de dag in parkeren of boot, koffie/patisserie, museum of culturele stop, lunch/diner en eventuele stranduitgaven. Saint-Tropez kan goedkoop als wandeling met eenvoudige stop, maar wordt snel duur met valet, strandclub of gastronomisch diner.
 
 ## Restaurants in de buurt
 
-Te koppelen aan `database/restaurants.csv`.
-
-Eerste koppelingen: La Vague d'Or, La Tarte Tropézienne, Sénéquier en Monsieur Dior. Alle persoonlijke aanbevelingen blijven geblokkeerd tot lokale beoordeling.
+Eerste gekoppelde adressen zijn La Vague d'Or, La Tarte Tropézienne, Sénéquier en Monsieur Dior by Mauro Colagreco. La Vague d'Or is gastronomische bestemming; La Tarte Tropézienne is een iconische zoete stop; Sénéquier is havencontext; Monsieur Dior is nieuwe 2026-scene. Persoonlijke aanbevelingen blijven afhankelijk van actuele opening, reservering, prijs en lokale ervaring.
 
 ## Insider tip
 
-Alleen toevoegen als de tip concreet en lokaal geverifieerd is.
+Maak Saint-Tropez kleiner. Eén wandeling, één goede stop en één duidelijke aankomststrategie leveren meestal een betere dag op dan proberen de hele legende in één middag te vangen.
 
 ## Persoonlijke score
 
-Nog niet beoordeeld.
+Voorlopige gidswaarde: zeer hoog bij vroege of goed geplande aankomst; laag bij file, hitte en onvoorbereid parkeren.

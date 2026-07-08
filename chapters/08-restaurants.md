@@ -1,7 +1,7 @@
 ---
 title: Restaurants
 chapter: 9
-status: concept
+status: draft
 ---
 
 # Restaurants
@@ -28,7 +28,7 @@ Alle restaurantgegevens horen in `database/restaurants.csv`. Meningen en persoon
 
 ## Eerste shortlist
 
-Deze eerste selectie is een werkbasis. Adressen met een primaire bron krijgen `official_partial_verification`; adressen die voorlopig alleen op achtergrond- of editorial bronnen steunen blijven `seed_needs_official_verification`.
+Deze selectie is een bruikbare planningsbasis. Adressen met een primaire bron krijgen `official_partial_verification`; adressen die voorlopig alleen op achtergrond- of editorial bronnen steunen blijven `seed_needs_official_verification` en worden niet als harde aanbeveling verkocht.
 
 - La Vague d'Or, Saint-Tropez
 - La Voile, Ramatuelle
@@ -48,7 +48,7 @@ Primair bevestigd in deze ronde:
 - La Réserve Ramatuelle bevestigt La Voile, La Brasserie, La Piscine, La Muña en La Réserve à La Plage als restaurantaanbod dat open is voor niet-hotelgasten.
 - La Tarte Tropézienne bevestigt actuele merk- en boutique-activiteit; de historische context blijft voorlopig aangevuld met achtergrondbron.
 
-Nog te bevestigen voor publicatie:
+Te bevestigen vlak voor publicatie:
 
 - Actuele openingstijden per seizoen.
 - Reserveringsregels en annuleringsvoorwaarden.
@@ -66,4 +66,4 @@ Nog te bevestigen voor publicatie:
 
 ## Persoonlijke aanbeveling
 
-Nog niet beoordeeld.
+Voorlopige gidswaarde: boek La Vague d'Or of La Voile alleen als de avond zelf de bestemming is. Kies La Réserve à La Plage, La Muña of Le Club 55 voor luxe lunchcontext, maar controleer reservering en logistiek. Gebruik La Tarte Tropézienne als lage-drempelige Saint-Tropez stop; behandel Sénéquier en Monsieur Dior als scene-adressen totdat actuele ervaring, prijs en service zijn beoordeeld.

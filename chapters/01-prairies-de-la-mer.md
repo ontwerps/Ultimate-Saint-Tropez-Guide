@@ -1,61 +1,55 @@
 ---
 title: Prairies de la Mer
 chapter: 2
-status: concept
+status: draft
 ---
 
 # Prairies de la Mer
 
 ## Samenvatting
 
-Dit hoofdstuk beschrijft Prairies de la Mer als praktische uitvalsbasis aan de Golf van Saint-Tropez, met aandacht voor bereikbaarheid, strand, voorzieningen en dagplanning.
+Prairies de la Mer werkt in deze gids als praktische uitvalsbasis: strand dichtbij, Port Grimaud op korte afstand en logische verbindingen richting Sainte-Maxime, Saint-Tropez, Gassin, Ramatuelle en Pampelonne. De kracht zit niet in één grote bezienswaardigheid, maar in het verminderen van autokilometers.
 
 ## Waarom bezoeken
 
-Prairies de la Mer is vooral waardevol als praktische basis: strand dichtbij, Port Grimaud op korte afstand, fietskoppeling richting Sainte-Maxime en dagtrips naar Saint-Tropez, Gassin, Ramatuelle en Pampelonne.
-
-Voor deze gids is het geen eindbestemming op zichzelf, maar een logistieke hub. De beoordeling moet dus draaien om rust, bereikbaarheid, dagindeling, fietsveiligheid, strandtoegang, winkels en de vraag hoeveel autoritten je kunt vermijden.
+Gebruik Prairies de la Mer als rustige start- en eindplek van dagen rond de golf. Vanuit hier kun je vroeg naar Port Grimaud, later op de dag naar het strand of met betere timing richting dorpen en Saint-Tropez. Voor gezinnen en reizigers die niet elke dag willen rijden is dit een sterke basis.
 
 ## Beste tijd
 
-- Ochtend: beste moment voor Port Grimaud, boodschappen, fietsen of rustige strandwandeling.
-- Late middag: beste moment om richting Gassin/Ramatuelle of Saint-Tropez te plannen.
-- Piekzomer: alle timing moet rond verkeer en parking worden gebouwd.
+- Ochtend: boodschappen, strandwandeling, Port Grimaud of een korte fietsrit.
+- Late middag: terugkeren van dorpen of strand wanneer de ergste hitte zakt.
+- Hoogzomer: plan autoritten buiten piekuren en houd een dichtbij-alternatief klaar.
 
-## Parkeren
+## Parkeren en aankomst
 
-Nog te controleren met actuele verblijfs- en bezoekersvoorwaarden. Voor dagplanning is belangrijk of de auto kan blijven staan terwijl Port Grimaud, strand, fietsroute of bootverbinding wordt gebruikt.
+Voor verblijfsgasten is de belangrijkste vraag of de auto meerdere dagdelen kan blijven staan. Controleer bij aankomst de actuele regels voor bezoekers, dagparkeren, slagbomen, fietsenstalling en looproutes naar strand en Port Grimaud. Voor dagbezoekers is Port Grimaud vaak de logischere parkeerankerplek dan dwalen rond verblijfszones.
 
 ## Fietsen
 
-Gebruik dit onderdeel om veilige verbindingen, e-bike haalbaarheid en routes richting Port Grimaud, Sainte-Maxime en Saint-Tropez te beschrijven.
+Prairies de la Mer is vooral interessant voor korte, vlakke ritten en oriëntatie langs de kust. De eerste onderzoeksroutes in de database zijn:
 
-Eerste gekoppelde routes:
+- Prairies de la Mer - Port Grimaud - Sainte-Maxime.
+- Port Grimaud - Sainte-Maxime - Fréjus V65 seed.
+- Gassin - Ramatuelle - Pampelonne road loop.
 
-- Prairies de la Mer - Port Grimaud - Sainte-Maxime
-- Port Grimaud - Sainte-Maxime - Fréjus V65 seed
-- Gassin - Ramatuelle - Pampelonne road loop
+Gebruik deze voorlopig als planningsschets. Voor navigatie moeten kruisingen, wegdek, zomerdrukte en veilige stallingspunten nog lokaal of officieel worden gecontroleerd.
 
 ## Wandelen
 
-Voeg korte wandelopties en verbindingen met strand, winkels en havengebieden toe.
-
-Eerste focus: korte verbindingen met Port Grimaud, strand en dagelijkse voorzieningen. Langere wandelingen horen eerder in het hoofdstuk Wandelen.
+De meest bruikbare wandelingen zijn kort: naar strand, voorzieningen, Port Grimaud of een uitzichtpunt langs het water. Langere natuurwandelingen horen eerder bij Gigaro, Cap Lardier, Cap Taillat of Fort-Freinet dan bij deze basis.
 
 ## Kosten
 
-Nog te structureren per verblijf, strand, vervoer, horeca en activiteiten.
+Reken per dag met verblijfskosten, stranduitgaven, boodschappen, eventuele parking buiten het verblijf, boot of shuttle, en horeca. De goedkoopste dagen zijn dichtbij: strand, markt, eenvoudige lunch en avondwandeling. De duurste dagen combineren strandclub, Saint-Tropez, valet of gastronomisch diner.
 
 ## Restaurants in de buurt
 
-Te koppelen aan `database/restaurants.csv`.
-
-Eerste koppelingen: Port Grimaud moet nog restaurants krijgen; voor hogere gastronomie liggen Saint-Tropez, Ramatuelle en Gassin logischer.
+Voor directe nabijheid is Port Grimaud de eerste zoekzone; voor hogere gastronomie liggen Saint-Tropez, Ramatuelle en Gassin logischer. De huidige restaurantdatabase bevat vooral adressen buiten Port Grimaud, dus lokale keuzes rond de haven moeten nog met actuele kaart, openingstijden en sfeer worden beoordeeld voordat ze als aanbeveling tellen.
 
 ## Insider tip
 
-Alleen toevoegen wanneer de tip lokaal geverifieerd is.
+Maak van de eerste ochtend geen grote excursie. Loop of fiets eerst naar Port Grimaud en test hoe lang strand, winkels en haven in de praktijk kosten. Die kennis maakt de rest van de week rustiger.
 
 ## Persoonlijke score
 
-Nog niet beoordeeld.
+Voorlopige gidswaarde: hoog als logistieke basis, gemiddeld als zelfstandige bestemming. De definitieve score hangt af van verblijfslocatie, fietsveiligheid en hoe makkelijk je de auto kunt laten staan.

@@ -1,7 +1,7 @@
 ---
 title: Kaarten
 chapter: 12
-status: concept
+status: draft
 ---
 
 # Kaarten
@@ -42,9 +42,13 @@ De export schrijft `output/google_maps_atlas.csv`. Dit bestand is gegenereerd en
 - GPX-routes blijven voorlopig aparte bestanden onder `assets/gpx/`.
 - Elke atlasrij behoudt bronverwijzing, onderzoeksstatus, categorie, gemeente en een stabiele Atlas ID.
 
-## Nog nodig
+## Volgende kaartverbeteringen
 
 - Meer coordinaten voor stranden, restaurants en praktische stops.
 - Kleur- en icoonafspraken per laag.
 - Controle van Google My Maps-import en mobiele leesbaarheid.
 - Beslissing of route-GPX later als KML/GeoJSON wordt geconverteerd.
+
+## Gidsgebruik
+
+De kaartlaag is nu vooral een atlas voor oriëntatie. Gebruik punten met coordinaten als betrouwbare start voor Google Maps-import, maar gebruik GPX-routes pas als navigatie na officiële of lokale geometriecontrole. Records zonder coordinaten blijven bewust uit de export om schijnprecisie te vermijden.

@@ -1,7 +1,7 @@
 ---
 title: Wijn
 chapter: 10
-status: concept
+status: draft
 ---
 
 # Wijn
@@ -12,7 +12,7 @@ Dit hoofdstuk behandelt wijnhuizen, proefmogelijkheden, lokale stijlen, kopen vo
 
 ## Feiten
 
-Openingstijden, proeverijen, prijzen en reserveringsregels moeten actueel worden gecontroleerd voordat ze in de gids komen.
+Openingstijden, proeverijen, prijzen en reserveringsregels zijn datumgevoelig. De gids gebruikt de bronronde als basis en vraagt vlak voor publicatie een laatste controle.
 
 ## Aanbevolen structuur
 
@@ -34,7 +34,7 @@ Primair bevestigd:
 - "L'expérience Signature" duurt 45 minuten, kost 20 euro per persoon en vraagt reservatie.
 - "Au coeur de l'histoire Minuty" duurt 1u30, kost 50 euro per persoon en vraagt reservatie.
 
-Nog te controleren:
+Te controleren vlak voor publicatie:
 
 - Actuele prijzen en uren vlak voor publicatie.
 - Parkeren, drukte en beste aankomstmoment.
@@ -42,7 +42,7 @@ Nog te controleren:
 
 ### Château des Marres
 
-Alleen seed-kandidaat. Eerst primaire bron, openingstijden, proefregels en bereikbaarheid controleren.
+Alleen seed-kandidaat. Gebruik dit domein voorlopig als onderzoekslead, niet als aanbeveling, totdat primaire bron, openingstijden, proefregels en bereikbaarheid zijn bevestigd.
 
 ## Kopen voor verblijf of picknick
 
@@ -60,4 +60,4 @@ Alcoholinformatie in de gids moet praktisch en terughoudend blijven. Geen route 
 
 ## Persoonlijke aanbeveling
 
-Nog niet beoordeeld.
+Voorlopige gidswaarde: Château Minuty is de sterkste wijnankerplek in de huidige bronbasis. Plan het als rustige caveau- of proefstop rond Gassin, Ramatuelle of Pampelonne, niet als onderdeel van een sportieve fietsdag. Laat alcohol altijd los van rijden, fietsen en hitteplanning.

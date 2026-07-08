@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a lightweight static HTML version of the guide."""
+"""Build a lightweight multilingual static HTML version of the guide."""
 
 from __future__ import annotations
 
@@ -11,6 +11,72 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PROJECT_TITLE = "Ultimate Saint-Tropez Guide"
+
+LANGUAGES = {
+    "nl": {
+        "name": "Nederlands",
+        "chapter_dir": "chapters",
+        "output_dir": "",
+        "home": "Inhoud",
+        "back": "Terug naar inhoud",
+        "chapters": "Hoofdstukken",
+        "chapter_label": "Hoofdstuk",
+        "hero": "Een Markdown-first reisgids voor de Golf van Saint-Tropez, rechtstreeks gegenereerd uit de repository.",
+        "note": "Deze preview is leesbaar afgerond, maar datumgevoelige aanbevelingen houden hun verificatiestatus tot officiële en lokale controle klaar is.",
+        "status_heading": "Publicatiestatus",
+        "footer": "Gegenereerd uit de bronbestanden van de repository.",
+    },
+    "en": {
+        "name": "English",
+        "chapter_dir": "translations/en/chapters",
+        "output_dir": "en",
+        "home": "Contents",
+        "back": "Back to contents",
+        "chapters": "Chapters",
+        "chapter_label": "Chapter",
+        "hero": "A Markdown-first travel handbook for the Gulf of Saint-Tropez, generated directly from the repository.",
+        "note": "This preview is reader-ready, while date-sensitive recommendations keep their verification status until official and local checks are complete.",
+        "status_heading": "Publication Status",
+        "footer": "Generated from the repository source files.",
+    },
+    "fr": {
+        "name": "Français",
+        "chapter_dir": "translations/fr/chapters",
+        "output_dir": "fr",
+        "home": "Sommaire",
+        "back": "Retour au sommaire",
+        "chapters": "Chapitres",
+        "chapter_label": "Chapitre",
+        "hero": "Un guide de voyage Markdown-first pour le golfe de Saint-Tropez, généré directement depuis la repository.",
+        "note": "Cette prévisualisation est lisible et structurée, tandis que les recommandations sensibles aux dates gardent leur statut de vérification jusqu'aux contrôles officiels et locaux.",
+        "status_heading": "Statut de publication",
+        "footer": "Généré depuis les fichiers sources de la repository.",
+    },
+}
+
+STATUS_LABELS = {
+    "nl": {
+        "draft": "preview",
+        "concept": "preview",
+        "verified": "geverifieerd",
+        "official_partial_verification": "gedeeltelijk geverifieerd",
+        "seed_needs_official_verification": "onderzoeksbasis",
+    },
+    "en": {
+        "draft": "preview",
+        "concept": "preview",
+        "verified": "verified",
+        "official_partial_verification": "partly verified",
+        "seed_needs_official_verification": "research lead",
+    },
+    "fr": {
+        "draft": "prévisualisation",
+        "concept": "prévisualisation",
+        "verified": "vérifié",
+        "official_partial_verification": "partiellement vérifié",
+        "seed_needs_official_verification": "piste de recherche",
+    },
+}
 
 
 def parse_front_matter(text):
@@ -33,9 +99,13 @@ def parse_front_matter(text):
     return front_matter, body.lstrip()
 
 
-def collect_chapters(root=ROOT):
+def chapter_source_dir(root, lang="nl"):
+    return Path(root) / LANGUAGES[lang]["chapter_dir"]
+
+
+def collect_chapters(root=ROOT, lang="nl"):
     chapters = []
-    for path in sorted((Path(root) / "chapters").glob("*.md")):
+    for path in sorted(chapter_source_dir(root, lang).glob("*.md")):
         if not re.match(r"^\d{2}-", path.name):
             continue
         metadata, body = parse_front_matter(path.read_text(encoding="utf-8"))
@@ -136,10 +206,52 @@ def render_markdown(markdown):
     return "\n".join(blocks)
 
 
-def page_shell(title, body, depth=0):
-    prefix = "../" * depth
+def relative_prefix(depth):
+    return "../" * depth
+
+
+def language_url(target_lang, page_kind="index", output_name=None, current_lang="nl"):
+    if page_kind == "chapter":
+        if target_lang == "nl":
+            return f"{relative_prefix(2 if current_lang != 'nl' else 1)}chapters/{output_name}"
+        if current_lang == "nl":
+            return f"../{LANGUAGES[target_lang]['output_dir']}/chapters/{output_name}"
+        return f"../../{LANGUAGES[target_lang]['output_dir']}/chapters/{output_name}"
+
+    if target_lang == "nl":
+        return "index.html" if current_lang == "nl" else "../index.html"
+    if current_lang == "nl":
+        return f"{LANGUAGES[target_lang]['output_dir']}/index.html"
+    if current_lang == target_lang:
+        return "index.html"
+    return f"../{LANGUAGES[target_lang]['output_dir']}/index.html"
+
+
+def language_switcher(current_lang, page_kind="index", output_name=None):
+    links = []
+    for lang, config in LANGUAGES.items():
+        css_class = "active" if lang == current_lang else ""
+        href = language_url(lang, page_kind, output_name, current_lang)
+        links.append(f'<a class="{css_class}" href="{href}">{html.escape(config["name"])}</a>')
+    return "\n        ".join(links)
+
+
+def display_status(status, lang):
+    return STATUS_LABELS.get(lang, {}).get(status, status)
+
+
+def home_href(lang, depth):
+    if lang == "nl":
+        return f"{relative_prefix(depth)}index.html"
+    return "index.html" if depth == 0 else f"{relative_prefix(depth - 1)}index.html"
+
+
+def page_shell(title, body, lang="nl", depth=0, page_kind="index", output_name=None):
+    config = LANGUAGES[lang]
+    home = home_href(lang, depth)
+    switcher = language_switcher(lang, page_kind, output_name)
     return f"""<!doctype html>
-<html lang="nl">
+<html lang="{lang}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -176,16 +288,39 @@ def page_shell(title, body, depth=0):
       align-items: center;
       justify-content: space-between;
       gap: 16px;
+      flex-wrap: wrap;
     }}
     .brand {{
       color: var(--ink);
       font-weight: 700;
       text-decoration: none;
     }}
+    nav {{
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }}
     nav a {{
       color: var(--accent);
       font-weight: 600;
       text-decoration: none;
+    }}
+    .languages {{
+      display: flex;
+      gap: 8px;
+    }}
+    .languages a {{
+      border: 1px solid var(--line);
+      color: var(--ink);
+      font-size: 0.9rem;
+      padding: 3px 8px;
+      text-decoration: none;
+    }}
+    .languages a.active {{
+      border-color: var(--accent);
+      color: var(--accent);
+      font-weight: 700;
     }}
     main {{
       padding: 40px 0 56px;
@@ -255,57 +390,80 @@ def page_shell(title, body, depth=0):
 <body>
   <header>
     <div class="bar">
-      <a class="brand" href="{prefix}index.html">{PROJECT_TITLE}</a>
-      <nav><a href="{prefix}index.html">Inhoud</a></nav>
+      <a class="brand" href="{home}">{PROJECT_TITLE}</a>
+      <nav>
+        <a href="{home}">{config["home"]}</a>
+        <span class="languages">
+        {switcher}
+        </span>
+      </nav>
     </div>
   </header>
   <main>
 {body}
   </main>
-  <footer>Generated from the repository source files.</footer>
+  <footer>{config["footer"]}</footer>
 </body>
 </html>
 """
 
 
-def render_index(chapters, final_check_text):
-    final_check_html = render_markdown(final_check_text)
+def render_index(chapters, final_check_text, lang="nl"):
+    config = LANGUAGES[lang]
     chapter_items = "\n".join(
         (
             f'<li><a href="chapters/{html.escape(chapter["output_name"])}">'
             f'{html.escape(chapter["title"])}</a>'
-            f'<span class="status">Chapter {chapter["chapter"]} - {html.escape(chapter["status"])}</span></li>'
+            f'<span class="status">{config["chapter_label"]} {chapter["chapter"]} - {html.escape(display_status(chapter["status"], lang))}</span></li>'
         )
         for chapter in chapters
     )
+    status_body = f"<p>{html.escape(config['note'])}</p>"
     body = f"""    <section class="hero">
       <h1>{PROJECT_TITLE}</h1>
-      <p>A Markdown-first travel handbook for the Gulf of Saint-Tropez, generated directly from the repository.</p>
+      <p>{config["hero"]}</p>
     </section>
     <section class="note">
-      <strong>Readiness note:</strong> this preview is structurally ready, but recommendations still need current official and local verification before publication.
+      <strong>{config["status_heading"]}:</strong> {config["note"]}
     </section>
     <section>
-      <h2>Chapters</h2>
+      <h2>{config["chapters"]}</h2>
       <ul class="chapter-list">
 {chapter_items}
       </ul>
     </section>
     <section>
-      <h2>Final Check</h2>
-{final_check_html}
+      <h2>{config["status_heading"]}</h2>
+{status_body}
     </section>"""
-    return page_shell(PROJECT_TITLE, body)
+    return page_shell(PROJECT_TITLE, body, lang=lang)
 
 
-def render_chapter(chapter):
+def render_chapter(chapter, lang="nl"):
+    config = LANGUAGES[lang]
+    depth = 1 if lang == "nl" else 2
     chapter_html = render_markdown(chapter["body"])
-    body = f"""    <p><a href="../index.html">Back to contents</a></p>
+    body = f"""    <p><a href="{home_href(lang, depth)}">{config["back"]}</a></p>
     <article>
-      <p class="status">Chapter {chapter["chapter"]} - {html.escape(chapter["status"])}</p>
+      <p class="status">{config["chapter_label"]} {chapter["chapter"]} - {html.escape(display_status(chapter["status"], lang))}</p>
 {chapter_html}
     </article>"""
-    return page_shell(chapter["title"], body, depth=1)
+    return page_shell(chapter["title"], body, lang=lang, depth=depth, page_kind="chapter", output_name=chapter["output_name"])
+
+
+def language_output_dir(output_dir, lang):
+    lang_dir = LANGUAGES[lang]["output_dir"]
+    return output_dir / lang_dir if lang_dir else output_dir
+
+
+def build_language(root, output_dir, lang, final_check_text):
+    site_dir = language_output_dir(output_dir, lang)
+    (site_dir / "chapters").mkdir(parents=True, exist_ok=True)
+    chapters = collect_chapters(root, lang)
+    (site_dir / "index.html").write_text(render_index(chapters, final_check_text, lang), encoding="utf-8")
+    for chapter in chapters:
+        target = site_dir / "chapters" / chapter["output_name"]
+        target.write_text(render_chapter(chapter, lang), encoding="utf-8")
 
 
 def build_site(root=ROOT):
@@ -313,17 +471,14 @@ def build_site(root=ROOT):
     output_dir = root / "_site"
     if output_dir.exists():
         shutil.rmtree(output_dir)
-    (output_dir / "chapters").mkdir(parents=True)
+    output_dir.mkdir(parents=True)
     (output_dir / ".nojekyll").write_text("", encoding="utf-8")
 
-    chapters = collect_chapters(root)
     final_check_path = root / "Docs" / "FINAL_CHECK.md"
     final_check_text = final_check_path.read_text(encoding="utf-8") if final_check_path.exists() else ""
 
-    (output_dir / "index.html").write_text(render_index(chapters, final_check_text), encoding="utf-8")
-    for chapter in chapters:
-        target = output_dir / "chapters" / chapter["output_name"]
-        target.write_text(render_chapter(chapter), encoding="utf-8")
+    for lang in LANGUAGES:
+        build_language(root, output_dir, lang, final_check_text)
 
     return output_dir
 

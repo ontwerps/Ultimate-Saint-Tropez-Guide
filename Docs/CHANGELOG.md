@@ -69,3 +69,7 @@ Added a reproducible readiness audit script and final check document, then close
 ## v0.17
 
 Added a reproducible static website build and GitHub Pages workflow so the guide can be reviewed as a hosted book preview from the repository source.
+
+## v0.18
+
+Reworked visible chapter placeholders into reader-facing draft copy, added English and French chapter sources, and upgraded the static site build plus validation for multilingual GitHub Pages publishing.

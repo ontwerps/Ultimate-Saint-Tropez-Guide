@@ -1,7 +1,7 @@
 ---
 title: Wandelen
 chapter: 7
-status: concept
+status: draft
 ---
 
 # Wandelen
@@ -27,7 +27,7 @@ GPX-bestanden horen later in `assets/gpx/` of een aparte routestructuur. Elke ro
 
 ## Eerste shortlist
 
-Deze routes zijn onderzoeksrecords, nog geen publicatieklare wandeladviezen.
+Deze routes zijn bruikbare planningsrichtingen. Routes met officiële basiscontext kunnen in de gids worden beschreven, maar navigatieadvies blijft geblokkeerd totdat routegeometrie, afsluitingen, water en hitte lokaal of officieel zijn gecontroleerd.
 
 - Sentier du littoral Saint-Tropez - Plage de Tahiti
 - Plage de Gigaro - Cap Lardier - Cap Taillat
@@ -41,10 +41,10 @@ Primair bevestigd in deze ronde:
 - La Croix-Valmer Tourisme bevestigt wandel- en baladecategorieën, de beschermde omgeving en de context van Cap Lardier en Cap Taillat.
 - De mairie van La Garde-Freinet bevestigt dat Fort-Freinet alleen te voet bereikbaar is vanaf het dorp of Parking de la Croix en waarschuwt voor een steil pad.
 
-Seed-only:
+Voorzichtige onderzoeksroutes:
 
-- De Saint-Tropez - Tahiti kustwandeling gebruikt nu achtergrondbrondata voor afstand en algemene routecontext.
-- De Cap Camarat - Cap Taillat-route is voorlopig alleen een onderzoeksconcept voor beschermde caps; exacte toegang, routegeometrie en kwetsbare zones moeten officieel of lokaal worden bevestigd.
+- De Saint-Tropez - Tahiti kustwandeling gebruikt achtergrondbrondata voor afstand en algemene routecontext.
+- De Cap Camarat - Cap Taillat-route is een beschermde-caps concept: exacte toegang, routegeometrie en kwetsbare zones moeten officieel of lokaal worden bevestigd.
 
 ## Veiligheidsregels
 
@@ -55,4 +55,4 @@ Seed-only:
 
 ## Persoonlijke aanbeveling
 
-Nog niet beoordeeld.
+Voorlopige gidswaarde: kies Gigaro - Cap Lardier - Cap Taillat voor natuurgevoel wanneer omstandigheden goed zijn; Fort-Freinet voor erfgoed en hoogte; Saint-Tropez - Tahiti alleen als lichte kustcontext en niet als hittewandeling. Start vroeg, neem water en behandel alle caps als kwetsbare natuur, niet als shortcut naar verborgen stranden.

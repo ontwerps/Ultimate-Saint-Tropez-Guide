@@ -11,6 +11,7 @@ REQUIRED_DIRECTORIES = [
     "templates",
     "scripts",
     "output",
+    "translations",
 ]
 
 EXPECTED_CSV_HEADERS = {
@@ -109,6 +110,7 @@ VALID_RESEARCH_STATUSES = {
     "concept",
 }
 REQUIRED_FRONT_MATTER_FIELDS = ["title", "chapter", "status"]
+TRANSLATION_LANGUAGES = ["en", "fr"]
 
 
 def validate_project(root):
@@ -117,6 +119,7 @@ def validate_project(root):
     errors.extend(validate_directories(root))
     errors.extend(validate_csv_files(root))
     errors.extend(validate_chapters(root))
+    errors.extend(validate_translations(root))
     return errors
 
 
@@ -234,6 +237,33 @@ def validate_chapters(root):
         if path.name == "README.md":
             continue
         errors.extend(validate_chapter(root, path))
+    return errors
+
+
+def validate_translations(root):
+    errors = []
+    chapters_dir = root / "chapters"
+    if not chapters_dir.is_dir():
+        return errors
+
+    canonical_chapters = sorted(path.name for path in chapters_dir.glob("*.md") if path.name != "README.md")
+    for lang in TRANSLATION_LANGUAGES:
+        translation_dir = root / "translations" / lang / "chapters"
+        relative_dir = Path("translations") / lang / "chapters"
+        if not translation_dir.is_dir():
+            errors.append(f"Missing translation directory: {relative_dir}")
+            continue
+
+        translated_chapters = sorted(path.name for path in translation_dir.glob("*.md"))
+        for chapter_name in canonical_chapters:
+            if chapter_name not in translated_chapters:
+                errors.append(f"{relative_dir} missing translated chapter: {chapter_name}")
+        for chapter_name in translated_chapters:
+            if chapter_name not in canonical_chapters:
+                errors.append(f"{relative_dir} has extra translated chapter: {chapter_name}")
+
+        for path in sorted(translation_dir.glob("*.md")):
+            errors.extend(validate_chapter(root, path))
     return errors
 
 

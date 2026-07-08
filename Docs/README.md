@@ -13,6 +13,7 @@ This repository contains the source for a premium travel handbook covering the G
 ## Repository Structure
 
 - `chapters/`: canonical handbook chapters.
+- `translations/`: English and French chapter sources; Dutch remains the default.
 - `database/`: structured CSV data for places, beaches, restaurants, routes, hikes and sources.
 - `templates/`: reusable operational content templates.
 - `assets/`: images, maps, GPX files and other media.
@@ -27,7 +28,7 @@ Run this before committing content changes:
 python3 scripts/validate_project.py
 ```
 
-The validator checks required folders, CSV headers, duplicate CSV IDs, unknown source references, allowed research statuses, cycling route categories, local bike-route GPX file references and chapter front matter.
+The validator checks required folders, CSV headers, duplicate CSV IDs, unknown source references, allowed research statuses, cycling route categories, local bike-route GPX file references, chapter front matter and translation parity for English and French.
 
 ## Website Preview
 
@@ -37,6 +38,6 @@ Build the static book locally:
 python3 scripts/build_site.py
 ```
 
-The generated site is written to `_site/`. GitHub Pages uses `.github/workflows/pages.yml` to rebuild that same site after pushes to `main`.
+The generated site is written to `_site/`. Dutch is published at the site root, English under `_site/en/` and French under `_site/fr/`. GitHub Pages uses `.github/workflows/pages.yml` to rebuild that same site after pushes to `main`.
 
 See PROJECT.md first.

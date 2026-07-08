@@ -24,7 +24,7 @@ Latest generated audit:
 
 The project is structurally complete for the first baseline. It is not publication-final until records graduate from seed/partial status to `verified`.
 
-The generated GitHub Pages preview is suitable for reviewing the book structure and draft text. It must carry the readiness caveat until publication verification is complete.
+The generated GitHub Pages preview is suitable for reviewing the book structure and draft text in Dutch, English and French. It must carry the readiness caveat until publication verification is complete.
 
 ## Publication Verification
 
@@ -53,4 +53,5 @@ Before exporting a publishable PDF, website or mobile version:
 - Every recommended route must have usable geometry or a clear non-navigation caveat.
 - Every recommendation must separate facts from personal judgement.
 - Every date-sensitive claim must have an access date and a target season.
+- English and French translations must match the Dutch chapter set.
 - Generated outputs must come from source files, not manual edits in `output/`.
