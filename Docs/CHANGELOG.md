@@ -11,3 +11,7 @@ Added handbook repository skeleton, starter chapters, CSV data scaffolds, operat
 ## v0.3
 
 Added project validation script and tests for required folders, CSV headers, cycling route categories and chapter front matter.
+
+## v0.4
+
+Connected the local project to the GitHub repository and added the first source-tracked beach research seed.

@@ -1,2 +1,7 @@
 id,title,publisher,url,accessed_at,notes
-
+src-wiki-pampelonne,Pampelonne (plage),Wikipedia,https://fr.wikipedia.org/wiki/Pampelonne_(plage),2026-07-08,"Seed source for location, length/context and public-domain maritime/concession notes; replace or confirm with official commune/tourism sources."
+src-wiki-saint-tropez,Saint-Tropez,Wikipedia,https://fr.wikipedia.org/wiki/Saint-Tropez,2026-07-08,"Seed source for Saint-Tropez coastline and public beach list; verify against commune pages before publication."
+src-wiki-saint-tropez-beaches,Saint-Tropez beaches,Wikipedia,https://en.wikipedia.org/wiki/Saint-Tropez_beaches,2026-07-08,"Seed source for beach groupings and Pampelonne context; not sufficient for final recommendations."
+src-wiki-bouillabaisse,La Bouillabaisse (plage),Wikipedia,https://fr.wikipedia.org/wiki/La_Bouillabaisse_(plage),2026-07-08,"Seed source for Bouillabaisse location, beach type, parking and facilities; verify against official source."
+src-wiki-moune,Plage de la Moune,Wikipedia,https://fr.wikipedia.org/wiki/Plage_de_la_Moune,2026-07-08,"Seed source for La Moune location, access, parking and sailing-school notes; verify locally."
+src-wiki-sainte-maxime,Sainte-Maxime,Wikipedia,https://en.wikipedia.org/wiki/Sainte-Maxime,2026-07-08,"Seed source for Sainte-Maxime beach names and shoreline context; verify against commune/tourism sources."
