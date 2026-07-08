@@ -45,3 +45,7 @@ Added the first local seed GPX route files, cycling route records and validation
 ## v0.11
 
 Added the first hidden-gems baseline with primary-source records for Domaine du Rayol and Fort-Freinet, plus clearly marked seed records for quieter heritage and viewpoint stops.
+
+## v0.12
+
+Added a Google Maps Atlas export script and tests. The exporter creates a reproducible `output/google_maps_atlas.csv` from geocoded places, beaches and restaurants while leaving generated output out of Git.

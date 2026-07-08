@@ -9,4 +9,4 @@
 - [ ] Restaurant research (eerste source-backed shortlist toegevoegd; openingstijden, menuprijzen, reserveren en lokale beoordeling nodig)
 - [ ] Beach research (brede officiële inventaris toegevoegd; zwemwaterdetails, parkeertarieven en lokale beoordeling nodig)
 - [ ] Hidden gems (eerste source-backed shortlist toegevoegd; toegang, parking, openingstijden en lokale beoordeling nodig)
-- [ ] Google Maps Atlas
+- [ ] Google Maps Atlas (eerste punt-exportscript toegevoegd; meer coordinaten en route/KML-laag nodig)
