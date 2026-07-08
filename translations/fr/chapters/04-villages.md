@@ -18,6 +18,10 @@ Les villages autour du golfe de Saint-Tropez apportent calme et hauteur: points 
 - Port Grimaud: village lacustre plat dans Grimaud.
 - Vieille ville de Saint-Tropez: plus urbaine, plus fréquentée et culturellement plus dense.
 
+## Profils
+
+Grimaud est le meilleur choix pour patrimoine, hauteur et Pont des Fées. Gassin est le plus fort pour panorama et fin d'après-midi. Ramatuelle relie plage, vin et village au-dessus de Pampelonne. Port Grimaud est plat, aquatique et accessible. La vieille ville de Saint-Tropez est culturelle plutôt que villageoise et mérite son propre plan.
+
 ## Première segmentation
 
 - Meilleurs points de vue: Gassin, Ramatuelle, Grimaud.
@@ -29,6 +33,14 @@ Les villages autour du golfe de Saint-Tropez apportent calme et hauteur: points 
 ## Planning
 
 Pour une demi-journée, choisissez un village avec café, petite marche ou point de vue. Pour une journée, combinez au maximum deux villages, ou un village avec plage ou vin. En été, matin et fin d'après-midi sont plus forts que les midis chauds.
+
+## Meilleures combinaisons
+
+- Grimaud + Port Grimaud: hauteur et canaux.
+- Gassin + Ramatuelle: vues et ambiance de fin d'après-midi.
+- Ramatuelle + Pampelonne: contraste plage/village.
+- Grimaud + Pont des Fées: patrimoine calme.
+- Saint-Tropez + Graniers: ville et plage courte.
 
 ## Stationnement et accessibilité
 

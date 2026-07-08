@@ -42,6 +42,21 @@ Prévoyez eau, protection solaire, chaussures légères avec adhérence, maillot
 - Journée plage: Pampelonne ou alternative plus calme selon vent, trafic et parking.
 - Journée villages: Grimaud, Gassin ou Ramatuelle avec déjeuner ou point de vue.
 
+## Comment utiliser ce guide
+
+Commencez par le type de journée, pas par la liste la plus longue:
+
+- Journée calme: base, plage proche, Port Grimaud, courses et dîner simple.
+- Saint-Tropez classique: parking tôt ou bateau, vieille ville, port, Citadelle et une bonne halte.
+- Plage confort: Pampelonne, La Nartelle, Cavalaire ou La Croix-Valmer selon vent, budget et parking.
+- Nature: Gigaro, Cap Lardier, Escalet, Bonporteau ou Domaine du Rayol, avec eau et gestion de la chaleur.
+- Villages: Grimaud, Gassin ou Ramatuelle hors des heures les plus chaudes.
+- Luxe: une réservation principale structure toute la journée.
+
+## Rythme d'une semaine
+
+Jour 1 pour s'orienter, jour 2 pour Port Grimaud et la côte, jour 3 pour Saint-Tropez, jour 4 pour une grande plage, jour 5 pour les villages, jour 6 pour randonnée/vélo/Rayol et jour 7 pour refaire intelligemment ce qui a le mieux fonctionné.
+
 ## Recommandation personnelle
 
 Déplacez-vous moins que prévu. Un seul lieu bien choisi par jour semble souvent plus luxueux ici que trois arrêts cochés.

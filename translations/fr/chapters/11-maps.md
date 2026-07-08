@@ -34,3 +34,11 @@ Ajouter des coordonnées, choisir couleurs et icônes par couche, tester l'impor
 ## Usage du guide
 
 La carte est actuellement un atlas d'orientation. Utilisez les coordonnées comme base fiable d'import, mais considérez les GPX comme navigables seulement après contrôle officiel ou local de géométrie.
+
+## Couches finales
+
+Les lieux doivent montrer villages, points de vue, patrimoine et domaines. Les plages doivent être groupées par confort, nature, combinaison Saint-Tropez, navette et absence de surveillance. Les restaurants doivent indiquer moment et budget. Les randonnées et itinéraires vélo restent séparés jusqu'à géométrie fiable.
+
+## Usage mobile
+
+La carte mobile doit répondre vite: qu'est-ce qui est proche de ma base, qu'est-ce qui convient à ce moment de la journée, et quels lieux demandent réservation, parking ou contrôle de sécurité?

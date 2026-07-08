@@ -50,6 +50,49 @@ Start vroeg, neem water en vermijd hittepieken. Gigaro - Cap Lardier - Cap Taill
 
 Maak één reservering leidend: gastronomisch diner, strandlunch of wijnervaring. Bouw de rest van de dag eromheen en houd parkeren, chauffeur of terugreis nuchter gepland.
 
+## Complete voorbeeldplannen
+
+### 1. Eerste dag zonder stress
+
+Start bij Prairies de la Mer. Loop naar strand en voorzieningen, ga daarna naar Port Grimaud voor een korte kanaallus. Lunch eenvoudig, rust in de middag, en sluit af met een late wandeling of dichtbij diner. Doel: ritme begrijpen, niet scoren.
+
+### 2. Klassiek Saint-Tropez
+
+Vertrek vroeg. Parkeer volgens vooraf gekozen gemeentelijke optie of kom per boot. Wandel haven, oude stad, La Ponche en Citadelle-zone. Neem La Tarte Tropézienne als lichte iconische stop. Kies alleen diner in Saint-Tropez als terugkeer geregeld is.
+
+### 3. Pampelonne luxe
+
+Reserveer strandlunch of strandbed vooraf. Vertrek vroeg, kies sector en parking, houd middag rustig en plan geen extra dorp tot de hitte zakt. Combineer eventueel met Ramatuelle in de late middag.
+
+### 4. Noordkant comfort
+
+Kies La Nartelle of Sainte-Maxime-strand voor praktisch strandgevoel met voorzieningen. Gebruik dit wanneer Pampelonne te veel logistiek vraagt. Voeg Sainte-Maxime of kustfietstest toe als de dag licht blijft.
+
+### 5. Dorpen en uitzicht
+
+Ochtend Grimaud, middagpauze, late middag Gassin of Ramatuelle. Niet alle drie forceren. Kies diner alleen waar parkeren en reservering helder zijn.
+
+### 6. Natuur en kust
+
+Vroeg naar Gigaro of Escalet. Neem water, schaduw en schoenen serieus. Houd de middag vrij voor rust. Deze dag is sterker zonder luxe lunchstress.
+
+### 7. Regen of mistral
+
+Kies dorp, patisserie, museum/cultuur in Saint-Tropez, wijncaveau of Domaine du Rayol als omstandigheden passen. Vermijd wilde baaien en open caps.
+
+### 8. Gastronomische avond
+
+Houd de dag licht: strand dichtbij of rustige wandeling, daarna rust en omkleden. Laat La Vague d'Or, La Voile of een andere grote reservering het enige hoofdevent zijn.
+
+## Beslisboom
+
+- Wil je iconisch? Saint-Tropez of Pampelonne.
+- Wil je makkelijk? Port Grimaud, La Nartelle, Cavalaire.
+- Wil je uitzicht? Gassin, Ramatuelle, Grimaud.
+- Wil je natuur? Gigaro, Escalet, Domaine du Rayol, Fort-Freinet.
+- Wil je luxe? La Vague d'Or, La Réserve, Pampelonne.
+- Wil je weinig gedoe? Blijf binnen tien tot vijftien minuten van je basis.
+
 ## Verificatie
 
 Dagplannen mogen pas definitief worden als de onderliggende restaurants, routes, parkeerplaatsen en openingstijden zijn gecontroleerd.

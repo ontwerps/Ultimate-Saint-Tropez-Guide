@@ -14,6 +14,10 @@ Prairies de la Mer works as a practical base: beach nearby, Port Grimaud close b
 
 Use it as a calm starting and ending point. Go early to Port Grimaud, use late afternoon for beach or village returns, and keep a nearby fallback for hot or crowded days.
 
+## Orientation
+
+Think of Prairies de la Mer as a triangle: the beach and accommodation zone, Port Grimaud, and the coastal axis toward Sainte-Maxime and Saint-Tropez. Its real value is that several days can happen without starting the car each morning.
+
 ## Best Time
 
 - Morning: groceries, beach walk, Port Grimaud or a short ride.
@@ -31,6 +35,14 @@ The first research routes are Prairies de la Mer - Port Grimaud - Sainte-Maxime,
 ## Walking
 
 The best walks are short: beach, facilities, Port Grimaud and waterside paths. Longer nature walks fit better around Gigaro, Cap Lardier, Cap Taillat or Fort-Freinet.
+
+## Best Combinations
+
+- Port Grimaud: morning canal walk, coffee, return for beach.
+- Sainte-Maxime: cycling test or north-coast beach day.
+- Saint-Tropez: only with transport and parking planned.
+- Gassin/Ramatuelle: late afternoon for views.
+- Pampelonne: early departure and a clear beach-sector plan.
 
 ## Costs
 

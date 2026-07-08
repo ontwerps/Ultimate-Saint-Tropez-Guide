@@ -32,6 +32,14 @@ Before publication, hours, reservation rules, current menu prices, parking, vale
 - Iconic Saint-Tropez stop: La Tarte Tropézienne, Sénéquier.
 - New 2026 scene: Monsieur Dior by Mauro Colagreco.
 
+## Address Profiles
+
+La Vague d'Or is a destination evening, not a casual dinner. La Voile is the gastronomic La Réserve choice. La Brasserie is the less formal palace layer. La Muña is sunset and view. La Réserve à La Plage is Pampelonne luxury logistics. La Tarte Tropézienne is the easiest iconic Saint-Tropez stop. Sénéquier is harbour theatre more than quiet value. Le Club 55 belongs to the Pampelonne myth but needs primary confirmation. Monsieur Dior is the new 2026 scene and needs current experience checks.
+
+## Booking Strategy
+
+Book gastronomic evenings and Pampelonne lunches early. Ask about arrival, valet, dress code, cancellation and child-friendliness. In Saint-Tropez, the return plan is part of the reservation.
+
 ## Personal Recommendation
 
 Book La Vague d'Or or La Voile only if the evening itself is the destination. Use La Tarte Tropézienne as an easier Saint-Tropez stop; treat Sénéquier and Monsieur Dior as scene addresses until current experience, price and service are judged.

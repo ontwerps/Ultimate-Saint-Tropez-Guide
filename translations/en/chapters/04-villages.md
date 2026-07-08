@@ -18,6 +18,10 @@ The villages around the Gulf of Saint-Tropez add calm and height: viewpoints, ol
 - Port Grimaud: flat waterside village within Grimaud.
 - Saint-Tropez old town: more urban, busier and culturally heavier.
 
+## Village Profiles
+
+Grimaud is best for heritage, height and a quieter pairing with Pont des Fées. Gassin is strongest for panorama and late-afternoon feeling. Ramatuelle connects beach, wine and village atmosphere above Pampelonne. Port Grimaud is flat, watery and accessible. Saint-Tropez old town is cultural rather than village-like and deserves its own plan.
+
 ## First Segmentation
 
 - Best views: Gassin, Ramatuelle, Grimaud.
@@ -29,6 +33,14 @@ The villages around the Gulf of Saint-Tropez add calm and height: viewpoints, ol
 ## Day Planning
 
 For a half-day, choose one village plus coffee, a short walk or a viewpoint. For a full day, combine at most two villages, or one village with beach or wine. In summer, morning and late afternoon are much stronger than hot middays.
+
+## Best Pairings
+
+- Grimaud + Port Grimaud: height and canals.
+- Gassin + Ramatuelle: late-afternoon views and village mood.
+- Ramatuelle + Pampelonne: classic beach/village contrast.
+- Grimaud + Pont des Fées: quiet heritage.
+- Saint-Tropez + Graniers: town and short beach layer.
 
 ## Parking and Accessibility
 

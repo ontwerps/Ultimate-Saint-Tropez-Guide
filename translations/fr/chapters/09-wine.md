@@ -29,6 +29,14 @@ Piste de recherche uniquement tant que source primaire, horaires, règles de dé
 
 Séparez rosé frais pour plage ou pique-nique, blanc pour poisson ou coquillages, et rosé plus sérieux pour repas de niveau restaurant. Ne liez pas dégustation et vélo sans plan sobre.
 
+## Place du vin dans le guide
+
+Le vin relie villages, plages et déjeuners; ce n'est pas une liste séparée. Château Minuty est l'ancrage principal car les sources actuelles décrivent formats de visite, horaires et prix. À utiliser autour de Gassin, Ramatuelle ou Pampelonne, pas dans une journée sportive.
+
+## Acheter pour le séjour
+
+Ne laissez pas les bouteilles dans une voiture chaude. Achetez plutôt en fin de journée ou prévoyez de quoi garder au frais.
+
 ## Responsabilité
 
 Les informations sur l'alcool doivent rester pratiques et retenues. Aucun itinéraire ne doit banaliser boire et conduire ou boire et pratiquer un sport.

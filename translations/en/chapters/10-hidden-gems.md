@@ -27,6 +27,14 @@ Pont des Fées, Moulin de Paillas, Cap Camarat, Chapelle Sainte-Anne and the mar
 - Protected nature, described cautiously: Cap Camarat.
 - High-quality half-day away from the busiest core: Domaine du Rayol.
 
+## Place Profiles
+
+Domaine du Rayol is the strongest mature hidden-gem choice: not secret, but genuinely rich and calmer than many beach days. Fort-Freinet gives height, history and effort. Pont des Fées adds quiet Grimaud heritage. Moulin de Paillas is a light-and-view moment above Ramatuelle. Cap Camarat should stay restrained because of access and nature sensitivity. Chapelle Sainte-Anne is a viewpoint and cultural note, not guaranteed interior access. The marine cemetery is a respectful quiet walk, never celebrity tourism.
+
+## What Counts Here
+
+A place qualifies only if it has a clear reason to visit, is practical to find, is not harmed by the description and adds something beyond being "less known".
+
 ## Writing Rules
 
 Describe vulnerable nature places carefully, avoid viral "secret spot" tone and keep cemetery, chapel and small-community stops respectful.

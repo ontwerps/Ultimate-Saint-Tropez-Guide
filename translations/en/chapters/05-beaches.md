@@ -37,6 +37,18 @@ Saint-Tropez confirms 2026 lifeguard supervision for Bouillabaisse, Canebiers an
 - Shuttle and nature: Débarquement, Sylvabelle, Héraclée, Gigaro.
 - Rougher walking coast: Brouis, Briande, Bonporteau.
 
+## Beach Profiles
+
+Pampelonne is the iconic long Saint-Tropez beach day: plan sector, parking, lunch and budget in advance. Bouillabaisse is useful as the beach closest to a Saint-Tropez day. Graniers works as a short beach layer after the old town. La Nartelle is one of the most practical north-gulf choices because the official listing includes free access, parking, toilets, restaurants, watersports and 2026 lifeguard context. Escalet gives Ramatuelle nature and snorkelling mood; Bonne Terrasse and Douane are quieter and more self-reliant. La Croix-Valmer is strong for shuttle-backed beach planning, especially Gigaro. Cavalaire is the broad family-friendly sand-bay option; Bonporteau is wild, steep and unsupervised.
+
+## By Traveller
+
+- Families: La Nartelle, Cavalaire Parc, Cavalaire Centre-ville, Pampelonne with booking.
+- Teenagers: La Nartelle, Pampelonne, Cavalaire activities.
+- Nature: Escalet, Gigaro, Bonporteau when access and heat are right.
+- Walkers: Gigaro, Brouis, Briande, Douane, Bonporteau.
+- Luxury: Pampelonne, La Réserve à La Plage and Le Club 55 context.
+
 ## Personal Recommendation
 
 Pampelonne is the iconic beach day, but not automatically the easiest. For comfort, La Nartelle, Cavalaire or La Croix-Valmer can be more practical; for nature, Escalet, Gigaro and Bonporteau win when access and heat are right.

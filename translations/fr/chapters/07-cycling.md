@@ -22,6 +22,14 @@ Les routes sont dans `database/bike_routes.csv`; les GPX dans `assets/gpx/`. Les
 
 Port Grimaud - Sainte-Maxime utilise un contexte récent de piste littorale. Port Grimaud - Fréjus se rattache au contexte V65 / Parcours Cyclable du Littoral mais demande une géométrie officielle. Gassin - Ramatuelle - Pampelonne est un concept route qui demande vérification locale du trafic, des pentes, des arrêts et de la sécurité.
 
+## Profils de routes
+
+Prairies de la Mer - Port Grimaud - Sainte-Maxime est le meilleur premier test: court, utile et révélateur. Port Grimaud - Sainte-Maxime - Fréjus appartient au contexte V65 et demande géométrie officielle avant navigation. Gassin - Ramatuelle - Pampelonne est la boucle route plus sportive, à faire tôt, jamais comme route famille ou ajout à une dégustation.
+
+## Par type de vélo
+
+Trekking et vélo électrique conviennent au littoral et aux usages pratiques. Le vélo de route demande des créneaux précoces. Le gravel n'est pas encore mature dans ce guide car les surfaces restent à vérifier.
+
 ## Règles
 
 Les GPX locaux doivent rester sous `assets/gpx/`; un enregistrement ne peut référencer un fichier local que s'il existe. Les URL GPX externes pourront être ajoutées si la licence le permet.

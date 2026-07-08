@@ -52,6 +52,46 @@ Voorzichtige onderzoeksplekken:
 - Beschermde natuur met terughoudende beschrijving: Cap Camarat.
 - Hoogwaardige halve dag buiten de drukste kern: Domaine du Rayol.
 
+## Plekprofielen
+
+### Domaine du Rayol
+
+Domaine du Rayol is de meest volwassen "hidden gem" in deze gids, al ligt het buiten de directe kern van de golf. Het is geen geheim, maar wel een hoogwaardige natuur- en tuinervaring die rustiger en inhoudelijker voelt dan veel stranddagen. Gebruik het voor een halve dag botanische rust, vooral in lente, vroege zomer of herfst.
+
+### Fort-Freinet
+
+Fort-Freinet is erfgoed met inspanning. De officiële bron bevestigt toegang alleen te voet en waarschuwt voor een steil pad. Dat maakt het juist waardevol: je krijgt hoogte, geschiedenis en Massif des Maures-context zonder kustdrukte. Niet doen met gladde schoenen of slecht weer.
+
+### Pont des Fées
+
+Pont des Fées is een rustige erfgoedlaag bij Grimaud. Gebruik het als korte wandeling voor reizigers die meer willen dan terras en uitzicht. De route en parking vragen lokale controle, dus beschrijf het als zorgvuldig te plannen stop.
+
+### Moulin de Paillas
+
+Moulin de Paillas werkt vooral als uitzicht- en lichtmoment boven Ramatuelle. Het is geen lange activiteit, maar kan een dorpendag karakter geven. Beste moment: late middag of heldere dag na mistral.
+
+### Cap Camarat
+
+Cap Camarat verdient een terughoudende toon. Vuurtoren, semaphore, beschermde kust en spectaculaire ligging maken het aantrekkelijk, maar de gids moet toegang en kwetsbaarheid boven "geheime plek" zetten.
+
+### Chapelle Sainte-Anne
+
+Chapelle Sainte-Anne is waardevol als Saint-Tropez-hoogtepunt met culturele context, maar niet als gegarandeerde interieurbezoek. Gebruik het als uitzicht- en verhalenstop wanneer toegang en opening passen.
+
+### Cimetière marin
+
+Het cimetière marin onder de Citadelle is geen attractie voor sensatie, maar een stille kustplek. Beschrijf het respectvol: zee, geschiedenis, wandeling, stilte. Vermijd celebrity-focus.
+
+## Wanneer is iets echt een hidden gem?
+
+Een plek is in deze gids pas een hidden gem als hij:
+
+- een duidelijke reden heeft om te bezoeken;
+- praktisch vindbaar is;
+- niet kwetsbaar wordt gemaakt door de beschrijving;
+- een beste moment of duidelijke context heeft;
+- niet alleen "minder bekend" is, maar echt iets toevoegt aan de reis.
+
 ## Schrijfregels
 
 - Beschrijf kwetsbare natuurplekken terughoudend en zonder virale "geheime plek"-toon.

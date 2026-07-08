@@ -14,6 +14,10 @@ Saint-Tropez is the symbolic core of the guide: harbour, old town, Citadelle con
 
 The town combines fishing-port history, film culture, luxury, markets, art context and compact old streets. Plan it as a focused city day, not as an improvised stop after several other plans.
 
+## Character
+
+Saint-Tropez works in layers: harbour theatre, old streets, La Ponche, Citadelle height, marine cemetery and nearby beaches. A good day touches two or three layers, not all of them.
+
 ## Best Time
 
 - Morning: old town, market context, pastry, Citadelle zone and quieter walking.
@@ -24,9 +28,15 @@ The town combines fishing-port history, film culture, luxury, markets, art conte
 
 Use municipal parking information close to travel day. Do not drive into the core in peak season hoping to improvise; choose parking, boat, shuttle or bike access in advance.
 
+The municipal parking source lists Parking du Nouveau Port with 1477 spaces plus bus spaces, Parking des Lices with 307 underground spaces, Parking Foch with 100 underground spaces and Place du XVe Corps with 90 spaces. Treat this as a planning base and re-check prices and availability close to travel.
+
 ## Walking
 
 A strong first walk: harbour, old streets, La Ponche and La Fontanette, Citadelle zone, the marine cemetery with a respectful tone, Plage des Graniers, then back to the centre.
+
+## Two Routes
+
+For a first taste, spend two to three hours on the harbour, old streets, La Ponche and a pastry stop. For a richer half-day, add the Citadelle zone, marine cemetery and Graniers, with water and better shoes.
 
 ## Costs
 

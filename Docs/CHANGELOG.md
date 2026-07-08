@@ -73,3 +73,7 @@ Added a reproducible static website build and GitHub Pages workflow so the guide
 ## v0.18
 
 Reworked visible chapter placeholders into reader-facing draft copy, added English and French chapter sources, and upgraded the static site build plus validation for multilingual GitHub Pages publishing.
+
+## v0.19
+
+Expanded the guide chapters with richer local planning content, including day rhythms, beach profiles, village comparisons, route profiles, restaurant use-cases, wine guidance, hidden-gem profiles, map-layer strategy and concierge itineraries across Dutch, English and French.

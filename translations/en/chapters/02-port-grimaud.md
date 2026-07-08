@@ -16,6 +16,10 @@ The source base confirms Port Grimaud as a canal town within Grimaud, designed b
 
 Stay on public routes and respect any private or regulated areas.
 
+## Character
+
+Port Grimaud is not an old fishing village; it is a designed waterside place. That is the point. Judge it by use: flat walking, light on water, canals, bridges, boat perspective and easy combination with a stay near Prairies de la Mer.
+
 ## Best Time
 
 - Early: calmest walk and best light.
@@ -29,6 +33,10 @@ Use Port Grimaud as a clear parking anchor if you are not walking or cycling fro
 ## Walking
 
 A simple loop: visitor parking or Prairies de la Mer, Place du Marché, Saint-François d'Assise church from public space, bridges and canals, waterside or boat point, then back through shops.
+
+## Half-Day Plan
+
+Arrive early or late afternoon. Walk the central square, church, bridges and waterside before choosing coffee, ice cream or a short boat perspective. Do not rush; photos, children and terraces naturally slow the visit.
 
 ## Costs
 

@@ -37,6 +37,18 @@ Saint-Tropez confirme la surveillance 2026 pour Bouillabaisse, Canebiers et Sali
 - Navette et nature: Débarquement, Sylvabelle, Héraclée, Gigaro.
 - Côte plus sauvage: Brouis, Briande, Bonporteau.
 
+## Profils de plages
+
+Pampelonne est la grande journée iconique: secteur, parking, déjeuner et budget doivent être choisis avant. Bouillabaisse sert de plage proche d'une journée Saint-Tropez. Graniers fonctionne après la vieille ville. La Nartelle est l'une des options les plus pratiques du nord du golfe grâce à l'accès libre, parking, toilettes, restaurants, activités nautiques et contexte de surveillance 2026. Escalet apporte nature et snorkeling; Bonne Terrasse et Douane sont plus autonomes. La Croix-Valmer est forte pour les plages avec navette, surtout Gigaro. Cavalaire est l'option grande baie familiale; Bonporteau est sauvage, raide et non surveillée.
+
+## Par voyageur
+
+- Familles: La Nartelle, Cavalaire Parc, Cavalaire Centre-ville, Pampelonne réservée.
+- Adolescents: La Nartelle, Pampelonne, activités de Cavalaire.
+- Nature: Escalet, Gigaro, Bonporteau si accès et chaleur conviennent.
+- Marcheurs: Gigaro, Brouis, Briande, Douane, Bonporteau.
+- Luxe: Pampelonne, La Réserve à La Plage, contexte Club 55.
+
 ## Recommandation personnelle
 
 Pampelonne est la journée plage iconique, mais pas toujours la plus simple. Pour le confort, La Nartelle, Cavalaire ou La Croix-Valmer peuvent être plus pratiques; pour la nature, Escalet, Gigaro et Bonporteau gagnent quand accès et chaleur sont maîtrisés.

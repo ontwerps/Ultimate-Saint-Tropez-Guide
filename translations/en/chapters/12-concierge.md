@@ -40,6 +40,21 @@ Start early, carry water and avoid heat peaks. Gigaro - Cap Lardier - Cap Tailla
 
 Let one reservation lead: gastronomic dinner, beach lunch or wine experience. Build the rest of the day around it and keep driving, cycling and return plans sober.
 
+## Complete Example Plans
+
+- First day without stress: base, groceries, beach, Port Grimaud, simple dinner.
+- Classic Saint-Tropez: early parking or boat, harbour, old town, Citadelle zone, pastry stop.
+- Pampelonne luxury: booked lunch or beach setup, one sector, no overfilled afternoon.
+- North-coast comfort: La Nartelle or Sainte-Maxime beaches when Pampelonne feels too heavy.
+- Villages and views: Grimaud, then Gassin or Ramatuelle late, not all at once.
+- Nature coast: Gigaro or Escalet early, water and shade, no luxury lunch pressure.
+- Rain or mistral: village, pastry, culture, wine caveau or Domaine du Rayol if conditions fit.
+- Gastronomic evening: light day, rest, dress, and make the dinner the main event.
+
+## Decision Tree
+
+Iconic means Saint-Tropez or Pampelonne. Easy means Port Grimaud, La Nartelle or Cavalaire. Views mean Gassin, Ramatuelle or Grimaud. Nature means Gigaro, Escalet, Domaine du Rayol or Fort-Freinet. Luxury means La Vague d'Or, La Réserve or Pampelonne.
+
 ## Verification
 
 Day plans become final only when the underlying restaurants, routes, parking and opening hours are checked.

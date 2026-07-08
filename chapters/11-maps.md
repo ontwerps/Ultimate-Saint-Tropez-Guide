@@ -52,3 +52,35 @@ De export schrijft `output/google_maps_atlas.csv`. Dit bestand is gegenereerd en
 ## Gidsgebruik
 
 De kaartlaag is nu vooral een atlas voor oriëntatie. Gebruik punten met coordinaten als betrouwbare start voor Google Maps-import, maar gebruik GPX-routes pas als navigatie na officiële of lokale geometriecontrole. Records zonder coordinaten blijven bewust uit de export om schijnprecisie te vermijden.
+
+## Lagen in de uiteindelijke kaart
+
+### Plaatsen
+
+Dorpen, uitzichtpunten, erfgoed en wijnhuizen. Deze laag helpt bij dagplanning: Grimaud/Gassin/Ramatuelle voor hoogte, Port Grimaud/Saint-Tropez voor water en cultuur, Domaine du Rayol/Fort-Freinet voor natuur en erfgoed.
+
+### Stranden
+
+Stranden moeten kleur krijgen per gebruik: comfort, natuur, Saint-Tropez-combinatie, shuttle, niet-bewaakt of gezinsvriendelijk. Niet-bewaakte stranden krijgen een duidelijk waarschuwingstype.
+
+### Restaurants
+
+Restaurantpunten moeten budget en moment tonen: gastronomisch diner, beach lunch, patisserie, havenpodium, palace-brasserie. Zo wordt de kaart geen willekeurige horeca-lijst.
+
+### Wandelroutes
+
+Wandelroutes blijven apart zolang geometrie niet definitief is. Publiceer liever minder routes met goede caveats dan veel onzekere tracks.
+
+### Fietsroutes
+
+Fietsroutes krijgen type: Trekking, E-bike, Race of Gravel. Voeg pas kleur en afstand toe wanneer de route veilig genoeg is om als route te tonen.
+
+## Mobiel gebruik
+
+De kaart moet op telefoon snel antwoord geven op drie vragen:
+
+- Wat is dichtbij mijn basis?
+- Wat past bij dit moment van de dag?
+- Welke plekken vragen reservering, parking of veiligheidscontrole?
+
+Daarom zijn korte labels beter dan lange beschrijvingen. De hoofdstukken geven context; de kaart geeft keuzes.

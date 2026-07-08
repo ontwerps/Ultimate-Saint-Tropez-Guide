@@ -29,6 +29,14 @@ La marche Saint-Tropez - Tahiti et le concept Cap Camarat - Cap Taillat demanden
 - Éviter le ton "raccourci secret" dans les caps protégés.
 - Vérifier eau, ombre, chaleur, dégâts de tempête, érosion, détours privés et fermetures temporaires.
 
+## Profils de routes
+
+Gigaro - Cap Lardier - Cap Taillat est le classique nature: paysage protégé, littoral et vraie journée si les conditions sont bonnes. Fort-Freinet est l'alternative patrimoine, avec avertissement officiel sur la pente. Saint-Tropez - Tahiti est un contexte littoral léger, pas une épreuve de chaleur. Cap Camarat - Cap Taillat reste sensible tant que géométrie et accès ne sont pas confirmés.
+
+## Équipement et saison
+
+Eau, protection solaire, chaussures avec adhérence, carte hors ligne, téléphone chargé et couche contre le vent. Printemps, début d'été et automne conviennent mieux que le plein été.
+
 ## Recommandation personnelle
 
 Choisissez Gigaro - Cap Lardier - Cap Taillat pour la nature lorsque les conditions sont bonnes; Fort-Freinet pour patrimoine et hauteur; Saint-Tropez - Tahiti pour un contexte littoral plus léger. Partez tôt et prenez de l'eau.

@@ -18,6 +18,26 @@ De dorpen rond de Golf van Saint-Tropez geven de reis rust en hoogte: uitzichten
 - Port Grimaud: waterside-dorp binnen Grimaud, vlak en fotogeniek.
 - Saint-Tropez old town: stadser, drukker en cultureel zwaarder dan de andere dorpen.
 
+## Grimaud
+
+Grimaud is het beste dorp voor wie erfgoed, hoogte en rust wil combineren. Het dorp werkt goed in de ochtend of late middag. Koppel het aan Pont des Fées als je een korte erfgoedwandeling wilt, of aan Port Grimaud als je contrast zoekt tussen heuvel en water. Neem tijd voor langzaam lopen; het dorp is geen checklist maar een sfeerlaag.
+
+## Gassin
+
+Gassin is vooral sterk voor panorama en avondgevoel. Het ligt hoog boven de drukke kustlogistiek en past goed bij een late middag na strand of rust. Gebruik het voor uitzicht, korte wandeling en eventueel dinercontext. Parkeren en restaurantkeuze moeten actueel worden gecontroleerd, want de kwaliteit van de avond hangt sterk af van logistiek.
+
+## Ramatuelle
+
+Ramatuelle is de beste dorpskoppeling met Pampelonne, Minuty, Escalet en de caps. Het dorp voelt logischer buiten piektransferuren naar de stranden. Gebruik Ramatuelle als rustpunt, niet als parkeertruc voor Pampelonne. Het is ook een goede plek om de wijn- en strandlaag van de presqu'île te begrijpen.
+
+## Port Grimaud
+
+Port Grimaud hoort in dit hoofdstuk omdat het binnen Grimaud ligt, maar het functioneert anders: vlak, waterrijk, ontworpen en makkelijk. Kies Port Grimaud voor een toegankelijke wandeling en watergevoel; kies Grimaud village voor hoogte en erfgoed.
+
+## Saint-Tropez old town
+
+De oude stad van Saint-Tropez is geen dorp in gevoel, maar wel een compacte kern met eigen logica. Gebruik het als culturele laag: haven, oude straten, La Ponche en Citadelle-zone. Door drukte en parking verdient het een eigen dag of halve dag.
+
 ## Eerste segmentatie
 
 - Beste uitzicht: Gassin, Ramatuelle, Grimaud.
@@ -29,6 +49,18 @@ De dorpen rond de Golf van Saint-Tropez geven de reis rust en hoogte: uitzichten
 ## Dagplanning
 
 Voor een halve dag werkt één dorp plus koffie, korte wandeling of uitzichtpunt. Voor een hele dag combineer je maximaal twee dorpen, of één dorp met strand of wijn. In de zomer zijn ochtend en late middag veel sterker dan hete middagen.
+
+## Combinaties
+
+- Grimaud + Port Grimaud: beste contrast tussen hoogte en kanalen.
+- Gassin + Ramatuelle: beste late-middagroute met uitzicht en dorpssfeer.
+- Ramatuelle + Pampelonne: klassiek strand-dorpcontrast, mits parkeerplan.
+- Grimaud + Pont des Fées: rustige erfgoedlaag.
+- Saint-Tropez + Graniers: stad en kort strandmoment.
+
+## Keuzehulp
+
+Kies Grimaud als je geschiedenis en rust wilt. Kies Gassin als je uitzicht wilt. Kies Ramatuelle als je strand, wijn en dorp wilt verbinden. Kies Port Grimaud als je vlak en waterrijk wilt wandelen. Kies Saint-Tropez als je cultuur, haven en iconografie wilt.
 
 ## Parkeren en toegankelijkheid
 

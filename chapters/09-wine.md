@@ -49,6 +49,32 @@ Alleen seed-kandidaat. Gebruik dit domein voorlopig als onderzoekslead, niet als
 - Minuty heeft online en caveau-verkoop; exacte lokale beschikbaarheid in supermarkten, cavistes en restaurants apart controleren.
 - Voor picknickadvies later onderscheid maken tussen frisse rosé voor strand, wit voor vis/schelpdieren, en serieuzere rosé voor restaurantniveau.
 
+## Hoe wijn in deze gids past
+
+Wijn is hier geen losse attractie, maar een laag die dorpen, stranden en lunchmomenten verbindt. De presqu'île draait sterk om rosé, maar een goede gids vermijdt clichés: niet elke fles is strandwijn, niet elke proeverij past in een actieve dag, en niet elk domein is automatisch bezoekersvriendelijk.
+
+## Minuty als eerste anker
+
+Château Minuty is de sterkste eerste wijnstop omdat de huidige bronbasis visit formats, uren en prijzen noemt. Gebruik Minuty voor:
+
+- Een rustige caveau-stop rond Gassin of Ramatuelle.
+- Een niet-sportieve dag met Pampelonne of dorpen.
+- Aankoop voor verblijf, picknick of diner.
+- Een laagdrempelige introductie tot lokale rosé.
+
+Vermijd Minuty als spontane stop tijdens een fietstocht of vlak voor lange terugrit. Vendanges kunnen toegang beperken; controleer dus altijd vlak voor bezoek.
+
+## Wijn en eten
+
+- Strand/picknick: fris, eenvoudig, niet te zwaar.
+- Vis of schaal- en schelpdieren: wit of strakker roséprofiel.
+- Gastronomie: serieuzere rosé of pairingadvies van het restaurant.
+- Aperitief: kleine hoeveelheid, water erbij, terugreis nuchter.
+
+## Kopen voor thuis
+
+Let op temperatuur in de auto. Koop wijn niet vroeg op een hete dag als flessen uren in de kofferbak liggen. Plan caveau of caviste aan het einde van de dag of neem koelruimte mee.
+
 ## Combinaties met routes
 
 - Minuty kan logisch gekoppeld worden aan Gassin, Ramatuelle, Pampelonne of een niet-sportieve autolunchdag.

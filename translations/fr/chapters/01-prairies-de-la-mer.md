@@ -14,6 +14,10 @@ Prairies de la Mer sert de base pratique: plage proche, Port Grimaud à courte d
 
 Utilisez ce lieu comme point de départ et de retour calme. Allez tôt à Port Grimaud, gardez la fin d'après-midi pour la plage ou le retour des villages, et prévoyez une option proche pour les jours chauds ou très fréquentés.
 
+## Orientation
+
+Pensez Prairies de la Mer comme un triangle: zone plage/hébergement, Port Grimaud, et axe côtier vers Sainte-Maxime et Saint-Tropez. Sa vraie valeur est de permettre plusieurs journées sans reprendre la voiture chaque matin.
+
 ## Meilleur moment
 
 - Matin: courses, promenade de plage, Port Grimaud ou courte sortie vélo.
@@ -31,6 +35,14 @@ Les premiers itinéraires de recherche sont Prairies de la Mer - Port Grimaud - 
 ## Marche
 
 Les meilleures marches sont courtes: plage, services, Port Grimaud et chemins au bord de l'eau. Les longues marches nature relèvent plutôt de Gigaro, Cap Lardier, Cap Taillat ou Fort-Freinet.
+
+## Meilleures combinaisons
+
+- Port Grimaud: boucle matinale, café, retour plage.
+- Sainte-Maxime: test vélo ou plage nord du golfe.
+- Saint-Tropez: seulement avec transport et stationnement planifiés.
+- Gassin/Ramatuelle: fin d'après-midi et vues.
+- Pampelonne: départ tôt et secteur choisi.
 
 ## Coûts
 

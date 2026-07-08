@@ -53,6 +53,32 @@ Voorzichtige onderzoeksroutes:
 - Altijd water, schaduw, seizoensdrukte, hitte en afsluitingen apart controleren.
 - Bij kustpaden rekening houden met stormschade, erosie, privéomleidingen en tijdelijke afsluitingen.
 
+## Routeprofielen
+
+### Gigaro - Cap Lardier - Cap Taillat
+
+Dit is de natuurklassieker van de zuidwestelijke kust. De aantrekkingskracht zit in beschermd landschap, kustgevoel, wisselende baaien en het contrast met de drukkere strandzones. Plan vroeg, neem water en behandel de caps als kwetsbaar gebied. Deze route is geen snelle strandshortcut, maar een natuurdag.
+
+### Fort-Freinet
+
+Fort-Freinet is het beste erfgoedalternatief voor wie hoogte en geschiedenis zoekt zonder kustdrukte. De officiële bron bevestigt toegang te voet vanaf La Garde-Freinet of Parking de la Croix en waarschuwt voor een steil pad. Gebruik stevige schoenen en vermijd natte of winderige omstandigheden.
+
+### Saint-Tropez - Plage de Tahiti
+
+Deze kustwandeling is vooral interessant als context bij Saint-Tropez en de stranden ten oosten van de stad. Maak er geen zware hittewandeling van. Gebruik hem als vroege of schouderseizoenroute, met duidelijke terugkeer en waterpunten.
+
+### Cap Camarat - Cap Taillat
+
+Dit blijft een voorzichtige onderzoeksroute door beschermde caps. De omgeving is spectaculair, maar de gids mag hier geen harde navigatie beloven zonder officiële geometrie, toegangsinformatie en kwetsbare-zonecontrole. Beschrijf dit gebied terughoudend.
+
+## Uitrusting
+
+Minimaal: water, zonnebescherming, schoenen met grip, opgeladen telefoon, offline kaart en windlaag. Voor langere kustpaden: extra water, snack, zwemspullen alleen als zee en toegang passend zijn, en respect voor afsluitingen. Sandalen zonder grip zijn ongeschikt voor steile of rotsige stukken.
+
+## Beste seizoen
+
+Voor de meeste routes zijn lente, vroege zomer en herfst beter dan hoogzomer. In juli en augustus zijn vroege starts, korte routes en schaduwkeuzes belangrijk. Na storm, regen of mistral kan erosie of gladheid de routekeuze veranderen.
+
 ## Persoonlijke aanbeveling
 
 Voorlopige gidswaarde: kies Gigaro - Cap Lardier - Cap Taillat voor natuurgevoel wanneer omstandigheden goed zijn; Fort-Freinet voor erfgoed en hoogte; Saint-Tropez - Tahiti alleen als lichte kustcontext en niet als hittewandeling. Start vroeg, neem water en behandel alle caps als kwetsbare natuur, niet als shortcut naar verborgen stranden.

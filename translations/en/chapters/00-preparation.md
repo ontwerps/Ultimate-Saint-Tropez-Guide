@@ -42,6 +42,21 @@ Bring water, sun protection, light shoes with grip, swimwear, a power bank and a
 - Beach day: Pampelonne or a calmer alternative depending on wind, traffic and parking.
 - Village day: Grimaud, Gassin or Ramatuelle with lunch or a viewpoint.
 
+## How to Use This Guide
+
+Start with the type of day, not the longest list of places. Choose one main area and one logistics strategy:
+
+- Calm day: base, nearby beach, Port Grimaud, groceries and an easy dinner.
+- Classic Saint-Tropez: early parking or boat, old town, harbour, Citadelle zone and one strong food stop.
+- Comfort beach: Pampelonne, La Nartelle, Cavalaire or La Croix-Valmer depending on wind, budget and parking.
+- Nature day: Gigaro, Cap Lardier, Escalet, Bonporteau or Domaine du Rayol, with water and heat planning.
+- Village day: Grimaud, Gassin or Ramatuelle outside the hottest hours.
+- Luxury day: let one reservation shape the whole day.
+
+## One-Week Rhythm From Prairies de la Mer
+
+Use day one for orientation, day two for Port Grimaud and the coast, day three for Saint-Tropez, day four for a major beach, day five for villages, day six for hiking/cycling/Rayol and day seven to repeat the thing that worked best. The guide becomes stronger when you repeat intelligently rather than adding more pins.
+
 ## Personal Recommendation
 
 Move less than you think. One well-chosen main place per day often feels more luxurious here than three checked-off stops.

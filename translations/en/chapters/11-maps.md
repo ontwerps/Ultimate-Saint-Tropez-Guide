@@ -34,3 +34,11 @@ Add more coordinates, choose colours and icons per layer, test Google My Maps im
 ## Guide Use
 
 The map is currently an orientation atlas. Use coordinates as a reliable start for import, but treat GPX routes as navigable only after official or local geometry checks.
+
+## Final Map Layers
+
+Places should show villages, viewpoints, heritage and wineries. Beaches should be grouped by comfort, nature, Saint-Tropez combination, shuttle access and unsupervised status. Restaurants should show moment and budget, not just category. Hiking and cycling routes should remain separate until geometry is reliable.
+
+## Mobile Use
+
+The mobile map should answer three questions quickly: what is near my base, what fits this time of day, and which places require booking, parking or safety checks?

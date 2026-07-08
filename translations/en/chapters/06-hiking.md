@@ -29,6 +29,14 @@ The Saint-Tropez - Tahiti coastal walk and Cap Camarat - Cap Taillat concept nee
 - Avoid viral "hidden beach shortcut" language in protected caps.
 - Check water, shade, heat, storm damage, erosion, private diversions and temporary closures.
 
+## Route Profiles
+
+Gigaro - Cap Lardier - Cap Taillat is the nature classic: protected landscape, coastal feeling and a full day if conditions are right. Fort-Freinet is the heritage alternative, with an official warning about steep access. Saint-Tropez - Tahiti is lighter coastal context rather than a summer heat challenge. Cap Camarat - Cap Taillat remains a sensitive research concept until official geometry and access are checked.
+
+## Gear and Season
+
+Bring water, sun protection, grippy shoes, offline map, charged phone and a wind layer. Spring, early summer and autumn are better than peak summer for most routes.
+
 ## Personal Recommendation
 
 Choose Gigaro - Cap Lardier - Cap Taillat for nature when conditions are good; Fort-Freinet for heritage and height; Saint-Tropez - Tahiti only as lighter coastal context. Start early and carry water.

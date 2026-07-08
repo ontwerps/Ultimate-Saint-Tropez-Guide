@@ -29,6 +29,14 @@ Research lead only until primary source, opening hours, tasting rules and access
 
 Separate fresh rosé for beach or picnic, white for fish or shellfish and more serious rosé for restaurant-level meals. Do not connect wine stops to bike rides without a sober plan.
 
+## How Wine Fits the Guide
+
+Wine is a layer connecting villages, beaches and lunches, not a separate checklist. Château Minuty is the first anchor because current source material describes visit formats, hours and prices. Use it around Gassin, Ramatuelle or Pampelonne, not during a sporting day.
+
+## Buying for the Stay
+
+Do not leave bottles in a hot car for hours. Buy near the end of the day or carry cooling space.
+
 ## Responsibility
 
 Alcohol guidance must stay practical and restrained. No route should normalize drinking and driving or drinking with sport.

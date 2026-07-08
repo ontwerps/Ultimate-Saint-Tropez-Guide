@@ -46,6 +46,31 @@ De eerste GPX-bestanden staan in `assets/gpx/`. Dit zijn control-tracks voor ond
 - De route Port Grimaud - Fréjus is gekoppeld aan V65/Parcours Cyclable du Littoral-bronnen, maar de exacte geometrie en eventuele onderbrekingen moeten nog tegen officiële routebestanden worden gecontroleerd.
 - De Gassin - Ramatuelle - Pampelonne-loop is een gidsconcept voor racefietsers en vraagt lokale beoordeling van verkeersdrukte, hellingen, stopplaatsen en veiligheid.
 
+## Routeprofielen
+
+### Prairies de la Mer - Port Grimaud - Sainte-Maxime
+
+Dit is de beste eerste rit. De afstand is overzichtelijk, het doel is duidelijk en je leert meteen hoe kruisingen, strandverkeer en fietspaden voelen. Gebruik deze route om te beslissen of je later langere kuststukken wilt rijden. Voor gezinnen en e-bikes is dit de meest bruikbare test.
+
+### Port Grimaud - Sainte-Maxime - Fréjus
+
+Deze route hoort bij de bredere V65/Parcours Cyclable du Littoral-context. Hij is interessanter voor ervaren fietsers en routeplanners dan voor spontane strandfietsers. Controleer officiële geometrie en eventuele onderbrekingen voordat je hem als navigatie gebruikt. Neem tijd voor Sainte-Maxime, Les Issambres en Saint-Aygulf als rustpunten.
+
+### Gassin - Ramatuelle - Pampelonne
+
+Dit is de sportiefste gidslus: mooier, heuvelachtiger en verkeerstechnisch gevoeliger. Hij past bij racefietsers die vroeg vertrekken, hitte vermijden en niet bang zijn voor gemengd verkeer. Gebruik hem niet als gezinsroute en niet als wijn/strandclub-combinatie.
+
+## Fietsen per type
+
+- Trekking: korte kuststukken, boodschappen, Port Grimaud, Sainte-Maxime.
+- E-bike: dorpen en lichte hoogteverschillen, mits veilige stallingsplekken.
+- Race: Gassin/Ramatuelle vroeg, nooit op piekmomenten.
+- Gravel: alleen met gecontroleerde ondergrond; deze gids heeft nog geen volwaardige gravelroutes.
+
+## Stopstrategie
+
+Stop vóór je dorst hebt. In zomerhitte zijn waterpunten, schaduw en veilige oversteekplaatsen belangrijker dan gemiddelde snelheid. Combineer fietsen niet met alcoholproeverijen zonder nuchtere bestuurder of volledig alcoholvrij plan.
+
 ## Importregels
 
 - Lokale GPX-bestanden horen onder `assets/gpx/`.

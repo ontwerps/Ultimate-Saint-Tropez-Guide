@@ -40,6 +40,21 @@ Partez tôt, prenez de l'eau et évitez les pics de chaleur. Gigaro - Cap Lardie
 
 Laissez une réservation guider la journée: dîner gastronomique, déjeuner plage ou expérience vin. Construisez le reste autour et gardez conduite, vélo et retour sobres.
 
+## Exemples complets
+
+- Premier jour sans stress: base, courses, plage, Port Grimaud, dîner simple.
+- Saint-Tropez classique: parking tôt ou bateau, port, vieille ville, Citadelle, pâtisserie.
+- Pampelonne luxe: déjeuner ou plage réservé, un secteur, après-midi légère.
+- Nord confort: La Nartelle ou plages de Sainte-Maxime quand Pampelonne pèse trop.
+- Villages et vues: Grimaud puis Gassin ou Ramatuelle tard, pas tout à la fois.
+- Côte nature: Gigaro ou Escalet tôt, eau et ombre.
+- Pluie ou mistral: village, pâtisserie, culture, caveau ou Domaine du Rayol.
+- Soirée gastronomique: journée légère, repos, tenue, dîner comme événement principal.
+
+## Arbre de décision
+
+Iconique: Saint-Tropez ou Pampelonne. Facile: Port Grimaud, La Nartelle ou Cavalaire. Vues: Gassin, Ramatuelle ou Grimaud. Nature: Gigaro, Escalet, Domaine du Rayol ou Fort-Freinet. Luxe: La Vague d'Or, La Réserve ou Pampelonne.
+
 ## Vérification
 
 Les journées deviennent définitives seulement lorsque restaurants, routes, parkings et horaires sous-jacents sont vérifiés.

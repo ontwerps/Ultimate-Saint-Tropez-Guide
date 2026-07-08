@@ -16,6 +16,10 @@ La base documentaire confirme Port Grimaud comme cité lacustre de Grimaud, con�
 
 Restez sur les cheminements publics et respectez les zones privées ou réglementées.
 
+## Caractère
+
+Port Grimaud n'est pas un ancien village de pêcheurs; c'est une cité lacustre conçue. C'est précisément son intérêt. Jugez-la par l'usage: marche facile, lumière sur l'eau, canaux, ponts, perspective bateau et lien simple avec Prairies de la Mer.
+
 ## Meilleur moment
 
 - Tôt: marche plus calme et meilleure lumière.
@@ -29,6 +33,10 @@ Utilisez Port Grimaud comme point de stationnement clair si vous ne venez pas à
 ## Marche
 
 Boucle simple: parking visiteurs ou Prairies de la Mer, Place du Marché, église Saint-François d'Assise depuis l'espace public, ponts et canaux, bord de l'eau ou point bateau, puis retour par les commerces.
+
+## Demi-journée
+
+Arrivez tôt ou en fin d'après-midi. Faites place centrale, église, ponts et bord de l'eau avant café, glace ou petit bateau. Ne pressez pas la visite: photos, enfants et terrasses ralentissent naturellement.
 
 ## Coûts
 
